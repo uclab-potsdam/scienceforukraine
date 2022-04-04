@@ -51,6 +51,7 @@ export default {
     color: var(--background);
     padding: var(--spacing);
     text-align: right;
+    cursor: pointer;
   }
   .item {
     padding: var(--spacing);
