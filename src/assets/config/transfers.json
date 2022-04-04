@@ -19,18 +19,43 @@
         "Unspecified"
       ],
       "type": "radio"
+    },{
+      "label": "level",
+      "options": "columns",
+      "columns": ["Colleges" ,"Bachelor's" ,"Master's" ,"Higher professional" ,"PhD courses"],
+      "type": "radio"
+    },{
+      "label": "mode",
+      "options": "columns",
+      "columns": ["Face-to-face", "Remote"],
+      "type": "radio"
+    },{
+      "label": "enrolment",
+      "options": "columns",
+      "columns": ["Enrolment in standard programm ", "Enrolment in selected courses only"],
+      "type": "radio"
+    },{
+      "label": "support",
+      "options": "columns",
+      "columns": ["Temporary tuition waiver?", "Third country nationals", "Accommodation", "Language courses", "Scholarship", "Other"],
+      "type": "checkbox"
     }
   ],
   "mappings": {
     "title": "Institution",
     "meta": ["Country", "ID"],
-    "id": "ID"
+    "id": "ID",
+    "mail": "Contact e-mail",
+    "web": "Link to the website"
   },
   "fields": [{
-    "label": "research focus",
-    "column": "Research focus"
-  }, {
     "label": "description",
     "column": "Description"
+  }, {
+    "label": "support period",
+    "column": "Support period"
+  }, {
+    "label": "additional support",
+    "column": "Further support"
   }]
 }
