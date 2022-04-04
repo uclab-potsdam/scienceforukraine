@@ -1,6 +1,6 @@
 <template>
   <div class="the-filter">
-    <div class="filter" v-for="(f, i) in store.filters" :key="i">
+    <div class="filter" v-for="(f) in store.filters" :key="f.label">
       <div class="label">{{f.label}}</div>
       <component :is="`input-${f.type}`" :id="f.id" :options="f.options" v-model="store.filter[f.id]"/>
     </div>
