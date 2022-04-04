@@ -1,29 +1,36 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <a href="https://scienceforukraine.eu" class="title"><h1>#ScienceForUkraine</h1></a>
+    <router-link to="/transfers">Student Transfers</router-link>
+    <router-link to="/positions">Research Positions</router-link>
   </nav>
-  <router-view/>
+  <router-view :key="$route.name"/>
 </template>
 
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+@import "@/assets/style/base";
+</style>
 
+<style scoped lang="scss">
 nav {
-  padding: 30px;
-
+  // border-bottom: 1px solid var(--accent-2);
+  // border-right: 1px solid var(--accent-2);
+  display: flex;
+  margin-bottom: var(--spacing-l);
+  // gap: var(--spacing-l);
+  // padding: 0 var(--spacing);
   a {
-    font-weight: bold;
-    color: #2c3e50;
+    padding: var(--spacing) var(--spacing);
+    display: block;
+    color: var(--text);
 
-    &.router-link-exact-active {
-      color: #42b983;
+    &.router-link-active {
+      color: var(--accent-1)
+    }
+
+    &.title {
+      background: var(--accent-2);
+      color: var(--accent-1)
     }
   }
 }

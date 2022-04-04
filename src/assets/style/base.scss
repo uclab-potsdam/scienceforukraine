@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+  src: url("~@/assets/fonts/Inter-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+  src: url("~@/assets/fonts/Inter-Bold.woff2") format("woff2");
+}
+
+:root {
+  --narrow: 360px;
+  --medium: 720px;
+  --wide: 1080px;
+
+  --spacing: 10px;
+  --spacing-xs: 2.5px;
+  --spacing-s: 5px;
+  --spacing-m: var(--spacing);
+  --spacing-l: 20px;
+  --spacing-xl: 40px;
+
+  --font-family: "Inter", sans-serif;
+  --font-size: 16px;
+  --font-size-s: 12px;
+  --font-size-l: 20px;
+
+  --regular: 400;
+  --bold: 600;
+
+  --text: #000;
+  --light-text: #ACACAC;
+  --background: #FFF;
+  // --muted: #BBB;
+  --accent-1: #0066CC;
+  --accent-2: #FFCC00;
+}
+
+html {
+  font: var(--regular) var(--font-size)/1.25 var(--font-family);
+  box-sizing: border-box;
+  background: var(--background);
+  color: var(--text);
+
+  ::selection {
+    background: var(--accent-2);
+  }
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  *, *:before, *:after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1, h2 {
+    font-size: 1em;
+    font-weight: 700;
+  }
+
+  h3 {
+    font-size: var(--font-size-s);
+    font-weight: 400;
+  }
+
+  a {
+    color: var(--accent-1);
+    text-decoration: none;
+  }
+
+  #app {
+    width: var(--wide);
+    max-width: 100vw;
+  }
+}

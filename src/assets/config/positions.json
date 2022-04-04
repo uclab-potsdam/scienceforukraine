@@ -1,0 +1,56 @@
+{
+  "filters": [
+    {
+      "label": "country",
+      "options": "values",
+      "column": "Country",
+      "type": "list"
+    },
+    {
+      "label": "open for",
+      "options": "columns",
+      "columns": ["Researchers", "Students", "Others"],
+      "type": "radio"
+    },
+    {
+      "label": "discipline",
+      "options": "columns",
+      "columns": [
+        "Natural sciences",
+        "Social sciences",
+        "Humanities and the arts",
+        "Engineering and technology",
+        "Medical and health sciences",
+        "Agricultural and veterinary sciences",
+        "Unspecified"
+      ],
+      "type": "radio"
+    },
+    {
+      "label": "support",
+      "options": "columns",
+      "columns": ["Accommodation", "Funding", "Remote work", "Other"],
+      "type": "checkbox"
+    }
+  ],
+  "mappings": {
+    "title": "Institution",
+    "meta": ["Country", "ID"],
+    "id": "ID",
+    "mail": "Contact",
+    "web": "Link"
+  },
+  "fields": [{
+    "label": "research focus",
+    "column": "Research focus"
+  }, {
+    "label": "description",
+    "column": "Description"
+  }, {
+    "label": "support period",
+    "column": "Support period"
+  }, {
+    "label": "additional support",
+    "column": "Additional support"
+  }]
+}
