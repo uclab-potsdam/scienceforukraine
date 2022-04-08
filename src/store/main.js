@@ -22,7 +22,7 @@ export const useMainStore = defineStore('main', {
   },
   actions: {
     async setMode (mode) {
-      const entries = csvParse(await fetch(`/${mode}.csv`).then(res => res.text()))
+      const entries = csvParse(await fetch(`https://ft0.ch/sfu/${mode}.csv`).then(res => res.text()))
       const config = mode === 'positions' ? configPositions : configTransfers
       this.filters = config.filters.map(f => {
         return {
