@@ -29,7 +29,7 @@
     {
       "label": "support",
       "options": "columns",
-      "columns": ["Accommodation", "Funding", "Remote work", "Other"],
+      "columns": ["Accommodation", "Funding", "Remote work", "General funding scheme", "Other"],
       "type": "checkbox"
     }
   ],
