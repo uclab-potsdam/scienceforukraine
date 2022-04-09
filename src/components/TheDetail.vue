@@ -9,7 +9,7 @@
       </div>
       <h2 class="title">{{item.title}}</h2>
       <div class="links">
-        <a :href="item.web">{{ item.web.replace(/^https?:\/\//, '').replace(/\/$/, '') }}</a>
+        <a :href="item.web">{{ item.web?.replace(/^https?:\/\//, '').replace(/\/$/, '') }}</a>
         <a :href="`mailto:${item.mail}`">{{ item.mail }}</a>
       </div>
       <div class="fields">
