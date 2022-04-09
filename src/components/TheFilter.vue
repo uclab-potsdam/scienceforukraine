@@ -1,5 +1,8 @@
 <template>
   <div class="the-filter">
+    <div class="filter">
+    <input-text v-model="store.query" placeholder="Search"/>
+    </div>
     <div class="filter" v-for="(f) in store.filters" :key="f.label">
       <div class="label">{{f.label}}</div>
       <component :is="`input-${f.type}`" :id="f.id" :options="f.options" v-model="store.filter[f.id]"/>
@@ -12,8 +15,9 @@ import { useMainStore } from '@/store/main'
 import InputRadio from './InputRadio.vue'
 import InputCheckbox from './InputCheckbox.vue'
 import InputList from './InputList.vue'
+import InputText from './InputText.vue'
 export default {
-  components: { InputRadio, InputCheckbox, InputList },
+  components: { InputRadio, InputCheckbox, InputList, InputText },
   name: 'TheFilter',
   setup () {
     const store = useMainStore()

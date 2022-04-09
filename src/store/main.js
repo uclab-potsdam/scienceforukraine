@@ -1,4 +1,4 @@
-import { defineStore } from 'pinia'
+import { defineStore, acceptHMRUpdate } from 'pinia'
 import { csvParse } from 'd3-dsv'
 
 import configPositions from '@/assets/config/positions'
@@ -8,12 +8,15 @@ export const useMainStore = defineStore('main', {
   state: () => ({
     entries: [],
     filters: [],
-    filter: {}
+    filter: {},
+    query: ''
   }),
   getters: {
     filtered: state => {
+      const query = state.query.toLowerCase()
       return state.entries.filter(d =>
-        state.filters.every(({ id }) => state.filter[id] == null || state.filter[id] === d[id] || d[id][state.filter[id]])
+        state.filters.every(({ id }) => state.filter[id] == null || state.filter[id] === d[id] || d[id][state.filter[id]]) &&
+        (query === '' || new RegExp(`^${query}`).test(d.content) || new RegExp(`\\s${query}`).test(d.content))
       )
     },
     getItem: (state) => {
@@ -54,7 +57,8 @@ export const useMainStore = defineStore('main', {
               : d[f.column]
             return [dash(f.label), value]
           })),
-          fields: config.fields.map(({ label, column }) => ({ label, value: d[column]?.split('\\n') }))
+          fields: config.fields.filter(f => !f.hidden).map(({ label, column }) => ({ label, value: d[column]?.split('\\n') })),
+          content: config.fields.map(({ column }) => d[column].toLowerCase()).join(' ')
         }
       }).sort((a, b) => {
         return +a.id.slice(1) < +b.id.slice(1) ? 1 : -1
@@ -65,4 +69,8 @@ export const useMainStore = defineStore('main', {
 
 function dash (str) {
   return str.toLowerCase().replace(/ /g, '-')
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept(acceptHMRUpdate(useMainStore, import.meta.webpackHot))
 }

@@ -57,5 +57,8 @@
   }, {
     "label": "additional support",
     "column": "Further support"
+  }, {
+    "column": "Institution",
+    "hidden": true
   }]
 }
