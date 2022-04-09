@@ -57,7 +57,10 @@ export const useMainStore = defineStore('main', {
               : d[f.column]
             return [dash(f.label), value]
           })),
-          fields: config.fields.filter(f => !f.hidden).map(({ label, column }) => ({ label, value: d[column]?.split('\\n') })),
+          fields: [
+            ...config.fields.filter(f => !f.hidden).map(({ label, column }) => ({ label, value: d[column]?.split('\\n') })),
+            ...config.filters.filter(f => f.options === 'columns').map(({ label, columns }) => ({ label, detail: true, value: [columns.filter(c => d[c] !== '').map(c => c.trim()).join(', ')] }))
+          ],
           content: config.fields.map(({ column }) => d[column].toLowerCase()).join(' ')
         }
       }).sort((a, b) => {

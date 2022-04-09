@@ -6,7 +6,7 @@
       </div>
       <h2 class="title">{{item.title}}</h2>
       <div class="fields">
-        <div v-for="(f, i) in item.fields.filter(f => f.value != null && f.value[0] !== '')" :key="i" class="field">
+        <div v-for="(f, i) in item.fields.filter(f => f.value != null && f.value[0] !== '' && f.detail !== true)" :key="i" class="field">
           <h3>{{f.label}}</h3>
           <p>
             <template v-for="(v, i) in f.value" :key="i">
