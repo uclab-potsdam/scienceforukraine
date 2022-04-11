@@ -42,11 +42,13 @@ export default {
 .list {
   display: flex;
   flex-direction: column;
-  gap: var(--spacing);
+  // gap: var(--spacing);
   .item {
-    padding: var(--spacing);
-    border: 1px solid var(--text);
+    padding: var(--spacing) 0;
+    margin: 0 var(--spacing);
+    // border: 1px solid var(--text);
     color: inherit;
+    border-top: 1px solid var(--text);
 
     .top {
       display: flex;

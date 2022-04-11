@@ -1,7 +1,7 @@
 <template>
   <div class="text">
     <input type="text" :value="modelValue" :placeholder="placeholder" @keyup="$emit('update:modelValue', $event.target.value)">
-    <div v-if="modelValue" class="clear" @click="$emit('update:modelValue', '')">✕</div>
+    <div v-if="modelValue" class="clear" @click="$emit('update:modelValue', '')">×</div>
   </div>
 </template>
 
