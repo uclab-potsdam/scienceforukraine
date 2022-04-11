@@ -37,7 +37,7 @@
     },{
       "label": "support",
       "options": "columns",
-      "columns": ["Temporary tuition waiver?", "Third country nationals", "Accommodation", "Language courses", "Scholarship", "Other"],
+      "columns": ["Temporary tuition waiver", "Third country nationals", "Accommodation", "Language courses", "Scholarship", "Other"],
       "type": "checkbox"
     }
   ],
