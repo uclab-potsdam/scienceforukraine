@@ -1,8 +1,8 @@
 <template>
-  <div class="radio">
+  <div class="checkbox">
     <label>
       {{ label }}
-      <input type="checkbox" :name="id"
+      <input type="checkbox"
         :value="null" :checked="null === modelValue"
         @change="$emit('update:modelValue', $event.target.checked)">
     </label>
@@ -11,13 +11,13 @@
 
 <script>
 export default {
-  name: 'InputRadio',
+  name: 'InputToggle',
   props: ['label', 'modelValue']
 }
 </script>
 
 <style scoped lang="scss">
-.radio {
+.checkbox {
   display: flex;
   gap: var(--spacing-s);
   flex-wrap: wrap;
