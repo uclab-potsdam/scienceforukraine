@@ -10,7 +10,7 @@
       "label": "discipline",
       "options": "columns",
       "columns": [
-        "Natural sciences",
+        "Natural Sciences",
         "Social sciences",
         "Humanities and the arts",
         "Engineering and technology",
@@ -32,7 +32,7 @@
     },{
       "label": "enrolment",
       "options": "columns",
-      "columns": ["Enrolment in standard programm ", "Enrolment in selected courses only"],
+      "columns": ["Enrolment in standard programm", "Enrolment in selected courses only"],
       "type": "radio"
     },{
       "label": "support",
