@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  name: 'InputRadio',
+  name: 'InputList',
   props: ['id', 'options', 'modelValue']
 }
 </script>
