@@ -47,6 +47,9 @@
     "label": "description",
     "column": "Description"
   }, {
+    "label": "application deadline",
+    "column": "Application deadline"
+  }, {
     "label": "support period",
     "column": "Support period"
   }, {
@@ -54,6 +57,9 @@
     "column": "Additional support"
   }, {
     "column": "Institution",
+    "hidden": true
+  }, {
+    "column": "ID",
     "hidden": true
   }]
 }

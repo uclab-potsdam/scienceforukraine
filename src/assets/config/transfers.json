@@ -60,5 +60,8 @@
   }, {
     "column": "Institution",
     "hidden": true
+  }, {
+    "column": "ID",
+    "hidden": true
   }]
 }
