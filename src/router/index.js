@@ -23,7 +23,12 @@ const routes = [
   {
     path: '/help',
     name: 'help',
-    component: () => import(/* webpackChunkName: "help" */ '../views/PageView.vue')
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
+  {
+    path: '/team',
+    name: 'team',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
   }
 ]
 

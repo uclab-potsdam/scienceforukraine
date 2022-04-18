@@ -23,7 +23,7 @@
       <div class="nav-group">about</div>
       <router-link @click="expanded = false" to="/help">Science for Ukraine</router-link>
       <router-link @click="expanded = false" to="/help">How You Can Help</router-link>
-      <router-link @click="expanded = false" to="/help">Team & Contact</router-link>
+      <router-link @click="expanded = false" to="/team">Team & Contact</router-link>
       <router-link @click="expanded = false" to="/help">Our Partners</router-link>
       <router-link @click="expanded = false" to="/help">Press</router-link>
       <router-link @click="expanded = false" to="/help">Funding programmes and further support</router-link>
