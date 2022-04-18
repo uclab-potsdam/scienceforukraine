@@ -11,20 +11,19 @@ const routes = [
   {
     path: '/positions/:id?',
     name: 'positions',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/EntriesView.vue'),
+    component: () => import(/* webpackChunkName: "positions" */ '../views/EntriesView.vue'),
     props: { mode: 'positions' }
   },
   {
     path: '/transfers/:id?',
     name: 'transfers',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/EntriesView.vue'),
+    component: () => import(/* webpackChunkName: "transfers" */ '../views/EntriesView.vue'),
     props: { mode: 'transfers' }
+  },
+  {
+    path: '/help',
+    name: 'help',
+    component: () => import(/* webpackChunkName: "help" */ '../views/PageView.vue')
   }
 ]
 

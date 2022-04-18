@@ -42,13 +42,17 @@ export default {
 .list {
   display: flex;
   flex-direction: column;
+  // border-left: var(--spacing-xs) solid var(--light-gray);
   // gap: var(--spacing);
   .item {
-    padding: var(--spacing) 0;
-    margin: 0 var(--spacing);
+    padding: var(--spacing);
+    // margin: 0 var(--spacing);
     // border: 1px solid var(--text);
     color: inherit;
-    border-top: 1px solid var(--text);
+
+    &+.item {
+      border-top: var(--spacing-xs) solid var(--light-gray);
+    }
 
     .top {
       display: flex;
@@ -59,10 +63,12 @@ export default {
 
     .title {
       margin-bottom: var(--spacing);
+      color: var(--accent-1);
     }
 
     &:hover {
-      border-color: var(--accent-1);
+      // border-color: var(--accent-1);
+      background-color: var(--pale-gray);
 
       .title {
         color: var(--accent-1);
