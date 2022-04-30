@@ -4,9 +4,9 @@
 
 There are a variety of ways in which you can help and even the smallest support makes a difference. We include listings that relate to *paid positions* or other forms of support that normally *costs money* and which are dedicated to scholars and students affiliated to an academic institution in Ukraine. Examples include:
 
-- Fellowship/scholarship
+- Fellowship/scholarship, including non-residential fellowships
 - Research visit
-- Part time/full time employment
+- Part time/full time employment, including remote work opportunities
 - Accommodation in a dormitory or institution guest quarters
 - Support for accompanying family members
 - Office space
