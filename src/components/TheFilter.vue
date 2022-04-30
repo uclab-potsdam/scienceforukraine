@@ -40,7 +40,6 @@ export default {
 .the-filter {
   display: flex;
   flex-direction: column;
-  padding: 0 var(--spacing);
   gap: var(--spacing-l);
 
   .filter {

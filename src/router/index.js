@@ -11,13 +11,13 @@ const routes = [
   {
     path: '/positions/:id?',
     name: 'positions',
-    component: () => import(/* webpackChunkName: "positions" */ '../views/EntriesView.vue'),
+    component: () => import(/* webpackChunkName: "positions" */ '../views/ListingsView.vue'),
     props: { mode: 'positions' }
   },
   {
     path: '/transfers/:id?',
     name: 'transfers',
-    component: () => import(/* webpackChunkName: "transfers" */ '../views/EntriesView.vue'),
+    component: () => import(/* webpackChunkName: "transfers" */ '../views/ListingsView.vue'),
     props: { mode: 'transfers' }
   },
   {

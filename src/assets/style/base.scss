@@ -1,23 +1,25 @@
-// @font-face {
-//   font-family: 'Inter';
-//   font-weight: 400;
-//   font-display: swap;
-//   font-style: normal;
-//   src: url("~@/assets/fonts/Inter-Regular.woff2") format("woff2");
-// }
+@font-face {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+  src: url("~@/assets/fonts/Inter-Regular.woff2") format("woff2");
+}
 
-// @font-face {
-//   font-family: 'Inter';
-//   font-weight: 700;
-//   font-display: swap;
-//   font-style: normal;
-//   src: url("~@/assets/fonts/Inter-Bold.woff2") format("woff2");
-// }
+@font-face {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+  src: url("~@/assets/fonts/Inter-Bold.woff2") format("woff2");
+}
 
 :root {
   --narrow: 360px;
   --medium: 720px;
   --wide: 1080px;
+
+  --max-width: 1280px;
 
   --spacing: 10px;
   --spacing-xs: 2.5px;
@@ -27,7 +29,7 @@
   --spacing-xl: 40px;
   --spacing-xxl: 60px;
 
-  --font-family: sans-serif;
+  --font-family: 'Inter', sans-serif;
   --font-size: 16px;
   --font-size-s: 12px;
   --font-size-l: 20px;
@@ -42,8 +44,10 @@
   --pale-gray: #F1F4F7;
   --light-gray: #E1E8EE;
   // --muted: #BBB;
-  --accent-1: #0066CC;
-  --accent-2: #FFCC00;
+  --accent-1: #0057B7;
+  --accent-2: #FFD700;
+
+  --transition: .2s;
 }
 
 html {
@@ -85,4 +89,24 @@ html {
   //   width: var(--wide);
   //   max-width: 100vw;
   // }
+
+  .max-width {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+
+    > .max-width-inner {
+      width: 100%;
+      max-width: var(--max-width);
+    }
+  }
+
+  .leaflet-pane {
+    z-index: 40;
+  }
+  .leaflet-control-container {
+    > * {
+      z-index: 45;
+    }
+  }
 }

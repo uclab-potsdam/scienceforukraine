@@ -28,19 +28,18 @@ export const useMainStore = defineStore('main', {
       const entries = csvParse(await fetch(`https://ft0.ch/sfu/${mode}.csv`).then(res => res.text()))
       const config = mode === 'positions' ? configPositions : configTransfers
       this.filters = config.filters.map(f => {
+        const options = f.options === 'columns'
+          ? f.columns
+          : [...new Set(entries.map(d => d[f.column]))]
+              .sort((a, b) => a.toLowerCase() < b.toLowerCase() ? -1 : 1)
         return {
           id: dash(f.label),
           label: f.label,
           type: f.type,
-          options: f.options === 'columns'
-            ? f.columns
-            : [...new Set(entries.map(d => d[f.column]))].sort((a, b) => {
-                if (a.toLowerCase() < b.toLowerCase()) {
-                  return -1 // nameA comes first
-                } else {
-                  return 1
-                }
-              })
+          options: [
+            ...['radio', 'list'].includes(f.type) ? [{ label: 'Any', value: null }] : [],
+            ...options
+          ]
         }
       })
       this.filter = Object.fromEntries(this.filters.map(d => [d.id, null]))
@@ -61,7 +60,8 @@ export const useMainStore = defineStore('main', {
             ...config.fields.filter(f => !f.hidden).map(({ label, column }) => ({ label, value: d[column]?.split('\\n') })),
             ...config.filters.filter(f => f.options === 'columns').map(({ label, columns }) => ({ label, detail: true, value: [columns.filter(c => d[c] !== '').map(c => c.trim()).join(', ')] }))
           ],
-          content: config.fields.map(({ column }) => d[column].toLowerCase()).join(' ')
+          content: config.fields.map(({ column }) => d[column].toLowerCase()).join(' '),
+          coords: [+d.lat, +d.lng]
         }
       }).sort((a, b) => {
         return +a.id.slice(1) < +b.id.slice(1) ? 1 : -1

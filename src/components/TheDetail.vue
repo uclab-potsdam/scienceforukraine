@@ -1,6 +1,6 @@
 <template>
   <div class="the-detail">
-    <header @click="$router.go({ name: mode })">
+    <header @click="$router.go({ name: mode, params: {}})">
       ✕
     </header>
     <div class="item">

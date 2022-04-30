@@ -1,16 +1,10 @@
 <template>
-  <div class="radio">
-    <label>
-      <input type="radio" :name="id"
-        :value="null" :checked="null === modelValue"
-        @change="$emit('update:modelValue', null)">
-      <span>Any</span>
-    </label>
+  <div class="radio" :class="{ segmented, yellow }">
     <label v-for="(o, i) in options" :key="i">
       <input type="radio" :name="id"
-        :value="o" :checked="o === modelValue"
-        @change="$emit('update:modelValue', o)">
-      <span>{{ o || 'Unspecified' }}</span>
+        :value="o.value !== undefined ? o.value : o" :checked="(o.value !== undefined ? o.value : o) === modelValue"
+        @change="$emit('update:modelValue', o.value !== undefined ? o.value : o)">
+      <span>{{ (o.label || o).replace(/ and /ig, ' & ') }}</span>
     </label>
   </div>
 </template>
@@ -18,7 +12,7 @@
 <script>
 export default {
   name: 'InputRadio',
-  props: ['id', 'options', 'modelValue']
+  props: ['id', 'options', 'modelValue', 'segmented', 'yellow']
 }
 </script>
 
@@ -27,6 +21,14 @@ export default {
   display: flex;
   gap: var(--spacing-s);
   flex-wrap: wrap;
+
+  --tint: var(--accent-1);
+  --active-text: var(--background);
+  &.yellow {
+    --tint: var(--accent-2);
+    --active-text: var(--text);
+  }
+
   label {
     display: block;
     input {
@@ -36,18 +38,55 @@ export default {
         min-width: 40px;
         display: inline-flex;
         justify-content: center;
-        padding: var(--spacing-s) var(--spacing);
-        // background: var(--dimmed);
-        border: 1px solid var(--accent-2);
-        height: 32px;
-        border-radius: 16px;
-        // font-size: var(--font-size-s);
+        align-items: center;
+        padding: var(--spacing-s) var(--spacing-s);
+        background: var(--background);
+        border: 1px solid var(--tint);
+        height: 30px;
+        border-radius: var(--spacing-s);
+        font-size: var(--font-size-s);
+        transition: background var(--transition);
+        cursor: pointer;
+        text-transform: capitalize;
+
+        &:hover {
+          background: var(--pale-gray);
+        }
       }
 
       &:checked + span {
-        background: var(--accent-1);
-        color: var(--background);
-        border: 1px solid var(--accent-1)
+        background: var(--tint);
+        color: var(--active-text);
+        // border: 1px solid var(--tint)
+      }
+    }
+  }
+
+  &.segmented {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+    gap: 0;
+    label {
+      input {
+        + span {
+          border-radius: 0;
+          width: 100%;
+        }
+      }
+      &:first-child {
+        input {
+          + span {
+            border-radius: var(--spacing-s) 0 0 var(--spacing-s);
+          }
+        }
+      }
+      &:last-child {
+        input {
+          + span {
+            border-radius: 0 var(--spacing-s) var(--spacing-s) 0;
+          }
+        }
       }
     }
   }
