@@ -23,6 +23,7 @@ export default {
   flex-wrap: wrap;
   label {
     display: block;
+    font-size: var(--font-size-s);
     // input {
     //   appearance: none;
     //   outline: none;

@@ -9,10 +9,25 @@ export const useMainStore = defineStore('main', {
     entries: [],
     filters: [],
     filter: {},
-    query: ''
+    filterByMapExtent: false,
+    query: '',
+    view: 'list',
+    bounds: {}
   }),
   getters: {
-    filtered: state => {
+    filtered: (state) => {
+      const filterByMapExtent = state.filterByMapExtent || state.view === 'map'
+      const query = state.query.toLowerCase()
+      console.log(state.bounds.east > state.bounds.west, state.bounds.west, state.bounds.east)
+      return state.entries.filter(d =>
+        (state.filters.every(({ id }) => state.filter[id] == null || state.filter[id] === d[id] || d[id][state.filter[id]])) &&
+        (query === '' || new RegExp(`^${query}`).test(d.content) || new RegExp(`\\s${query}`).test(d.content)) &&
+        (!filterByMapExtent || (state.bounds.north > d.coords[0] && state.bounds.south < d.coords[0] && (
+          state.bounds.east > state.bounds.west ? (d.coords[1] < state.bounds.east && d.coords[1] > state.bounds.west) : (d.coords[1] < state.bounds.east || d.coords[1] > state.bounds.west)
+        )))
+      )
+    },
+    filteredForMap: state => {
       const query = state.query.toLowerCase()
       return state.entries.filter(d =>
         state.filters.every(({ id }) => state.filter[id] == null || state.filter[id] === d[id] || d[id][state.filter[id]]) &&

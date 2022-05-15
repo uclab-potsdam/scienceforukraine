@@ -6,19 +6,26 @@
         <router-link :to="{ name:'positions' }">Research Positions</router-link>
       </nav>
       <the-filter/>
+      <template v-if="store.view === 'list'">
+        <input-toggle class="map-filter" label="filter results by map extent" v-model="store.filterByMapExtent" />
+        <div class="options-map" :class="{ disabled: !store.filterByMapExtent }">
+          <the-map :mode="mode" key="map" :mini="true"/>
+        </div>
+
+      </template>
     </div>
-    <div class="list" v-if="view === 'list'">
+    <div class="list" v-if="store.view === 'list'">
       <the-list :mode="mode"/>
     </div>
-    <the-map v-else :mode="mode"/>
+    <the-map v-else :mode="mode" key="map" :mini="false"/>
   </div>
   <div class="max-width-inner toggle-view">
-    <input-radio id="toggle-view" :segmented="true" :yellow="true" :options="[{label: 'LIST', value: 'list'}, {label: 'MAP', value: 'map'}]" v-model="view"/>
+    <input-radio id="toggle-view" :segmented="true" :yellow="true" :options="[{label: 'LIST', value: 'list'}, {label: 'MAP', value: 'map'}]" v-model="store.view"/>
   </div>
-  <div class="detail" v-if="$route.params.id" @click="$router.push({ name: mode })">
-    <div class="inner" @click="stopPropagation">
+  <div class="detail" v-if="$route.params.id" x-click="$router.push({ name: mode })">
+    <!-- <div class="inner" @click="stopPropagation"> -->
       <the-detail :mode="mode"/>
-    </div>
+    <!-- </div> -->
   </div>
 </template>
 
@@ -29,6 +36,7 @@ import TheList from '@/components/TheList.vue'
 
 import { useMainStore } from '@/store/main'
 import TheDetail from '@/components/TheDetail.vue'
+import InputToggle from '@/components/InputToggle.vue'
 import InputRadio from '@/components/InputRadio.vue'
 
 export default {
@@ -38,14 +46,15 @@ export default {
     TheMap,
     TheList,
     TheDetail,
+    InputToggle,
     InputRadio
   },
   props: ['mode'],
   data () {
     return {
       entries: [],
-      view: 'list',
-      modeProxy: this.mode
+      modeProxy: this.mode,
+      mapFilter: false
     }
   },
   setup () {
@@ -119,6 +128,20 @@ export default {
         }
       }
     }
+    .map-filter {
+      margin-top: var(--spacing-l);
+    }
+    .options-map {
+      height: 325px;
+      width: 100%;
+      position: relative;
+      margin-top: var(--spacing);
+
+      &.disabled {
+        pointer-events: none;
+        filter: grayscale(1);
+      }
+    }
   }
 }
 .toggle-view {
@@ -131,20 +154,21 @@ export default {
 }
 .detail {
   position: fixed;
-  top: 0;
+  top: calc (var(--spacing-xl) + var(--spacing));
+  // top: var(--spacing-xl);
   left: 0;
   height: 100%;
   width: 100%;
   background: rgba(255,255,255,0.8);
   z-index: 50;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  // justify-content: center;
+  // align-items: center;
 
-  .inner {
-    max-width: var(--medium);
-    max-height: 100%;
-    overflow: auto;
-  }
+  // .inner {
+  //   max-width: var(--medium);
+  //   max-height: 100%;
+  //   overflow: auto;
+  // }
 }
 </style>
