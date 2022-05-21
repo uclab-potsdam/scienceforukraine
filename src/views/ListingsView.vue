@@ -2,30 +2,28 @@
   <div class="listings max-width-inner">
     <div class="options">
       <nav class="mode">
-        <router-link :to="{ name:'transfers' }">Student Transfers</router-link>
-        <router-link :to="{ name:'positions' }">Research Positions</router-link>
+        <!-- <router-link :to="{ name:'transfers' }">Student Transfers</router-link>
+        <router-link :to="{ name:'positions' }">Research Positions</router-link> -->
       </nav>
       <the-filter/>
       <template v-if="store.view === 'list'">
-        <input-toggle class="map-filter" label="filter results by map extent" v-model="store.filterByMapExtent" />
+        <input-toggle class="map-filter" name="filter results by map extent" v-model="store.filterByMapExtent" />
         <div class="options-map" :class="{ disabled: !store.filterByMapExtent }">
-          <the-map :mode="mode" key="map" :mini="true"/>
+          <the-map key="map" :mini="true"/>
         </div>
 
       </template>
     </div>
     <div class="list" v-if="store.view === 'list'">
-      <the-list :mode="mode"/>
+      <the-list />
     </div>
-    <the-map v-else :mode="mode" key="map" :mini="false"/>
+    <the-map v-else key="map" :mini="false"/>
   </div>
   <div class="max-width-inner toggle-view">
-    <input-radio id="toggle-view" :segmented="true" :yellow="true" :options="[{label: 'LIST', value: 'list'}, {label: 'MAP', value: 'map'}]" v-model="store.view"/>
+    <input-radio :segmented="true" :yellow="true" :options="[{label: 'LIST', value: 'list'}, {label: 'MAP', value: 'map'}]" v-model="store.view"/>
   </div>
-  <div class="detail" v-if="$route.params.id" x-click="$router.push({ name: mode })">
-    <!-- <div class="inner" @click="stopPropagation"> -->
-      <the-detail :mode="mode"/>
-    <!-- </div> -->
+  <div class="detail" v-if="$route.params.id">
+    <the-detail/>
   </div>
 </template>
 
@@ -53,17 +51,12 @@ export default {
   data () {
     return {
       entries: [],
-      modeProxy: this.mode,
       mapFilter: false
     }
   },
   setup () {
     const store = useMainStore()
     return { store }
-  },
-  async mounted () {
-    this.modeProxy = this.mode
-    await this.store.setMode(this.mode)
   },
   methods: {
     stopPropagation (e) {

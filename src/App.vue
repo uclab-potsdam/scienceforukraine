@@ -6,12 +6,18 @@
 </template>
 <script>
 import TheNavigation from './components/TheNavigation.vue'
+import { useMainStore } from '@/store/main'
 export default {
   components: { TheNavigation },
+
   data () {
     return {
       expanded: false
     }
+  },
+  setup () {
+    const store = useMainStore()
+    store.init()
   }
 }
 </script>

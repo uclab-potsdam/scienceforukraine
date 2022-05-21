@@ -2,29 +2,31 @@
   <div class="the-detail">
     <header class="max-width">
       <div class="max-width-inner">
-        <span @click="$router.push({ name: mode })">← all {{ mode === 'positions' ? 'research positions' : 'student transfers' }}</span>
+        <span @click="$router.push({ name: 'home' })">← all submissions</span>
         <span>
-          <span @click="$router.push({ name: mode, params: {id: prev} })">← </span>
+          <span @click="$router.push({ name: 'detail', params: {id: prev} })">← </span>
           <span class="dimmed">{{index + 1}}/{{items.length}}</span>
-          <span @click="$router.push({ name: mode, params: {id: next} })">  →</span>
+          <span @click="$router.push({ name: 'detail', params: {id: next} })">  →</span>
         </span>
       </div>
     </header>
     <div class="item max-width">
       <div class="max-width-inner">
         <div class="top">
-          <span v-for="(m, i) in item.meta" :key="i">{{ m }}</span>
+          <span>{{ item.country }}</span>
+          <span>{{ item.id }}</span>
         </div>
-        <h2 class="title">{{item.title}}</h2>
+        <h2 class="title">{{item.institution}}</h2>
         <div class="links">
-          <a :href="item.web" target="_blank">{{ item.web?.replace(/^https?:\/\//, '').replace(/\/$/, '') }}</a>
-          <a :href="`mailto:${item.mail}`">{{ item.mail }}</a>
+          <a :href="item.link" target="_blank">{{ item.link?.replace(/^https?:\/\//, '').replace(/\/$/, '') }}</a>
+          <a :href="`mailto:${item.contact}`">contact</a>
         </div>
         <div class="fields">
-          <div v-for="(f, i) in item.fields" :key="i" class="field">
+          <p v-for="(paragraph, i) in item.description.split('\\n')" :key="i">{{ paragraph }}</p>
+          <!-- <div v-for="(f, i) in item.fields" :key="i" class="field">
             <h3>{{f.label}}</h3>
             <p v-for="(v, i) in f.value" :key="i">{{ v || '–' }}</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -36,7 +38,6 @@ import { useMainStore } from '@/store/main'
 
 export default {
   name: 'TheDetail',
-  props: ['mode'],
   setup () {
     const store = useMainStore()
     return { store }

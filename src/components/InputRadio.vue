@@ -1,10 +1,11 @@
 <template>
-  <div class="radio" :class="{ segmented, yellow }">
+  <div class="label" v-if="!hideLabel">{{name}}</div>
+  <div class="radio" :class="{ segmented, primary, yellow }">
     <label v-for="(o, i) in options" :key="i">
-      <input type="radio" :name="id"
+      <input type="radio" :name="name"
         :value="o.value !== undefined ? o.value : o" :checked="(o.value !== undefined ? o.value : o) === modelValue"
         @change="$emit('update:modelValue', o.value !== undefined ? o.value : o)">
-      <span>{{ (o.label || o).replace(/ and /ig, ' & ') }}</span>
+      <span>{{o.label || o}}</span>
     </label>
   </div>
 </template>
@@ -12,11 +13,17 @@
 <script>
 export default {
   name: 'InputRadio',
-  props: ['id', 'options', 'modelValue', 'segmented', 'yellow']
+  props: ['name', 'options', 'modelValue', 'segmented', 'yellow', 'primary', 'hideLabel']
 }
 </script>
 
 <style scoped lang="scss">
+.label {
+  color: var(--gray);
+  font-size: var(--font-size-s);
+  margin-bottom: var(--spacing-s);
+  text-transform: uppercase;
+}
 .radio {
   display: flex;
   gap: var(--spacing-s);
@@ -24,7 +31,7 @@ export default {
 
   --tint: var(--accent-1);
   --active-text: var(--background);
-  &.yellow {
+  &.yellow, &.primary {
     --tint: var(--accent-2);
     --active-text: var(--text);
   }
@@ -42,12 +49,12 @@ export default {
         padding: var(--spacing-s) var(--spacing-s);
         background: var(--background);
         border: 1px solid var(--tint);
-        height: 30px;
+        height: 25px;
         border-radius: var(--spacing-s);
         font-size: var(--font-size-s);
         transition: background var(--transition);
         cursor: pointer;
-        text-transform: capitalize;
+        // text-transform: capitalize;
 
         &:hover {
           background: var(--pale-gray);

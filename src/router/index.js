@@ -5,21 +5,16 @@ const routes = [
   {
     path: '/',
     name: 'home',
-    redirect: 'transfers'
+    // redirect: 'transfers'
     // component: HomeView
+    component: () => import(/* webpackChunkName: "positions" */ '../views/ListingsView.vue')
   },
   {
-    path: '/positions/:id?',
-    name: 'positions',
-    component: () => import(/* webpackChunkName: "positions" */ '../views/ListingsView.vue'),
-    props: { mode: 'positions' }
+    path: '/d/:id',
+    name: 'detail',
+    component: () => import(/* webpackChunkName: "positions" */ '../views/DetailView.vue')
   },
-  {
-    path: '/transfers/:id?',
-    name: 'transfers',
-    component: () => import(/* webpackChunkName: "transfers" */ '../views/ListingsView.vue'),
-    props: { mode: 'transfers' }
-  },
+  // info pages
   {
     path: '/help',
     name: 'help',
@@ -29,6 +24,23 @@ const routes = [
     path: '/team',
     name: 'team',
     component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
+  // redirects to support old link schema
+  {
+    path: '/positions',
+    redirect: { name: 'home' }
+  },
+  {
+    path: '/positions/:id',
+    redirect: { name: 'detail' }
+  },
+  {
+    path: '/transfers',
+    redirect: { name: 'home' }
+  },
+  {
+    path: '/transfers/:id',
+    redirect: { name: 'detail' }
   }
 ]
 

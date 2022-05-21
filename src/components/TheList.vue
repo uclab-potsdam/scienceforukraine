@@ -4,9 +4,9 @@
       <div class="top">
         <span v-for="(m, i) in item.meta" :key="i">{{ m }}</span>
       </div>
-      <h2 class="title">{{item.title}}</h2>
+      <h2 class="title">{{item.institution}}</h2>
       <div class="fields">
-        <div v-for="(f, i) in item.fields.filter(f => f.value != null && f.value[0] !== '' && f.detail !== true)" :key="i" class="field">
+        <!-- <div v-for="(f, i) in item.fields.filter(f => f.value != null && f.value[0] !== '' && f.detail !== true)" :key="i" class="field">
           <h3>{{f.label}}</h3>
           <p>
             <template v-for="(v, i) in f.value" :key="i">
@@ -14,7 +14,7 @@
               <br/>
             </template>
           </p>
-        </div>
+        </div> -->
       </div>
     </router-link>
   </div>

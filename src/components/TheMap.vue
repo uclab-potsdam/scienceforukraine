@@ -7,18 +7,19 @@
       :zoomAnimation="true"
       :center="[47.41322, -1.219482]"
       :worldCopyJump="true"
+      :minZoom="1"
       @update:bounds="boundsUpdated"
       @ready="ready"
     >
       <l-tile-layer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" :attribution="attribution"/>
       <template v-if="mini">
-        <LCircleMarker v-for="(item, i) in items" :key="i" :lat-lng="item.coords" :radius="1" :opacity="0.7" className="marker-mini">
+        <LCircleMarker v-for="(item, i) in items" :key="i" :lat-lng="[item.lat, item.lng]" :radius="1" :opacity="0.7" className="marker-mini">
         </LCircleMarker>
       </template>
       <template v-else>
-        <LCircleMarker v-for="(item, i) in items" :key="i" :lat-lng="item.coords" @click="$router.push({ name: mode, params: { id: item.id }})" :radius="5" :opacity="1" :fill="true" :fillOpacity="1" :weight="1" color="#ffffff" className="marker-big">
+        <LCircleMarker v-for="(item, i) in items" :key="i" :lat-lng="[item.lat, item.lng]" @click="$router.push({ name: mode, params: { id: item.id }})" :radius="5" :opacity="1" :fill="true" :fillOpacity="1" :weight="1" color="#ffffff" className="marker-big">
           <l-tooltip>
-            {{ item.title }}
+            {{ item.institution }}
           </l-tooltip>
         </LCircleMarker>
       </template>
@@ -80,8 +81,6 @@ export default {
   },
   methods: {
     boundsUpdated (bounds) {
-      console.log('w', bounds._southWest.lng)
-      console.log('e', bounds._northEast.lng)
       this.store.bounds = {
         north: bounds._northEast.lat,
         east: (((bounds._northEast.lng + 180) % 360) + 360) % 360 - 180,
@@ -100,14 +99,9 @@ export default {
   }
 }
 </script>
-
-<style scoped lang="scss">
-.map {
-  background: var(--text);
-}
-</style>
 <style lang="scss">
 .leaflet-container {
+  border-radius: var(--spacing-s);
   .marker-big {
     mix-blend-mode: multiply;
 

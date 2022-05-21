@@ -11,10 +11,10 @@
     <div class="menu max-width" v-if="open">
       <nav class="max-width-inner">
         <span class="label">Listings</span>
-        <div class="items">
+        <!-- <div class="items">
           <router-link @click="toggleMenu" :to="{ name:'transfers' }">Student Transfers</router-link>
           <router-link @click="toggleMenu" :to="{ name:'positions' }">Research Positions</router-link>
-        </div>
+        </div> -->
       </nav>
       <nav class="max-width-inner">
         <span class="label">Submit Listing</span>
