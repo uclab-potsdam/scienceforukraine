@@ -29,10 +29,10 @@ export default {
     columns: [
       { value: 'naturalSciences', label: 'Natural sciences' },
       { value: 'socialSciences', label: 'Social sciences' },
-      { value: 'humanitiesAndTheArts', label: 'Humanities and the arts' },
-      { value: 'engineeringAndTechnology', label: 'Engineering and technology' },
-      { value: 'medicalAndHealthSciences', label: 'Medical and health sciences' },
-      { value: 'agriculturalAndVeterinarySciences', label: 'Agricultural and veterinary sciences' },
+      { value: 'humanitiesAndTheArts', label: 'Humanities & the arts' },
+      { value: 'engineeringAndTechnology', label: 'Engineering & technology' },
+      { value: 'medicalAndHealthSciences', label: 'Medical & health sciences' },
+      { value: 'agriculturalAndVeterinarySciences', label: 'Agricultural & veterinary sciences' },
       { value: 'unspecified', label: 'Unspecified' }
     ]
   }, {

@@ -25,6 +25,7 @@ export const useMainStore = defineStore('main', {
           state.bounds.east > state.bounds.west ? (d.lng < state.bounds.east && d.lng > state.bounds.west) : (d.lng < state.bounds.east || d.lng > state.bounds.west)
         ))
         const inFilter = state.filters.every(f => {
+          if (f.category == null || state.filter.category !== f.category) return true
           if (f.type === 'toggle') return state.filter[f.key] === false || d[f.key] === 1
           if (state.filter[f.name] === null) return true
           if (f.type === 'radio') return d[state.filter[f.name]] === 1
