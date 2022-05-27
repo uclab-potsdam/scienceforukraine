@@ -2,11 +2,11 @@
   <div class="the-detail">
     <header class="max-width">
       <div class="max-width-inner">
-        <span @click="$router.push({ name: 'home' })">← all submissions</span>
-        <span>
-          <span @click="$router.push({ name: 'detail', params: {id: prev} })">← </span>
+        <router-link :to="{ name: 'home' }">← all submissions</router-link>
+        <span v-if="prev && next">
+          <router-link :to="{ name: 'detail', params: {id: prev} }">← </router-link>
           <span class="dimmed">{{index + 1}}/{{items.length}}</span>
-          <span @click="$router.push({ name: 'detail', params: {id: next} })">  →</span>
+          <router-link :to="{ name: 'detail', params: {id: next} }">  →</router-link>
         </span>
       </div>
     </header>
@@ -115,7 +115,7 @@ export default {
     color: var(--accent-1);
     padding: var(--spacing);
     // text-align: right;
-    cursor: pointer;
+    // cursor: pointer;
 
     > div {
       justify-content: space-between;
