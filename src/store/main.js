@@ -38,6 +38,7 @@ export const useMainStore = defineStore('main', {
     filteredForMap: state => {
       const query = state.query.toLowerCase()
       return state.entries.filter(d => {
+        const hasCoords = d.lat != null && d.lng != null
         const inQuery = query === '' || new RegExp(`\\b${query}`, 'i').test(mappings.searchFields.map(key => d[key]).join(' '))
         const inFilter = state.filters.every(f => {
           if (f.type === 'toggle') return state.filter[f.key] === false || d[f.key] === 1
@@ -46,7 +47,7 @@ export const useMainStore = defineStore('main', {
           if (f.type === 'select') return d[f.name] === state.filter[f.name]
           return true
         })
-        return inQuery && inFilter
+        return inQuery && inFilter && hasCoords
       })
     },
     getItem: (state) => {
@@ -55,7 +56,7 @@ export const useMainStore = defineStore('main', {
   },
   actions: {
     async init (mode) {
-      this.entries = csvParse(await fetch('https://ft0.ch/sfu/data.csv').then(res => res.text()), autoType)
+      this.entries = csvParse(await fetch('https://ft0.ch/sfu/data.csv').then(res => res.text()), autoType).reverse()
       this.filters.filter(f => f.type === 'select').forEach(f => {
         f.options = [...new Set(this.entries.map(d => d[f.key]))].sort()
       })

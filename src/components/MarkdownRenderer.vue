@@ -25,10 +25,12 @@ export default {
   align-items: center;
   padding: 0 var(--spacing);
   > * {
-    max-width: 600px;
+    max-width: 800px;
     width: 100%;
     margin-bottom: var(--spacing);
   }
+
+  font-size: 14px;
 
   h1, h2, h3 {
     margin-top: var(--spacing-l);
@@ -49,6 +51,11 @@ export default {
     + h3 {
       margin-top: 0;
     }
+  }
+
+  h3 {
+    font-weight: bold;
+    font-size: var(--font-size);
   }
 
   li {

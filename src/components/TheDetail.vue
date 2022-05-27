@@ -18,15 +18,50 @@
         </div>
         <h2 class="title">{{item.institution}}</h2>
         <div class="links">
-          <a :href="item.link" target="_blank">{{ item.link?.replace(/^https?:\/\//, '').replace(/\/$/, '') }}</a>
-          <a :href="`mailto:${item.contact}`">contact</a>
+          <a :href="item.link" target="_blank">Details</a>
+          <a :href="`mailto:${item.contact}`">Contact</a>
         </div>
         <div class="fields">
-          <p v-for="(paragraph, i) in item.description.split('\\n')" :key="i">{{ paragraph }}</p>
+          <p v-for="(paragraph, i) in item.description?.split('\\n').filter(p => p.trim() !== '')" :key="i">{{ paragraph }}</p>
+
+          <template v-if="item.researchFocus">
+            <h3>Research Focus / Keywords</h3>
+            <p v-for="(paragraph, i) in item.researchFocus?.split('\\n').filter(p => p.trim() !== '')" :key="i">{{ paragraph }}</p>
+          </template>
+
+          <template v-if="item.conditions">
+            <h3>Conditions for Tuition Waiver</h3>
+            <p v-for="(paragraph, i) in item.conditions?.split('\\n').filter(p => p.trim() !== '')" :key="i">{{ paragraph }}</p>
+          </template>
+
+          <template v-if="item.supportPeriod">
+            <h3>Support Period</h3>
+            <p v-for="(paragraph, i) in item.supportPeriod?.split('\\n').filter(p => p.trim() !== '')" :key="i">{{ paragraph }}</p>
+          </template>
+
+          <template v-if="item.applicationDeadline">
+            <h3>Application Deadline</h3>
+            <p v-for="(paragraph, i) in item.applicationDeadline?.split('\\n').filter(p => p.trim() !== '')" :key="i">{{ paragraph }}</p>
+          </template>
+
+          <template v-if="item.additionalSupport">
+            <h3>Additional Support</h3>
+            <p v-for="(paragraph, i) in item.additionalSupport?.split('\\n').filter(p => p.trim() !== '')" :key="i">{{ paragraph }}</p>
+          </template>
+
           <!-- <div v-for="(f, i) in item.fields" :key="i" class="field">
-            <h3>{{f.label}}</h3>
+
             <p v-for="(v, i) in f.value" :key="i">{{ v || '–' }}</p>
           </div> -->
+        </div>
+        <div class="tags">
+          <template v-for="(f, fi) in filters.filter(f => f.type === 'toggle' || f.type === 'radio')" :key="fi">
+            <template v-for="(t, ti) in f.columns?.filter(o => item[o.value] === 1)" :key="ti">
+              <span class="tag" :class="{primary: f.primary}">
+                {{ t.label }}
+              </span>
+            </template>
+          </template>
         </div>
       </div>
     </div>
@@ -48,6 +83,9 @@ export default {
     },
     items () {
       return this.store.filtered
+    },
+    filters () {
+      return this.store.filters
     },
     index () {
       return this.items.findIndex(i => i.id === this.item.id)
@@ -91,6 +129,8 @@ export default {
   }
   .item {
     padding: var(--spacing);
+    overflow: auto;
+    margin-bottom: 50px;
     // border: 1px solid var(--accent-1);
 
     .top {
@@ -106,8 +146,20 @@ export default {
 
     .links {
       display: flex;
-      flex-direction: column;
+      // flex-direction: column;
+      gap: var(--spacing);
       margin-bottom: var(--spacing);
+
+      a {
+        &:hover {
+          text-decoration: underline;
+        }
+        &::after {
+          content: "↗";
+          transform: translate(1px, 2px);
+          display: inline-block;
+        }
+      }
     }
 
     .fields {
@@ -117,6 +169,38 @@ export default {
 
       p + p {
         margin-top: var(--spacing);
+      }
+
+      p + h3 {
+        margin-top: var(--spacing);
+        color: var(--light-text)
+      }
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--spacing-s);
+      margin-top: var(--spacing);
+      margin-bottom: var(--spacing-xl);
+      .tag {
+        display: inline-flex;
+        height: 25px;
+        padding: 0 var(--spacing-s);
+        align-items: center;
+        border-radius: var(--spacing-s);
+        // border: 1px solid var(--accent-1);
+        background: var(--accent-1);
+        color: var(--background);
+        font-size: var(--font-size-s);
+
+        // & + .tag {
+        //   margin-left: var(--spacing-s);
+        // }
+        &.primary {
+          background: var(--accent-2);
+          color: var(--text);
+        }
       }
     }
   }

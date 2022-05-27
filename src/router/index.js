@@ -21,8 +21,28 @@ const routes = [
     component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
   },
   {
-    path: '/team',
-    name: 'team',
+    path: '/support',
+    name: 'support',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
+  {
+    path: '/about',
+    name: 'about',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
+  {
+    path: '/press',
+    name: 'press',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
+  {
+    path: '/partners',
+    name: 'partners',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
+  {
+    path: '/contact',
+    name: 'contact',
     component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
   },
   // redirects to support old link schema

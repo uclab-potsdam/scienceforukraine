@@ -121,6 +121,12 @@ export default {
         }
       }
     }
+    .map-filter, .options-map {
+      display: none;
+      @include wide {
+        display: block;
+      }
+    }
     .map-filter {
       margin-top: var(--spacing-l);
     }
