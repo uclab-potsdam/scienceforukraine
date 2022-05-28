@@ -41,6 +41,7 @@ export const useMainStore = defineStore('main', {
         const hasCoords = d.lat != null && d.lng != null
         const inQuery = query === '' || new RegExp(`\\b${query}`, 'i').test(mappings.searchFields.map(key => d[key]).join(' '))
         const inFilter = state.filters.every(f => {
+          if (f.category != null && state.filter.category !== f.category) return true
           if (f.type === 'toggle') return state.filter[f.key] === false || d[f.key] === 1
           if (state.filter[f.name] === null) return true
           if (f.type === 'radio') return d[state.filter[f.name]] === 1
