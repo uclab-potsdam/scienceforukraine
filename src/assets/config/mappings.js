@@ -15,7 +15,7 @@ export default {
     columns: [
       { value: 'paidPosition', label: 'Paid Positions' },
       { value: 'education', label: 'Education' },
-      { value: 'funding', label: 'Funding' },
+      { value: 'funding', label: 'Funding Programme' },
       { value: 'partnership', label: 'Partnership' },
       { value: 'otherHelp', label: 'Other Help' }
     ]
