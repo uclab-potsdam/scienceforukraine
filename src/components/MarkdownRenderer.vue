@@ -30,6 +30,10 @@ export default {
     margin-bottom: var(--spacing);
   }
 
+  a {
+    word-break: break-word;
+  }
+
   font-size: 14px;
 
   h1, h2, h3 {
@@ -59,10 +63,12 @@ export default {
   }
 
   li {
-    list-style-position: inside;
+    list-style-position: outside;
+    margin-left: var(--spacing);
 
     @include wide {
       list-style-position: outside;
+      margin-left: 0;
     }
   }
 }

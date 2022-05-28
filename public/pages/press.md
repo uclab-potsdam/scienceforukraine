@@ -20,19 +20,17 @@ If you're interested in a particular topic, we'll connect you with the right per
 
 ## Science For Ukraine in the News (selection)
 
-* Nisha Gaind, Holly Else & Antoaneta Roussi: [‘I thought I had forgotten this horror’: Ukrainian scientists stand in defiance](https://www.nature.com/articles/d41586-022-00621-6), 2 March 2022, Nature
-
-* (in German)[»Ich dachte, ich hätte diesen Horror vergessen«](https://www.spektrum.de/news/krieg-in-der-ukraine-ich-dachte-ich-haette-diesen-horror-vergessen/1994932), 4 March 2022, Spektrum der Wissenschaft
-
-* Alicia Moreno, Diego Salvadores: [Es importante ofrecer oportunidades temporales a los científicos que han tenido que huir de Ucrania](https://www.agenciasinc.es/Entrevistas/Es-importante-ofrecer-oportunidades-temporales-a-los-cientificos-que-han-tenido-que-huir-de-Ucrania), March 3rd, SiNC
-* [Ukrainian scientists stand in defiance](https://morenewsonline.com/ukrainian-scientists-stand-in-defiance/), 4 March 2022, Morenews Online
-* Goda Naujokaitytė, Florin Zubașcu: [Universities start scoping out how to help Ukrainian academics fleeing the war](https://sciencebusiness.net/news/universities-start-scoping-out-how-help-ukrainian-academics-fleeing-war), 8 March 2022, Science Business
-* [Twenty Spanish universities and research centers offer to host Ukrainian scientists](https://www.archyde.com/twenty-spanish-universities-and-research-centers-offer-to-host-ukrainian-scientists/), 11 March 2022, Archyde
-* Jody Serrano: [“WE DON’T LIVE IN A RESEARCH BUBBLE” The hopes and fears driving an online movement to help Ukrainian researchers](https://www.theverge.com/2022/3/17/22979250/ukraine-scientists-international-resources-war), 17 March 2022, The Verge
-* [Ukrainische Wissenschaftler strengen sich an zu arbeiten, während der Krieg tobt](https://newstextarea.com/deutsch/ukrainische-wissenschaftler-strengen-sich-an-zu-arbeiten-wahrend-der-krieg-tobt/), 21 March 2022, News Text Area
-* Tobias Hoffmann: [‘Science for Ukraine’ – How European scholars help their Ukrainian colleagues](https://sciencemediahub.eu/2022/03/23/science-for-ukraine-how-european-scholars-help-their-ukrainian-colleagues/), 23 March 2022, European Science-Media Hub
-* Кирил Чеботарьов: [Тисячі вакансій і пропозицій. Як світ підтримує українських учених, вимушених тікати від війни](https://techno.nv.ua/ukr/popscience/vakansiji-ta-propoziciji-dlya-ukrajinskih-vchenih-yak-dopomagaye-proekt-scienceforukraine-50230240.html), 2 April 2022, НВ
-* Goda Naujokaitytė: [Ukrainian researchers navigate times of war](https://sciencebusiness.net/news/ukrainian-researchers-navigate-times-war), 7 April 2022, Science Business
+- Nisha Gaind, Holly Else & Antoaneta Roussi: [‘I thought I had forgotten this horror’: Ukrainian scientists stand in defiance](https://www.nature.com/articles/d41586-022-00621-6), 2 March 2022, Nature
+- (in German)[»Ich dachte, ich hätte diesen Horror vergessen«](https://www.spektrum.de/news/krieg-in-der-ukraine-ich-dachte-ich-haette-diesen-horror-vergessen/1994932), 4 March 2022, Spektrum der Wissenschaft
+- Alicia Moreno, Diego Salvadores: [Es importante ofrecer oportunidades temporales a los científicos que han tenido que huir de Ucrania](https://www.agenciasinc.es/Entrevistas/Es-importante-ofrecer-oportunidades-temporales-a-los-cientificos-que-han-tenido-que-huir-de-Ucrania), March 3rd, SiNC
+- [Ukrainian scientists stand in defiance](https://morenewsonline.com/ukrainian-scientists-stand-in-defiance/), 4 March 2022, Morenews Online
+- Goda Naujokaitytė, Florin Zubașcu: [Universities start scoping out how to help Ukrainian academics fleeing the war](https://sciencebusiness.net/news/universities-start-scoping-out-how-help-ukrainian-academics-fleeing-war), 8 March 2022, Science Business
+- [Twenty Spanish universities and research centers offer to host Ukrainian scientists](https://www.archyde.com/twenty-spanish-universities-and-research-centers-offer-to-host-ukrainian-scientists/), 11 March 2022, Archyde
+- Jody Serrano: [“WE DON’T LIVE IN A RESEARCH BUBBLE” The hopes and fears driving an online movement to help Ukrainian researchers](https://www.theverge.com/2022/3/17/22979250/ukraine-scientists-international-resources-war), 17 March 2022, The Verge
+- [Ukrainische Wissenschaftler strengen sich an zu arbeiten, während der Krieg tobt](https://newstextarea.com/deutsch/ukrainische-wissenschaftler-strengen-sich-an-zu-arbeiten-wahrend-der-krieg-tobt/), 21 March 2022, News Text Area
+- Tobias Hoffmann: [‘Science for Ukraine’ – How European scholars help their Ukrainian colleagues](https://sciencemediahub.eu/2022/03/23/science-for-ukraine-how-european-scholars-help-their-ukrainian-colleagues/), 23 March 2022, European Science-Media Hub
+- Кирил Чеботарьов: [Тисячі вакансій і пропозицій. Як світ підтримує українських учених, вимушених тікати від війни](https://techno.nv.ua/ukr/popscience/vakansiji-ta-propoziciji-dlya-ukrajinskih-vchenih-yak-dopomagaye-proekt-scienceforukraine-50230240.html), 2 April 2022, НВ
+- Goda Naujokaitytė: [Ukrainian researchers navigate times of war](https://sciencebusiness.net/news/ukrainian-researchers-navigate-times-war), 7 April 2022, Science Business
 
 ## Press Materials
 

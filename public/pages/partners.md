@@ -42,10 +42,9 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 
 ## Germany
 
-*   [Max Planck Unit for the Science of Pathogens, Emmanuelle Charpentier](https://www.mpusp.mpg.de/#:~:text=Max%20Planck%20Unit%20for%20the%20Science%20of%20Pathogens%20(MPUSP)%20is,viruses)%20causing%20diseases%20in%20humans.)
+*   [Max Planck Unit for the Science of Pathogens, Emmanuelle Charpentier](https://www.mpusp.mpg.de/#:~:text=Max%20Planck%20Unit%20for%20the%20Science%20of%20Pathogens%20(MPUSP)%20is,viruses\)%20causing%20diseases%20in%20humans.)
 
   
-
 ## Latvia
 
 *   [Institute of Literature, Folklore and Art, University of Latvia](http://lulfmi.lv/en/news)
