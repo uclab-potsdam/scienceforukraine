@@ -5,26 +5,62 @@ const routes = [
   {
     path: '/',
     name: 'home',
-    redirect: 'transfers'
+    // redirect: 'transfers'
     // component: HomeView
+    component: () => import(/* webpackChunkName: "positions" */ '../views/ListingsView.vue')
   },
   {
-    path: '/positions/:id?',
-    name: 'positions',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/EntriesView.vue'),
-    props: { mode: 'positions' }
+    path: '/d/:id',
+    name: 'detail',
+    component: () => import(/* webpackChunkName: "positions" */ '../views/DetailView.vue')
+  },
+  // info pages
+  {
+    path: '/help',
+    name: 'help',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
   },
   {
-    path: '/transfers/:id?',
-    name: 'transfers',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/EntriesView.vue'),
-    props: { mode: 'transfers' }
+    path: '/support',
+    name: 'support',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
+  {
+    path: '/about',
+    name: 'about',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
+  {
+    path: '/press',
+    name: 'press',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
+  {
+    path: '/partners',
+    name: 'partners',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
+  {
+    path: '/contact',
+    name: 'contact',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
+  // redirects to support old link schema
+  {
+    path: '/positions',
+    redirect: { name: 'home' }
+  },
+  {
+    path: '/positions/:id',
+    redirect: { name: 'detail' }
+  },
+  {
+    path: '/transfers',
+    redirect: { name: 'home' }
+  },
+  {
+    path: '/transfers/:id',
+    redirect: { name: 'detail' }
   }
 ]
 

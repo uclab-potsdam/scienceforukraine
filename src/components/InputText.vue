@@ -21,22 +21,23 @@ export default {
   input {
     width: 100%;
     font: inherit;
-    height: 32px;
-    border-radius: 16px;
+    height: 25px;
+    border-radius: var(--spacing-s);
     border: 1px solid var(--accent-1);
-    padding: 0 var(--spacing);
+    padding: 0 var(--spacing-s);
+    font-size: var(--font-size-s);
   }
   .clear {
     position: absolute;
-    margin-right: var(--spacing-s);
+    // margin-right: var(--spacing-s);
     background: var(--accent-1);
     color: var(--background);
-    width: 24px;
-    height: 24px;
+    width: 25px;
+    height: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50%;
+    border-radius: 0 var(--spacing-s) var(--spacing-s) 0;
     cursor: pointer;
 
   }
