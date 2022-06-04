@@ -485,8 +485,8 @@ ERA4Ukraine [https://www.euraxess.nl/ukraine](https://www.euraxess.nl/ukraine)
     [https://factcards.nl/themes/working/AcademicsNL-for-Ukraine](https://factcards.nl/themes/working/AcademicsNL-for-Ukraine)
 *   UAF. Provides support to refugee students and professionals in their studies and in finding suitable employment on the Dutch labour market.  
     [https://www.uaf.nl/en/ukraine](https://www.uaf.nl/en/ukraine)
-*   English Club: team of students, teaching assistants, PhD candidates, and professors giving free lessons, webinars, lectures and courses for Ukrainian colleagues  
-    [https://englishclub.science.ru.nl](https://englishclub.science.ru.nl/)
+*   English Club: team of students, teaching assistants, PhD candidates, and professors giving free lessons, webinars, lectures and courses for Ukrainian colleagues     [https://englishclub.science.ru.nl](https://englishclub.science.ru.nl/)
+*   Safe Haven Fellowship by the Netherlands Institute of Advanced Study in the Humanities and Social Sciences [https://nias.knaw.nl/fellowships/safe-haven-fellowship](https://nias.knaw.nl/fellowships/safe-haven-fellowship)
 
   
 
@@ -724,6 +724,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 *   Immigration measures for people affected by the Russian invasion of Ukraine  
     [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html)
 *   Petro Jacyk Non-Resident Scholars Program [https://munkschool.utoronto.ca/jacyk/project/visiting-scholarships](https://munkschool.utoronto.ca/jacyk/project/visiting-scholarships)
+*   Summer Program Grants for Displaced Ukrainian Youth [https://shevchenkofoundation.com/summer-program-grants-for-displaced-ukrainian-youth/](https://shevchenkofoundation.com/summer-program-grants-for-displaced-ukrainian-youth/)
 
   
 
