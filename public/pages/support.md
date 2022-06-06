@@ -1,7 +1,7 @@
 # Funding Programmes and Support Initiatives
 
 
-_Please inform us about funding and support programmes that are not listed below via email [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu). 
+Please inform us about funding and support programmes that are not listed below via email [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu). 
 This list of funding programmes and other support initiatives is maintained for general reference. We do not check deadlines and new calls. For updated information, please check the [database](https://scienceforukraine.eu) applying filter "Funding Programme".
 
 ## International
