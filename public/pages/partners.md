@@ -7,7 +7,7 @@ Here are listed all the organisations, institutions and companies that support #
 *   supporting day-to-day activities (e.g. by printing and distributing informational materials)
 *   simply endorsing and disseminating information about the initative through their communication channels (e.g. with our banners).
 
-If you would like to support #ScienceForUkraine and become our partner, please get in touch with the PR coordinator [Maciej Maryl](mailto:press@scienceforukraine.eu)
+If you would like to support #ScienceForUkraine and become our partner, please get in touch with the PR coordinator [Maciej Maryl(mailto:press@scienceforukraine.eu)
 
 ## International
 
@@ -26,7 +26,7 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 *   [Marie Curie Alumni Associations](https://www.mariecuriealumni.eu/)
 *   [International Federation for Structural Concrete](https://www.fib-international.org/)
 *   [SWS Scholarly Society](https://sgemworld.at/)
-*   [NGO Agency of European Innovations] (https://aei.org.ua)
+*   [NGO Agency of European Innovations](https://aei.org.ua)
 
   
 
