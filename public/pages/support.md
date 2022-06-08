@@ -675,7 +675,7 @@ ERA4Ukraine [https://www.euraxess.ch/ukraine](https://www.euraxess.ch/ukraine)
 
 **#ScienceForUkraine mentoring scheme**. Fill out this form to register! [https://scienceforukraine.eu/uk-mentorship-programme](https://scienceforukraine.eu/uk-mentorship-programme)
 
-**UK information for #ScienceForUkraine** [https://scienceforukraine.eu/UK-info](https://scienceforukraine.eu/UK-info)
+[**UK information for #ScienceForUkraine**](https://docs.google.com/document/d/1kSmhnTMkB_6-9byoevmHXN_XmDagi0513-RwHmSZRhc)
 
 * * *
 
