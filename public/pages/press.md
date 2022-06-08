@@ -8,7 +8,7 @@ If you're interested in a particular topic, we'll connect you with the right per
 
 ## Press Releases
 
-1.  April 22th, 2022: **Scholars and institutions willing to host Ukrainian researchers under general funding programmes are encouraged to submit a support offer to the #ScienceForUkraine database**  
+1.  April 22nd, 2022: **Scholars and institutions willing to host Ukrainian researchers under general funding programmes are encouraged to submit a support offer to the #ScienceForUkraine database**  
     [de](https://drive.google.com/file/d/1ylRFeTtWSU2JHHH0sAV89dweztGuTbBT/view) [en](https://drive.google.com/file/d/16C9VW6ZiGoGdWZGTAdnbQwGR0cLkr0y_/view) [es](https://drive.google.com/file/d/1rpfF_ZkdJEPOep7FUVjOZO-jVILPgU7f/view) [fi](https://drive.google.com/file/d/1VP9KTLSFOKStq-8qCzpHyNWhTtNjyEvI/view) [fr](https://drive.google.com/file/d/1Kz53JwRSKS5KB2P4Ej3u7_7et2bFH8BQ/view) [lv](https://drive.google.com/file/d/1ntQ4DlpXEBOQJYR_4fKSl7tG75v6qBwK/view) [nl](https://drive.google.com/file/d/1UEOYj9gzUUOyeGRAqOQF9ltCvMJULMY4/view) [pl](https://drive.google.com/file/d/13tpBTePS2pV9LzII4doIPi6rYKjMrh14/view) [sk](https://drive.google.com/file/d/1AcXevJ1eJMw8etDDuKFmEch2FqhUV97H/view) [sv](https://drive.google.com/file/d/132yzzPGDnYhKZaEQUQCfGNGC6Om23jGv/view)  
     [Poster (en)](https://drive.google.com/file/d/1GovFGM97Dzn2Eubhbc-WWUw61KDOqMRx/view)
     
@@ -36,7 +36,7 @@ If you're interested in a particular topic, we'll connect you with the right per
 - Tobias Hoffmann: [‘Science for Ukraine’ – How European scholars help their Ukrainian colleagues](https://sciencemediahub.eu/2022/03/23/science-for-ukraine-how-european-scholars-help-their-ukrainian-colleagues/), 23 March 2022, European Science-Media Hub
 - Кирил Чеботарьов: [Тисячі вакансій і пропозицій. Як світ підтримує українських учених, вимушених тікати від війни](https://techno.nv.ua/ukr/popscience/vakansiji-ta-propoziciji-dlya-ukrajinskih-vchenih-yak-dopomagaye-proekt-scienceforukraine-50230240.html), 2 April 2022, НВ
 - Goda Naujokaitytė: [Ukrainian researchers navigate times of war](https://sciencebusiness.net/news/ukrainian-researchers-navigate-times-war), 7 April 2022, Science Business
-- Roberta Fulci: [>Rifugiati scientifici](https://www.raiplaysound.it/audio/2022/04/Radio3-Scienza-del-21042022-6866632c-2889-41c2-99b3-435d82ea172c.html), 21 April 2022, Rai Radio3 Scienza
+- Roberta Fulci: [Rifugiati scientifici](https://www.raiplaysound.it/audio/2022/04/Radio3-Scienza-del-21042022-6866632c-2889-41c2-99b3-435d82ea172c.html), 21 April 2022, Rai Radio3 Scienza
 - Nisha Gaind: [How three Ukrainian scientists are surviving Russia’s brutal war](https://www.nature.com/articles/d41586-022-01272-3), 6 May 2022, Nature News	  
 
 ## Press Materials
