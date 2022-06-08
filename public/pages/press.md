@@ -18,6 +18,11 @@ If you're interested in a particular topic, we'll connect you with the right per
     [Poster (en)](https://drive.google.com/file/d/1r-Yh5q4lqYxNtSOwJwD2ccO3EljFZTt6/view)
     
 
+## Own publications
+- Marten Düring: [Help needed: Science for Ukraine](https://historicalnetworkresearch.org/help-needed-science-for-ukraine/), March 7, The Historical Network Research Community
+- >Maciej Maryl, Oleksandra V. Ivashchenko, Matiss Reinfelds, Sanita Reinsone & Michael E. Rose: [Addressing the needs of Ukrainian scholars at risk](https://www.nature.com/articles/s41562-022-01387-7), Nature Human Behaviour 6(6) May 2022; DOI: 10.1038/s41562-022-01387-7
+- Anna K. Bobak, Valentina Mosienko & Igor Potapov: [Eight ways UK academics can help students and researchers from Ukrainian universities](https://www.timeshighereducation.com/campus/eight-ways-uk-academics-can-help-students-and-researchers-ukrainian-universities), THE Campus, May 26 2022
+
 ## Science For Ukraine in the News (selection)
 
 - Nisha Gaind, Holly Else & Antoaneta Roussi: [‘I thought I had forgotten this horror’: Ukrainian scientists stand in defiance](https://www.nature.com/articles/d41586-022-00621-6), 2 March 2022, Nature
