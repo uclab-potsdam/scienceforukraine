@@ -18,9 +18,10 @@ If you're interested in a particular topic, we'll connect you with the right per
     [Poster (en)](https://drive.google.com/file/d/1r-Yh5q4lqYxNtSOwJwD2ccO3EljFZTt6/view)
     
 
-## Own publications
-- Marten Düring: [Help needed: Science for Ukraine](https://historicalnetworkresearch.org/help-needed-science-for-ukraine/), March 7, The Historical Network Research Community
-- Maciej Maryl, Oleksandra V. Ivashchenko, Matiss Reinfelds, Sanita Reinsone & Michael E. Rose: [Addressing the needs of Ukrainian scholars at risk](https://www.nature.com/articles/s41562-022-01387-7), Nature Human Behaviour 6(6) May 2022; DOI: 10.1038/s41562-022-01387-7
+## Publications by members of the initiative
+- Nicoleta Spînu & Oleksandra V. Ivashchenko: [Support Ukraine Now: Urgent Needs and Proactive Responses](https://medium.com/marie-curie-alumni/support-ukraine-now-urgent-needs-and-proactive-responses-975b622ea6d8), The Marie Curie Alumni Association Blog, April 2 2022
+- Marten Düring: [Help needed: Science for Ukraine](https://historicalnetworkresearch.org/help-needed-science-for-ukraine/), The Historical Network Research Community, March 7 2022
+- Maciej Maryl, Oleksandra V. Ivashchenko, Matiss Reinfelds, Sanita Reinsone & Michael E. Rose: [Addressing the needs of Ukrainian scholars at risk](https://www.nature.com/articles/s41562-022-01387-7), Nature Human Behaviour 6(6) May 25 2022; DOI: 10.1038/s41562-022-01387-7
 - Anna K. Bobak, Valentina Mosienko & Igor Potapov: [Eight ways UK academics can help students and researchers from Ukrainian universities](https://www.timeshighereducation.com/campus/eight-ways-uk-academics-can-help-students-and-researchers-ukrainian-universities), THE Campus, May 26 2022
 
 ## Science For Ukraine in the News (selection)
