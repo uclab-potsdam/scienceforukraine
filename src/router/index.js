@@ -61,6 +61,23 @@ const routes = [
   {
     path: '/transfers/:id',
     redirect: { name: 'detail' }
+  },
+  // external redirects
+  {
+    path: '/calendar',
+    beforeEnter () { location.href = 'https://calendar.google.com/calendar/u/0/embed?src=info@scienceforukraine.eu&ctz=Europe/Warsaw' }
+  },
+  {
+    path: '/submit',
+    beforeEnter () { location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSdcyWM6L1ee-lI5ByMUDx6RBDskCLxvKDQ_yRqOr344wKAR9g/viewform' }
+  },
+  {
+    path: '/UK-info',
+    beforeEnter () { location.href = 'https://docs.google.com/document/d/1kSmhnTMkB_6-9byoevmHXN_XmDagi0513-RwHmSZRhc/edit' }
+  },
+  {
+    path: '/uk-mentorship-programme',
+    beforeEnter () { location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSflXx7XC1GGQE_AnEp1-rAYNFLnF9QzOOHVbrls89ejwlgMYQ/viewform' }
   }
 ]
 
