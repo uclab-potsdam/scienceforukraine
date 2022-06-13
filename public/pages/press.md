@@ -38,7 +38,10 @@ If you're interested in a particular topic, we'll connect you with the right per
 - Кирил Чеботарьов: [Тисячі вакансій і пропозицій. Як світ підтримує українських учених, вимушених тікати від війни](https://techno.nv.ua/ukr/popscience/vakansiji-ta-propoziciji-dlya-ukrajinskih-vchenih-yak-dopomagaye-proekt-scienceforukraine-50230240.html), 2 April 2022, НВ
 - Goda Naujokaitytė: [Ukrainian researchers navigate times of war](https://sciencebusiness.net/news/ukrainian-researchers-navigate-times-war), 7 April 2022, Science Business
 - Roberta Fulci: [Rifugiati scientifici](https://www.raiplaysound.it/audio/2022/04/Radio3-Scienza-del-21042022-6866632c-2889-41c2-99b3-435d82ea172c.html), 21 April 2022, Rai Radio3 Scienza
-- Nisha Gaind: [How three Ukrainian scientists are surviving Russia’s brutal war](https://www.nature.com/articles/d41586-022-01272-3), 6 May 2022, Nature News	  
+- Carlos Marlasca: [España contrata a una treintena de cientificos ucranianos refugiados](https://es.euronews.com/2022/04/29/espana-contrata-a-una-treintena-de-cientificos-ucranianos-refugiados), 29 April 2022, Euronews
+    - (in German)[https://de.euronews.com/2022/04/29/forscher-im-exil-zwei-ukrainer-arbeiten-jetzt-am-experimentalreaktor-in-madrid], 29 April 2022, Euronews
+    - (in Hungarian)[https://hu.euronews.com/2022/04/29/ukran-kutatokat-fogadnak-a-spanyol-egyetemek], 29 April 2022, Euronews
+- Nisha Gaind: [How three Ukrainian scientists are surviving Russia’s brutal war](https://www.nature.com/articles/d41586-022-01272-3), 6 May 2022, Nature News
 
 ## Press Materials
 
