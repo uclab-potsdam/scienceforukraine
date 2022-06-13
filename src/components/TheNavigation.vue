@@ -8,7 +8,7 @@
         </span>
       </div>
     </div>
-    <div class="menu max-width" v-if="open">
+    <div class="menu max-width" v-if="open" ref="menu">
       <nav class="max-width-inner">
         <span class="label">Follow Us</span>
         <div class="items">
@@ -70,7 +70,9 @@ export default {
     toggleMenu () {
       this.open = !this.open
       if (this.open) {
-        disableBodyScroll(this.$refs.menu)
+        this.$nextTick(() => {
+          disableBodyScroll(this.$refs.menu, { allowTouchMove: () => true })
+        })
       } else {
         enableBodyScroll(this.$refs.menu)
       }
