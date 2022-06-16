@@ -696,6 +696,8 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
     [https://www.sheffield.ac.uk/funding/sanctuary-scholarships](https://www.sheffield.ac.uk/funding/sanctuary-scholarships)
 *   Visiting Ukrainian Doctoral Scholarships at the University of Bristol  
     [https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships](https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships)
+*   Isaac Newton Institute for Mathematical Sciences offers a programme designed for the purpose of giving refuge to researchers in the mathematical sciences who have to leave their country of residence. The aim is not only to offer participants a safe home but also to enable them to continue their work and start new scientific collaborations [https://www.newton.ac.uk/event/slm/](https://www.newton.ac.uk/event/slm/)
+    
 
 **Other academic support**
 
