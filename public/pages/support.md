@@ -77,6 +77,7 @@ This list of funding programmes and other support initiatives is maintained for 
 *   European Society's for Molecular Imaging (ESMI) list of funding / jobs for Ukrainian refugee scientists  
     [https://e-smi.eu/support-ukrainian-scientists](https://e-smi.eu/support-ukrainian-scientists/)
 *   Photonic Aid for Ukraine (PA4UA) [https://wavejobs.eu/ukraine/eng](https://wavejobs.eu/ukraine/eng/)
+*   War in Ukraine - student support center: database collecting support offer for students [https://ukraine.dev.uni-foundation.eu/](https://ukraine.dev.uni-foundation.eu/)
 
 **Training**
 
@@ -534,6 +535,7 @@ ERA4Ukraine [https://www.euraxess.pl/ukraine](https://www.euraxess.pl/ukraine)
 *   List of opprtunities from the Polish Academy of Science [https://institution.pan.pl](https://institution.pan.pl/?option=com_content&view=article&id=757)
 *   Scholarship of Julia Zdanowska, intended for scientifically outstanding students and graduates of Ukrainian secondary schools who intend to study at the Jagiellonian University in the academic year 2022/2023  
     [https://matinf.uj.edu.pl/kandydaci/oferta-dla-najlepszych/stypendium-julii-zdanowskiej/informacja-ogolna](j.edu.pl/kandydaci/oferta-dla-najlepszych/stypendium-julii-zdanowskiej/informacja-ogolna)
+*   Solidarni z Ukraina, national system of online admission for Cadidates from Ukraine [https://ukraina.irk.edu.pl/en-gb/](https://ukraina.irk.edu.pl/en-gb/)
 
 **Online courses**
 
