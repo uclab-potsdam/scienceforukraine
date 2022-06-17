@@ -370,6 +370,7 @@ ERA4Ukraine [https://www.euraxess.ie/ukraine](https://www.euraxess.ie/ukraine)
     [https://www.sfi.ie/funding/funding-calls/displaced-researchers/index.xml](https://www.sfi.ie/funding/funding-calls/displaced-researchers/index.xml)
 *   The Physics Benevolent Fund: grants to professional physicists  
     [https://www.iop.org/about/support-grants/physics-benevolent-fund](https://www.iop.org/about/support-grants/physics-benevolent-fund)
+*   Irish Research Council Scheme for Ukrainian Researchers [https://research.ie/funding/ukrainian-researchers-scheme/](https://research.ie/funding/ukrainian-researchers-scheme/)
 
 **Counseling and other support**
 
@@ -715,7 +716,10 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 *   Facebook group [Help for Ukrainians in UK // Допомога для українців в Англії](https://www.facebook.com/groups/927852904567703)" related to all aspects of life in the UK - accommodation, visa, transport, food/clothes etc
 
-  
+ ### Ukraine
+ 
+ *   Public Diplomacy Small Grants Education Program [https://www2.fundsforngos.org/latest-funds-for-ngos/u-s-mission-to-ukraine-public-diplomacy-small-grants/amp/](https://www2.fundsforngos.org/latest-funds-for-ngos/u-s-mission-to-ukraine-public-diplomacy-small-grants/amp/)
+ 
 
 ## World
 
