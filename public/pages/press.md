@@ -42,6 +42,7 @@ If you're interested in a particular topic, we'll connect you with the right per
     - (in German)[https://de.euronews.com/2022/04/29/forscher-im-exil-zwei-ukrainer-arbeiten-jetzt-am-experimentalreaktor-in-madrid], 29 April 2022, Euronews
     - (in Hungarian)[https://hu.euronews.com/2022/04/29/ukran-kutatokat-fogadnak-a-spanyol-egyetemek], 29 April 2022, Euronews
 - Nisha Gaind: [How three Ukrainian scientists are surviving Russia’s brutal war](https://www.nature.com/articles/d41586-022-01272-3), 6 May 2022, Nature News
+- Goda Naujokaitytė: [Response to the needs of scientists in crisis must become more dependable](https://sciencebusiness.net/news/response-needs-scientists-crisis-must-become-more-dependable), 17 June 2022, Science|Business
 
 ## Press Materials
 
