@@ -8,11 +8,14 @@ If you're interested in a particular topic, we'll connect you with the right per
 
 ## Press Releases
 
-1.  April 22nd, 2022: **Scholars and institutions willing to host Ukrainian researchers under general funding programmes are encouraged to submit a support offer to the #ScienceForUkraine database**  
+1. June 20th, 2022: **#ScienceForUkraine sums up three months of supporting the Ukrainian academic community**
+[en](https://drive.google.com/file/d/152CZWiBF7zVFScmA8h0An6i73LkxYXUs/view?usp=sharing) 
+
+2.  April 22nd, 2022: **Scholars and institutions willing to host Ukrainian researchers under general funding programmes are encouraged to submit a support offer to the #ScienceForUkraine database**  
     [de](https://drive.google.com/file/d/1ylRFeTtWSU2JHHH0sAV89dweztGuTbBT/view) [en](https://drive.google.com/file/d/16C9VW6ZiGoGdWZGTAdnbQwGR0cLkr0y_/view) [es](https://drive.google.com/file/d/1rpfF_ZkdJEPOep7FUVjOZO-jVILPgU7f/view) [fi](https://drive.google.com/file/d/1VP9KTLSFOKStq-8qCzpHyNWhTtNjyEvI/view) [fr](https://drive.google.com/file/d/1Kz53JwRSKS5KB2P4Ej3u7_7et2bFH8BQ/view) [lv](https://drive.google.com/file/d/1ntQ4DlpXEBOQJYR_4fKSl7tG75v6qBwK/view) [nl](https://drive.google.com/file/d/1UEOYj9gzUUOyeGRAqOQF9ltCvMJULMY4/view) [pl](https://drive.google.com/file/d/13tpBTePS2pV9LzII4doIPi6rYKjMrh14/view) [sk](https://drive.google.com/file/d/1AcXevJ1eJMw8etDDuKFmEch2FqhUV97H/view) [sv](https://drive.google.com/file/d/132yzzPGDnYhKZaEQUQCfGNGC6Om23jGv/view)  
     [Poster (en)](https://drive.google.com/file/d/1GovFGM97Dzn2Eubhbc-WWUw61KDOqMRx/view)
     
-2.  March 28th, 2022: **Scholars who remained in Ukraine need remote collaboration opportunities**
+3.  March 28th, 2022: **Scholars who remained in Ukraine need remote collaboration opportunities**
     
     [bg](https://drive.google.com/file/d/1GakVdAq0vjfzqM1MnUHjPLznh-SDXOup/view) [de](https://drive.google.com/file/d/1507uOS5L3LL6E78AAmdQ_7pdvscRdbwR/view) [en](https://drive.google.com/file/d/1KIO96sfir9oPkVOOKtxXzzx4iPr2_d_-/view) [es](https://drive.google.com/file/d/1TpErt34hjjJOHJyVa6oNk8EsgDUEqfbe/view) [fi](https://drive.google.com/file/d/1NeQx-81oLHqbighVp_8q4H-kC6nqd8No/view) [fr](https://drive.google.com/file/d/1b2OnLFguaGYuyHsoC0yRbAhYRYZ155xR/view) [it](https://drive.google.com/file/d/1C8lhKChKZBITGIto0ouVZsynuzMIKruW/view) [lv](https://drive.google.com/file/d/1kh7MWZg1Z3-moSHkdGkYK80ZWgsGvT1f/view) [nl](https://drive.google.com/file/d/1LBAwGBhCp5w1rt2_COQElCt-p2y-nOzB/view) [pl](https://drive.google.com/file/d/1Mfu_-E6qrsPQp9LkdVuiflp9yB9HBNEN/view) [pt](https://drive.google.com/file/d/1mSeFWui_x-DzngDPO-KHor41d_ltPydu/view) [pt (BR)](https://drive.google.com/file/d/1N4T1mjAiYM_2RN3ojvKhIuPt-jAQfiJU/view) [ro](https://drive.google.com/file/d/1Gbyi0pqutmMq1ki2pfy9lFm6eEL5x-Ff/view) [sk](https://drive.google.com/file/d/1R7PyQmrzu5TDzfVRo-cSqLZNlwYrKBNj/view) [sv](https://drive.google.com/file/d/1PqEt7uh7RJLrvX8ALx4NTrJviXn5E6kY/view)  
     [Poster (en)](https://drive.google.com/file/d/1r-Yh5q4lqYxNtSOwJwD2ccO3EljFZTt6/view)
