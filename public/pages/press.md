@@ -9,7 +9,7 @@ If you're interested in a particular topic, we'll connect you with the right per
 ## Press Releases
 
 1. June 20th, 2022: **#ScienceForUkraine sums up three months of supporting the Ukrainian academic community**
-[en](https://drive.google.com/file/d/152CZWiBF7zVFScmA8h0An6i73LkxYXUs/view?usp=sharing) 
+    [en](https://drive.google.com/file/d/152CZWiBF7zVFScmA8h0An6i73LkxYXUs/view?usp=sharing) 
 
 2.  April 22nd, 2022: **Scholars and institutions willing to host Ukrainian researchers under general funding programmes are encouraged to submit a support offer to the #ScienceForUkraine database**  
     [de](https://drive.google.com/file/d/1ylRFeTtWSU2JHHH0sAV89dweztGuTbBT/view) [en](https://drive.google.com/file/d/16C9VW6ZiGoGdWZGTAdnbQwGR0cLkr0y_/view) [es](https://drive.google.com/file/d/1rpfF_ZkdJEPOep7FUVjOZO-jVILPgU7f/view) [fi](https://drive.google.com/file/d/1VP9KTLSFOKStq-8qCzpHyNWhTtNjyEvI/view) [fr](https://drive.google.com/file/d/1Kz53JwRSKS5KB2P4Ej3u7_7et2bFH8BQ/view) [lv](https://drive.google.com/file/d/1ntQ4DlpXEBOQJYR_4fKSl7tG75v6qBwK/view) [nl](https://drive.google.com/file/d/1UEOYj9gzUUOyeGRAqOQF9ltCvMJULMY4/view) [pl](https://drive.google.com/file/d/13tpBTePS2pV9LzII4doIPi6rYKjMrh14/view) [sk](https://drive.google.com/file/d/1AcXevJ1eJMw8etDDuKFmEch2FqhUV97H/view) [sv](https://drive.google.com/file/d/132yzzPGDnYhKZaEQUQCfGNGC6Om23jGv/view)  
