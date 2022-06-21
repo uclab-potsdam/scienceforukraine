@@ -108,6 +108,7 @@ This list of funding programmes and other support initiatives is maintained for 
     The counsellors listed on this page come from many backgrounds, work with different therapeutic modalities, and speak a wide variety of languages. What unites them is that they have agreed to offer free, online counselling for any person directly affected by the war in Ukraine.
 *   Volunteer psychological help [https://mental-help.super.site](https://mental-help.super.site)
 *   P2P help with CV editing [https://www.p2pcv.org]( https://www.p2pcv.org)
+*   A list of researchers with computational expertise who are willing to provide virtual support and advice for scientists forced to refocus on computational work due to a crisis. [https://research-support-network.github.io/](https://research-support-network.github.io/)
 
   
 
