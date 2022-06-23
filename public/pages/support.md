@@ -78,6 +78,7 @@ This list of funding programmes and other support initiatives is maintained for 
     [https://e-smi.eu/support-ukrainian-scientists](https://e-smi.eu/support-ukrainian-scientists/)
 *   Photonic Aid for Ukraine (PA4UA) [https://wavejobs.eu/ukraine/eng](https://wavejobs.eu/ukraine/eng/)
 *   War in Ukraine - student support center: database collecting support offer for students [https://ukraine.dev.uni-foundation.eu/](https://ukraine.dev.uni-foundation.eu/)
+*   European Association for Cancer Research (EACR) lists the labs offering to host a researcher [https://www.eacr.org/ukraine/eacr-funded-short-term-placements-in-cancer-research-labs](https://www.eacr.org/ukraine/eacr-funded-short-term-placements-in-cancer-research-labs)
 
 **Training**
 
