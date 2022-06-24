@@ -539,6 +539,7 @@ ERA4Ukraine [https://www.euraxess.pl/ukraine](https://www.euraxess.pl/ukraine)
 *   Scholarship of Julia Zdanowska, intended for scientifically outstanding students and graduates of Ukrainian secondary schools who intend to study at the Jagiellonian University in the academic year 2022/2023  
     [https://matinf.uj.edu.pl/kandydaci/oferta-dla-najlepszych/stypendium-julii-zdanowskiej/informacja-ogolna](j.edu.pl/kandydaci/oferta-dla-najlepszych/stypendium-julii-zdanowskiej/informacja-ogolna)
 *   Solidarni z Ukraina, national system of online admission for Cadidates from Ukraine [https://ukraina.irk.edu.pl/en-gb/](https://ukraina.irk.edu.pl/en-gb/)
+*   Financial assistance opportunity at Jagiellonian University [https://en.uj.edu.pl/en_GB/support-for-ukraine/-/journal_content/56_INSTANCE_IC7eeGH5uxr7/81541894/150549251](https://en.uj.edu.pl/en_GB/support-for-ukraine/-/journal_content/56_INSTANCE_IC7eeGH5uxr7/81541894/150549251)
 
 **Online courses**
 
@@ -736,6 +737,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
     [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html)
 *   Petro Jacyk Non-Resident Scholars Program [https://munkschool.utoronto.ca/jacyk/project/visiting-scholarships](https://munkschool.utoronto.ca/jacyk/project/visiting-scholarships)
 *   Summer Program Grants for Displaced Ukrainian Youth [https://shevchenkofoundation.com/summer-program-grants-for-displaced-ukrainian-youth/](https://shevchenkofoundation.com/summer-program-grants-for-displaced-ukrainian-youth/)
+*   Ukraine Emergency Doctoral Student Fellowship in the Humanities (University of Victoria) [https://www.uvic.ca/humanities/student-resources/graduate-finances/index.php](https://www.uvic.ca/humanities/student-resources/graduate-finances/index.php)
 
   
 
