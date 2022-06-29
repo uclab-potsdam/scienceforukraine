@@ -563,6 +563,7 @@ ERA4Ukraine [https://www.euraxess.pt/ukraine](https://www.euraxess.pt/ukraine)
 **Funding**
 
 *   Call for expressions of interest to get an academic opportunity in Portugal for scholars and students from Ukraine [https://rrm-online.org](https://rrm-online.org/index.php/news/9-news/109-students-researchers-scholars-from-ukraine-call-for-expressions-of-interest-to-get-an-academic-opportunity-in-portugal)
+*   Nexus 3.0, Fully funded scholarships for Ukrainian students and students from Ukraine [https://nexus3.pt/projects/call-for-applications-ukraine-20220601/](https://nexus3.pt/projects/call-for-applications-ukraine-20220601/)
 
 **Other support**
 
@@ -703,6 +704,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 *   Visiting Ukrainian Doctoral Scholarships at the University of Bristol  
     [https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships](https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships)
 *   Support program for researchers in mathematical sciences offered by Isaac Newton Institute for Mathematical Sciences [https://www.newton.ac.uk/event/slm/](https://www.newton.ac.uk/event/slm/)
+*   Sanctuary scholarships for doctoral students at the University od Edinburgh (College of Science and Engineering) [https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships](https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships)
     
 
 **Other academic support**
