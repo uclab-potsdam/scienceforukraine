@@ -337,6 +337,8 @@ An extensive list of support programmes updated by Karin Reichenbach (GWZO) and 
     [https://career.mpifg.de/jobposting](https://career.mpifg.de/jobposting/2252b79bf81d1024776d774fa5ce5617ca13180d0?ref=homepage)
 *   Help for women from Ukraine - emergency loans for study projects and other qualification projects  
     [https://www.hildegardis-verein.de/ukraine-soforthilfe.html](https://www.hildegardis-verein.de/ukraine-soforthilfe.html)
+*   Remote scholarships from the Hanse-Wissenschaftskolleg - Institute for Advanced Study (HWK) [https://hanse-ias.de/fileadmin/user_upload/downloads/bewerbung/Call_Ukraine_4_2022.pdf](https://hanse-ias.de/fileadmin/user_upload/downloads/bewerbung/Call_Ukraine_4_2022.pdf)
+    
 
 **Support organizations**
 
@@ -740,6 +742,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 *   Petro Jacyk Non-Resident Scholars Program [https://munkschool.utoronto.ca/jacyk/project/visiting-scholarships](https://munkschool.utoronto.ca/jacyk/project/visiting-scholarships)
 *   Summer Program Grants for Displaced Ukrainian Youth [https://shevchenkofoundation.com/summer-program-grants-for-displaced-ukrainian-youth/](https://shevchenkofoundation.com/summer-program-grants-for-displaced-ukrainian-youth/)
 *   Ukraine Emergency Doctoral Student Fellowship in the Humanities (University of Victoria) [https://www.uvic.ca/humanities/student-resources/graduate-finances/index.php](https://www.uvic.ca/humanities/student-resources/graduate-finances/index.php)
+*  University of Alberta,  Support for Disrupted Ukrainian Scholars and Students (DUSS) [https://www.ualberta.ca/media-technology-studies/about-us/news/2022/june-2022/duss-ualberta---disrupted-ukrainian-scholars--students-initiative.html](https://www.ualberta.ca/media-technology-studies/about-us/news/2022/june-2022/duss-ualberta---disrupted-ukrainian-scholars--students-initiative.html)
 
   
 
