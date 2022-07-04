@@ -152,6 +152,8 @@ ERA4Ukraine [https://www.euraxess.at/ukraine](https://www.euraxess.at/ukraine)
     [https://www.esi.ac.at/news/n23](https://www.esi.ac.at/news/n23)
 *   Ukraine Emergency Fellowship. Deadline 30 June 2022  
     [https://www.vwi.ac.at/index.php/en/veranstaltungen/icalrepeat.detail/2022/04/28/389/-/ukraine-emergency-call](https://www.vwi.ac.at/index.php/en/veranstaltungen/icalrepeat.detail/2022/04/28/389/-/ukraine-emergency-call)
+*    MedUni Vienna offers support for medical studies [https://www.meduniwien.ac.at/web/en/international-affairs/information-for-students-with-ukrainian-refugee-status/](https://www.meduniwien.ac.at/web/en/international-affairs/information-for-students-with-ukrainian-refugee-status/)
+    
 
 **Other support**
 
@@ -715,6 +717,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
     [https://www.cara.ngo](https://www.cara.ngo)
 *   STAR - Student Action for Refugees [https://star-network.org.uk/about](https://star-network.org.uk/about)
 *   SAAS (Student Awards Agency Scotland) overview of support for Ukrainian Students [https://www.saas.gov.uk/guides/support-for-ukrainian-students](https://www.saas.gov.uk/guides/support-for-ukrainian-students)
+*  From 1 August 2022, the Scottish government is providing eligibility for 'home' fee status and full Student Support for people who are in the UK under the recently introduced immigration schemes for Ukrainian and Afghan nationals and their family members [https://www.ukcisa.org.uk/studentnews/1912/Scotland-Ukraine-and-Afghan-provisions](https://www.ukcisa.org.uk/studentnews/1912/Scotland-Ukraine-and-Afghan-provisions)
 
 **Accommodation**
 
