@@ -714,6 +714,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 *   Council for At-Risk Academics - researchers must register with CARA directly who later match them to an institution. Fellowships last 2 years.  
     [https://www.cara.ngo](https://www.cara.ngo)
 *   STAR - Student Action for Refugees [https://star-network.org.uk/about](https://star-network.org.uk/about)
+*   SAAS (Student Awards Agency Scotland) overview of support for Ukrainian Students [https://www.saas.gov.uk/guides/support-for-ukrainian-students](https://www.saas.gov.uk/guides/support-for-ukrainian-students)
 
 **Accommodation**
 
