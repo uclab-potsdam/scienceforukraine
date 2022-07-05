@@ -72,6 +72,7 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 *   [Leiden University Medical Center](https://www.lumc.nl)
 *   [Leiden University](https://www.universiteitleiden.nl/en)
 *   [Dutch Society for Clinical Pharmacology & Biopharmacy (NVKFB)](https://nvkfb.nl/2022/03/27/scienceforukraine/)
+*   [Students for Ukraine](https://studentsforukraine.nl)
 
   
 
