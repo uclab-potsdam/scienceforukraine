@@ -92,6 +92,9 @@ router.beforeEach((to, from, next) => {
     next(path)
     return
   }
+  if (from.name != null && /\/[^#]+#/.test(to.fullPath)) {
+    return
+  }
   next()
 })
 

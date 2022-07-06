@@ -4,8 +4,26 @@
 Please inform us about funding and support programmes that are not listed below via email [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu). 
 This list of funding programmes and other support initiatives is maintained for general reference. We do not check deadlines and new calls. For updated information, please check the [database](https://scienceforukraine.eu) applying filter "Funding Programme".
 
-## International
+| **`*`**  | [International](#international)  
+| **`A`**  | [Albania](#albania) – [Armenia](#armenia) – [Austria](#austria)  
+| **`B`**  | [Belgium](#belgium) – [Bosnia and Herzogovina](#bosnia-and-herzogovina) – [Brazil](#brazil) – [Bulgaria](#bulgaria)  
+| **`C`**  | [Canada](#canada) – [Croatia](#croatia) – [Cyprus](#cyprus) – [Czech Republic](#czech-republic)  
+| **`D`**  | [Denmark](#denmark)  
+| **`E`**  | [Estonia](#estonia)  
+| **`F`**  | [Faroe Islands](#faroe-islands) – [Finland](#finland) – [France](#france)  
+| **`G`**  | [Georgia](#georgia) – [Germany](#germany) – [Greece](#greece)  
+| **`H`**  | [Hungary](#hungary)  
+| **`I`**  | [Iceland](#iceland) – [Ireland](#ireland) – [Israel](#israel) – [Italy](#italy)  
+| **`L`**  | [Latvia](#latvia) – [Lithuania](#lithuania) – [Luxembourg](#luxembourg)  
+| **`M`**  | [Malta](#malta) – [Moldova](#moldova) – [Montenegro](#montenegro)  
+| **`N`**  | [Netherlands](#netherlands) – [North Macedonia](#north-macedonia) – [Norway](#norway)  
+| **`P`**  | [Poland](#poland) – [Portugal](#portugal)  
+| **`R`**  | [Romania](#romania)  
+| **`S`**  | [Serbia](#serbia) – [Slovakia](#slovakia) – [Slovenia](#slovenia) – [Spain](#spain) – [Sweden](#sweden) – [Switzerland](#switzerland)  
+| **`T`**  | [Turkey](#turkey)  
+| **`U`**  | [U.K.](#uk) – [Ukraine](#ukraine) – [U.S.](#us)
 
+## International
 
 **Funding and support programmes for researchers and students**
 
@@ -577,7 +595,7 @@ ERA4Ukraine [https://www.euraxess.pt/ukraine](https://www.euraxess.pt/ukraine)
 *   From Ukraine to Portugal [https://boulder-hibiscus-53d.notion.site/From-Ukraine-to-Portugal](https://boulder-hibiscus-53d.notion.site/From-Ukraine-to-Portugal-5e9cb791007141b4a0a6fa4d6867703d )
 *   Visa and resident issues [https://boulder-hibiscus-53d.notion.site/Visa-and-Residence-Issues](https://boulder-hibiscus-53d.notion.site/Visa-and-Residence-Issues-cd5fe79ca02448f4adae33ef55cdedec )
 *   Consul emergency phone numbers: +351 217 929 714 | +351 961 706 472
-*   SOS Ucrania [sosucrania@acm.gov.pt](sosucrania@acm.gov.pt) | 218 106 191
+*   SOS Ucrania [sosucrania@acm.gov.pt](sosucrania@acm.gov.pt) – 218 10691
 
   
 

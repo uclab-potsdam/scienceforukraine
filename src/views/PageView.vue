@@ -35,3 +35,10 @@ export default {
   }
 }
 </script>
+<style lang="scss">
+.markdown {
+  a:hover {
+    text-decoration: underline;
+  }
+}
+</style>

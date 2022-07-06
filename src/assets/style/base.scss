@@ -58,6 +58,8 @@ html {
   background: var(--background);
   color: var(--text);
 
+  scroll-padding-top: 60px;
+
   ::selection {
     background: var(--accent-2);
   }
@@ -85,6 +87,10 @@ html {
   a {
     color: var(--accent-1);
     text-decoration: none;
+  }
+
+  code {
+    font-family: ui-monospace, monospace;
   }
 
   // #app {
