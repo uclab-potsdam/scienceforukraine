@@ -340,6 +340,7 @@ An extensive list of support programmes updated by Karin Reichenbach (GWZO) and 
 *   Help for women from Ukraine - emergency loans for study projects and other qualification projects  
     [https://www.hildegardis-verein.de/ukraine-soforthilfe.html](https://www.hildegardis-verein.de/ukraine-soforthilfe.html)
 *   Remote scholarships from the Hanse-Wissenschaftskolleg - Institute for Advanced Study (HWK) [https://hanse-ias.de/fileadmin/user_upload/downloads/bewerbung/Call_Ukraine_4_2022.pdf](https://hanse-ias.de/fileadmin/user_upload/downloads/bewerbung/Call_Ukraine_4_2022.pdf)
+*   As part of the HessenFonds, the Hessian Ministry of Higher Education, Research, Science and the Arts provides scholarships for exceptionally talented and high achieving university students and researchers with refugee status at state universities in Hessen [https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees](https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees)
     
 
 **Support organizations**
@@ -709,6 +710,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
     [https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships](https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships)
 *   Support program for researchers in mathematical sciences offered by Isaac Newton Institute for Mathematical Sciences [https://www.newton.ac.uk/event/slm/](https://www.newton.ac.uk/event/slm/)
 *   Sanctuary scholarships for doctoral students at the University od Edinburgh (College of Science and Engineering) [https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships](https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships)
+*   The Academics beyond Borders scheme at the University of Edinburg provides remote academic support for PhD students affected by conflicts and/or repression [https://www.sps.ed.ac.uk/students/postgraduate/phd/academics-beyond-borders](https://www.sps.ed.ac.uk/students/postgraduate/phd/academics-beyond-borders) 
     
 
 **Other academic support**
