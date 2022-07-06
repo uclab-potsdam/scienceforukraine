@@ -6,7 +6,7 @@ This list of funding programmes and other support initiatives is maintained for 
 
 | **`*`**  | [International](#international)  
 | **`A`**  | [Albania](#albania) – [Armenia](#armenia) – [Austria](#austria)  
-| **`B`**  | [Belgium](#belgium) – [Bosnia and Herzogovina](#bosnia-and-herzogovina) – [Brazil](#brazil) – [Bulgaria](#bulgaria)  
+| **`B`**  | [Belgium](#belgium) – [Bosnia and Herzegovina](#bosnia-and-herzegovina) – [Brazil](#brazil) – [Bulgaria](#bulgaria)  
 | **`C`**  | [Canada](#canada) – [Croatia](#croatia) – [Cyprus](#cyprus) – [Czech Republic](#czech-republic)  
 | **`D`**  | [Denmark](#denmark)  
 | **`E`**  | [Estonia](#estonia)  
@@ -194,7 +194,7 @@ ERA4Ukraine [https://www.euraxess.be/ukraine](https://www.euraxess.be/ukraine)
 
   
 
-### Bosnia and Herzogovina
+### Bosnia and Herzegovina
 
 ERA4Ukraine [https://www.euraxess.ba/ukraine](https://www.euraxess.ba/ukraine)
 
