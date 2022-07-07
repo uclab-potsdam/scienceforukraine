@@ -269,6 +269,8 @@ Finland's support to students and researchers who have fled the war in Ukraine
     [https://www.oph.fi/en/development/edufi-fellowship-doctoral-students-ukraine](https://www.oph.fi/en/development/edufi-fellowship-doctoral-students-ukraine)
 *   Special call for Applications from scholars affected by the crisis in Ukraine by the Turku Collegium for Science, Medicine and Technology  
     [https://www.utu.fi/en/research/research-collegia/tcsm/call-for-applications](https://www.utu.fi/en/research/research-collegia/tcsm/call-for-applications)
+*   University of Helsinki covers 40% of hiring cost of a researcher on career steps 2 or 3 for one year. Employment must begin between August 1 and December 31, 2022. [https://www.helsinki.fi/en/news/university/university-helsinki-allocating-funds-hire-researchers-who-are-fleeing-war-ukraine](https://www.helsinki.fi/en/news/university/university-helsinki-allocating-funds-hire-researchers-who-are-fleeing-war-ukraine)
+
 
   
 
