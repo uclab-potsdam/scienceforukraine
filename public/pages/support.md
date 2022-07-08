@@ -445,7 +445,7 @@ ERA4Ukraine [https://www.euraxess.it/ukraine](https://www.euraxess.it/ukraine)
 
 ### Latvia
 
-**#ScienceForUkraine mentoring support**: intended for students and scholars who need help to get oriented in Latvia's support schemes and science and higher education system, or to find a hosting institution. Send your request to: [nordic-baltic@scienceforukraine.eu](mailto:nordic-baltic@scienceforukraine.eu?subject=Mentoring in Latvia)
+**#ScienceForUkraine mentoring support**: intended for students and scholars who need help to get oriented in Latvia's support schemes and science and higher education system, or to find a hosting institution. Send your request to: nordic-baltic@scienceforukraine.eu with a subject 'Mentoring in Latvia'.
 
 ERA4Ukraine [https://www.euraxess.lv/ukraine](https://www.euraxess.lv/ukraine)
 
