@@ -792,6 +792,8 @@ ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/uk
 
 ### U.S.
 
+*   Indiana University Ukraine Non-Resident Scholars Program, launched 06.06.2022
+    [https://news.iu.edu/stories/2022/06/iub/releases/06-host-nonresidential-scholars-from-ukraine.html](https://news.iu.edu/stories/2022/06/iub/releases/06-host-nonresidential-scholars-from-ukraine.html)
 *   Columbia University Scholarship for Displaced Students  
     [https://globalcenters.columbia.edu/CUSDS](https://globalcenters.columbia.edu/CUSDS)
 *   Free Courses to Ukrainian Students by the University of the People  
