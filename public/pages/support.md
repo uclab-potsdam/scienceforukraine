@@ -734,6 +734,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 *   Support program for researchers in mathematical sciences offered by Isaac Newton Institute for Mathematical Sciences [https://www.newton.ac.uk/event/slm/](https://www.newton.ac.uk/event/slm/)
 *   Sanctuary scholarships for doctoral students at the University od Edinburgh (College of Science and Engineering) [https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships](https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships)
 *   The Academics beyond Borders scheme at the University of Edinburg provides remote academic support for PhD students affected by conflicts and/or repression [https://www.sps.ed.ac.uk/students/postgraduate/phd/academics-beyond-borders](https://www.sps.ed.ac.uk/students/postgraduate/phd/academics-beyond-borders) 
+*   Researchers at Risk Fellowships Programme [https://news.liverpool.ac.uk/2022/07/07/new-researchers-at-risk-scheme-open-for-ukrainian-applicants/](https://news.liverpool.ac.uk/2022/07/07/new-researchers-at-risk-scheme-open-for-ukrainian-applicants/)
     
 
 **Other academic support**
