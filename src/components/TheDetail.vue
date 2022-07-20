@@ -2,7 +2,7 @@
   <div class="the-detail">
     <header class="max-width">
       <div class="max-width-inner">
-        <router-link :to="{ name: 'home' }">← all submissions</router-link>
+        <router-link :to="{ name: 'listings' }">← all submissions</router-link>
         <span v-if="prev && next">
           <router-link :to="{ name: 'detail', params: {id: prev} }">← </router-link>
           <span class="dimmed">{{index + 1}}/{{items.length}}</span>

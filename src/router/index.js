@@ -7,6 +7,13 @@ const routes = [
     name: 'home',
     // redirect: 'transfers'
     // component: HomeView
+    component: () => import(/* webpackChunkName: "positions" */ '../views/HomeView.vue')
+  },
+  {
+    path: '/listings',
+    name: 'listings',
+    // redirect: 'transfers'
+    // component: HomeView
     component: () => import(/* webpackChunkName: "positions" */ '../views/ListingsView.vue')
   },
   {
@@ -48,7 +55,7 @@ const routes = [
   // redirects to support old link schema
   {
     path: '/positions',
-    redirect: { name: 'home' }
+    redirect: { name: 'listings' }
   },
   {
     path: '/positions/:id',
@@ -56,7 +63,7 @@ const routes = [
   },
   {
     path: '/transfers',
-    redirect: { name: 'home' }
+    redirect: { name: 'listings' }
   },
   {
     path: '/transfers/:id',
