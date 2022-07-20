@@ -75,6 +75,7 @@ export default {
   name: 'TheDetail',
   setup () {
     const store = useMainStore()
+    store.init()
     return { store }
   },
   computed: {
