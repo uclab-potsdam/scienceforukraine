@@ -3,9 +3,17 @@
 ## Mission Statement
 
 
-#ScienceForUkraine is a community group of volunteer students and research scientists from academic institutions in Europe and around the world.
+#ScienceForUkraine is a grass-root initiative run by an international community of volunteer scholars and students since the beginning of Russia’s war in Ukraine. 
 
-Our mission is to collect and disseminate information about support opportunities at the university, national, and international level for graduate students and researchers directly affiliated to an academic institution in Ukraine.
+Ours mission is to support the Ukrainian academic community in surviving the war and to help ensure the continuity of Ukraine's science and strengthen its presence in the international science arena. 
+
+The initiative works in several directions with the following objectives: 
+* First, to collect and disseminate information about support opportunities at the university, national, and international level for Ukrainian researchers and students.
+* Second, to monitor the current situation of Ukrainian research, higher education institutions, and scholars and students (both those in Ukraine and those who have fled), to closely follow decisions taken by governments and funding agencies, announced support mechanisms and general funding schemes.
+* Third, to raise awareness among the international academic community, national governments, funding bodies, and international organisations of the need to support Ukrainian scientists and students.
+* Fourth, to build partnerships with Ukrainian and international academic institutions, research organisations, and initiatives supporting scholars at risk in order to leverage impact, exchange information, and implement joint efforts in support of the Ukrainian academic community. As well, to liaise with national and European funders and organisations to provide targeted support for Ukraine’s academic community.
+
+Read more about #ScienceForUkraine in our [3 month report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4139263), published on June 17, 2022.
 
 We are grateful for support from [NEP4DISSENT COST Action](https://nep4dissent.eu/), [Institute of Literature, Folklore and Art of the University of Latvia](http://lulfmi.lv/en/news) and the [Polish Young Academy - Polish Academy of Sciences](https://amu.pan.pl/en/). Other institutions, networks and initiatives we partner with are listed [here](./partners.html).
 

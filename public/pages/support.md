@@ -75,8 +75,11 @@ This list of funding programmes and other support initiatives is maintained for 
 *   The European Association of Private International Law: funding opportunities for scholars from Ukraine  
     [https://eapil.org/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus](https://eapil.org/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus/)
   
-*   The FEMS Ukraine Support Grant [https://fems-microbiology.org/about\_fems/network-and-activities/grants/fems-ukraine-support-grant](https://fems-microbiology.org/about_fems/network-and-activities/grants/fems-ukraine-support-grant target=)  
+*   The FEMS Ukraine Support Grant [https://fems-microbiology.org/about\_fems/network-and-activities/grants/fems-ukraine-support-grant](https://fems-microbiology.org/about_fems/network-and-activities/grants/fems-ukraine-support-grant)  
     Intended for Early Career Microbiologists who are members of the Ukrainian Society of Microbiologists and those of other FEMS Member Societies who are in Ukraine and caught up in the war. The grant contributes up to €6,000 for travel, accommodation, and some living costs to enable the grantee to undergo research and training at a European host institution (academic or industrial). The grant is for a maximum of 6 months.  
+    
+*   ALLEA (All European Academies), Call for Applications for Ukrainian Academic Institutions. The aim of this funding is to support Ukrainian academic institutions in the continuation and/or reinstatement of their scientific operations and research collaborations, as well as to support initiatives that facilitate reintegration of researchers upon their return to Ukraine. [https://allea.org/call-for-applications-for-ukrainian-academic-institutions-open/](https://allea.org/call-for-applications-for-ukrainian-academic-institutions-open/).
+*   XTX Markets Academic Sanctuaries Fund, application possible for universities and registered charities in any country [https://www.datocms-assets.com/10954/1656312762-academic-sanctuaries-fund-application-and-faqs-220626.pdf](https://www.datocms-assets.com/10954/1656312762-academic-sanctuaries-fund-application-and-faqs-220626.pdf) 
     
 
 **Other support initiatives**
@@ -269,6 +272,8 @@ Finland's support to students and researchers who have fled the war in Ukraine
     [https://www.oph.fi/en/development/edufi-fellowship-doctoral-students-ukraine](https://www.oph.fi/en/development/edufi-fellowship-doctoral-students-ukraine)
 *   Special call for Applications from scholars affected by the crisis in Ukraine by the Turku Collegium for Science, Medicine and Technology  
     [https://www.utu.fi/en/research/research-collegia/tcsm/call-for-applications](https://www.utu.fi/en/research/research-collegia/tcsm/call-for-applications)
+*   University of Helsinki covers 40% of hiring cost of a researcher on career steps 2 or 3 for one year. Employment must begin between August 1 and December 31, 2022. [https://www.helsinki.fi/en/news/university/university-helsinki-allocating-funds-hire-researchers-who-are-fleeing-war-ukraine](https://www.helsinki.fi/en/news/university/university-helsinki-allocating-funds-hire-researchers-who-are-fleeing-war-ukraine)
+
 
   
 
@@ -440,7 +445,7 @@ ERA4Ukraine [https://www.euraxess.it/ukraine](https://www.euraxess.it/ukraine)
 
 ### Latvia
 
-**#ScienceForUkraine mentoring support**: intended for students and scholars who need help to get oriented in Latvia's support schemes and science and higher education system, or to find a hosting institution. Send your request to: [nordic-baltic@scienceforukraine.eu](mailto:nordic-baltic@scienceforukraine.eu?subject=Mentoring in Latvia)
+**#ScienceForUkraine mentoring support**: intended for students and scholars who need help to get oriented in Latvia's support schemes and science and higher education system, or to find a hosting institution. Send your request to: nordic-baltic@scienceforukraine.eu with a subject 'Mentoring in Latvia'.
 
 ERA4Ukraine [https://www.euraxess.lv/ukraine](https://www.euraxess.lv/ukraine)
 
@@ -729,6 +734,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 *   Support program for researchers in mathematical sciences offered by Isaac Newton Institute for Mathematical Sciences [https://www.newton.ac.uk/event/slm/](https://www.newton.ac.uk/event/slm/)
 *   Sanctuary scholarships for doctoral students at the University od Edinburgh (College of Science and Engineering) [https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships](https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships)
 *   The Academics beyond Borders scheme at the University of Edinburg provides remote academic support for PhD students affected by conflicts and/or repression [https://www.sps.ed.ac.uk/students/postgraduate/phd/academics-beyond-borders](https://www.sps.ed.ac.uk/students/postgraduate/phd/academics-beyond-borders) 
+*   Researchers at Risk Fellowships Programme [https://news.liverpool.ac.uk/2022/07/07/new-researchers-at-risk-scheme-open-for-ukrainian-applicants/](https://news.liverpool.ac.uk/2022/07/07/new-researchers-at-risk-scheme-open-for-ukrainian-applicants/)
     
 
 **Other academic support**
@@ -787,6 +793,8 @@ ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/uk
 
 ### U.S.
 
+*   Indiana University Ukraine Non-Resident Scholars Program, launched 06.06.2022
+    [https://news.iu.edu/stories/2022/06/iub/releases/06-host-nonresidential-scholars-from-ukraine.html](https://news.iu.edu/stories/2022/06/iub/releases/06-host-nonresidential-scholars-from-ukraine.html)
 *   Columbia University Scholarship for Displaced Students  
     [https://globalcenters.columbia.edu/CUSDS](https://globalcenters.columbia.edu/CUSDS)
 *   Free Courses to Ukrainian Students by the University of the People  
