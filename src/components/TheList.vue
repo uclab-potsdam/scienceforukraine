@@ -63,6 +63,7 @@ export default {
   props: ['mode'],
   setup () {
     const store = useMainStore()
+    store.init()
     return { store }
   },
   computed: {
