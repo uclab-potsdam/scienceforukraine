@@ -57,7 +57,7 @@ export const useMainStore = defineStore('main', {
   },
   actions: {
     async init (mode) {
-      this.entries = csvParse(await fetch('https://ft0.ch/sfu/data.csv').then(res => res.text()), autoType).reverse()
+      this.entries = csvParse(await fetch('https://ft0.ch/sfu/data.csv', { cache: 'no-cache' }).then(res => res.text()), autoType).reverse()
       this.filters.filter(f => f.type === 'select').forEach(f => {
         f.options = [...new Set(this.entries.map(d => d[f.key]))].sort()
       })
