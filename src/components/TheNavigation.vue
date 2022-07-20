@@ -2,7 +2,7 @@
   <div class="navigation" ref="menu">
     <div class="bar max-width">
       <div class="max-width-inner">
-        <router-link to="/"><img src="@/assets/img/logo.svg" alt="Science For Ukraine"/></router-link>
+        <router-link to="/"><img src="@/assets/img/logo.svg" @click="closeMenu" alt="Science For Ukraine"/></router-link>
         <span class="menu-button" @click="toggleMenu">
           <span class="burger-icon" :class="{ open }"/>
         </span>
@@ -76,6 +76,10 @@ export default {
       } else {
         enableBodyScroll(this.$refs.menu)
       }
+    },
+    closeMenu () {
+      this.open = false
+      enableBodyScroll(this.$refs.menu)
     }
   }
 }
