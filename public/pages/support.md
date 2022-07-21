@@ -765,7 +765,8 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 ### Canada
 
-*   Special response fund to support research trainees from Ukraine  
+*    21.07.2022 Support program for researchers at different career stages at UHN (University Health Network). Deadline 30.11.2022. [https://uhntrainees.ca/stand-with-ukraine/#](https://uhntrainees.ca/stand-with-ukraine/#) 
+*     Special response fund to support research trainees from Ukraine  
     [https://www.canada.ca/en/innovation-science-economic-development/news/2022/03/government-of-canada-launches-fund-to-support-research-trainees-from-ukraine.html](https://www.canada.ca/en/innovation-science-economic-development/news/2022/03/government-of-canada-launches-fund-to-support-research-trainees-from-ukraine.html)
 *   Immigration measures for people affected by the Russian invasion of Ukraine  
     [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html)
