@@ -54,13 +54,6 @@ export default {
       e.stopPropagation()
     }
   }
-  // watch: {
-  //   mode: {
-  //     async handler (mode) {
-  //       console.log()
-  //     }
-  //   }
-  // }
 }
 </script>
 <style lang="scss" scoped>
