@@ -17,9 +17,21 @@ const routes = [
     component: () => import(/* webpackChunkName: "positions" */ '../views/ListingsView.vue')
   },
   {
+    path: '/institutions',
+    name: 'institutions',
+    // redirect: 'transfers'
+    // component: HomeView
+    component: () => import(/* webpackChunkName: "positions" */ '../views/InstitutionsView.vue')
+  },
+  {
     path: '/d/:id',
     name: 'detail',
     component: () => import(/* webpackChunkName: "positions" */ '../views/DetailView.vue')
+  },
+  {
+    path: '/i/:id',
+    name: 'institutionsDetail',
+    component: () => import(/* webpackChunkName: "positions" */ '../views/InstitutionsDetailView.vue')
   },
   // info pages
   {

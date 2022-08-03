@@ -2,11 +2,13 @@ import { defineStore, acceptHMRUpdate } from 'pinia'
 import { csvParse, autoType } from 'd3-dsv'
 
 import mappings from '@/assets/config/mappings'
+import institutionsMappings from '@/assets/config/institutionsMappings'
 
 export const useMainStore = defineStore('main', {
   state: () => ({
     entries: [],
     filters: mappings.filters,
+    institutionFilters: institutionsMappings.filters,
     filter: Object.fromEntries(mappings.filters.map(f => {
       return f.type === 'toggle' ? [f.key, false] : [f.name, null]
     })),
@@ -101,6 +103,12 @@ export const useMainStore = defineStore('main', {
       // }).sort((a, b) => {
       //   return +a.id.slice(1) < +b.id.slice(1) ? 1 : -1
       // })
+    },
+    async initInstitutions (mode) {
+      this.entries = csvParse(await fetch('https://ft0.ch/sfu/ua.csv', { cache: 'no-cache' }).then(res => res.text()), autoType).reverse()
+      this.institutionFilters.filter(f => f.type === 'select').forEach(f => {
+        f.options = [...new Set(this.entries.map(d => d[f.key]))].sort()
+      })
     }
     // async setMode (mode) {
     //   const entries = csvParse(await fetch(`https://ft0.ch/sfu/${mode}.csv`).then(res => res.text()))
