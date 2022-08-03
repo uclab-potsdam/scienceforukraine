@@ -88,7 +88,7 @@ export default {
     margin-top: var(--spacing-xl);
   }
   .content {
-    padding: var(--spacing);
+    padding: var(--spacing-l) var(--spacing);
     h2 {
       margin-bottom: var(--spacing);
     }
