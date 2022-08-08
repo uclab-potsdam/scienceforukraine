@@ -34,8 +34,8 @@ If you're interested in a particular topic, we'll connect you with the right per
 - Goda Naujokaitytė: [Response to the needs of scientists in crisis must become more dependable](https://sciencebusiness.net/news/response-needs-scientists-crisis-must-become-more-dependable), 17 June 2022, Science|Business
 - Nisha Gaind: [How three Ukrainian scientists are surviving Russia’s brutal war](https://www.nature.com/articles/d41586-022-01272-3), May 6 2022, Nature News
 - Carlos Marlasca: [España contrata a una treintena de cientificos ucranianos refugiados](https://es.euronews.com/2022/04/29/espana-contrata-a-una-treintena-de-cientificos-ucranianos-refugiados), 29 April 2022, Euronews
-    - (in German)[https://de.euronews.com/2022/04/29/forscher-im-exil-zwei-ukrainer-arbeiten-jetzt-am-experimentalreaktor-in-madrid], 29 April 29 2022, Euronews
-    - (in Hungarian)[https://hu.euronews.com/2022/04/29/ukran-kutatokat-fogadnak-a-spanyol-egyetemek], 29 April 2022, Euronews
+    - (in German) [https://de.euronews.com/2022/04/29/forscher-im-exil-zwei-ukrainer-arbeiten-jetzt-am-experimentalreaktor-in-madrid](Forscher im Exil: Zwei Ukrainer arbeiten jetzt am Experimentalreaktor in Madrid), 29 April 29 2022, Euronews
+    - (in Hungarian) [https://hu.euronews.com/2022/04/29/ukran-kutatokat-fogadnak-a-spanyol-egyetemek](Ukrán kutatókat fogadnak a spanyol egyetemek ), 29 April 2022, Euronews
 - Roberta Fulci: [Rifugiati scientifici](https://www.raiplaysound.it/audio/2022/04/Radio3-Scienza-del-21042022-6866632c-2889-41c2-99b3-435d82ea172c.html), 21 April 2022, Rai Radio3 Scienza
 - Goda Naujokaitytė: [Ukrainian researchers navigate times of war](https://sciencebusiness.net/news/ukrainian-researchers-navigate-times-war), 7 April 2022, Science|Business
 - Кирил Чеботарьов: [Тисячі вакансій і пропозицій. Як світ підтримує українських учених, вимушених тікати від війни](https://techno.nv.ua/ukr/popscience/vakansiji-ta-propoziciji-dlya-ukrajinskih-vchenih-yak-dopomagaye-proekt-scienceforukraine-50230240.html), 2 April 2022, НВ
@@ -46,8 +46,8 @@ If you're interested in a particular topic, we'll connect you with the right per
 - Goda Naujokaitytė, Florin Zubașcu: [Universities start scoping out how to help Ukrainian academics fleeing the war](https://sciencebusiness.net/news/universities-start-scoping-out-how-help-ukrainian-academics-fleeing-war), 8 March 2022, Science Business
 - [Ukrainian scientists stand in defiance](https://morenewsonline.com/ukrainian-scientists-stand-in-defiance/), 4 March 2022, Morenews Online
 - Alicia Moreno, Diego Salvadores: [Es importante ofrecer oportunidades temporales a los científicos que han tenido que huir de Ucrania](https://www.agenciasinc.es/Entrevistas/Es-importante-ofrecer-oportunidades-temporales-a-los-cientificos-que-han-tenido-que-huir-de-Ucrania), 3 March 2022, SiNC
-- Nisha Gaind, Holly Else & Antoaneta Roussi: [‘I thought I had forgotten this horror’: Ukrainian scientists stand in defiance](https://www.nature.com/articles/d41586-022-00621-6), 2 March 2022, Nature
-    - (in German)[»Ich dachte, ich hätte diesen Horror vergessen«](https://www.spektrum.de/news/krieg-in-der-ukraine-ich-dachte-ich-haette-diesen-horror-vergessen/1994932), 4 March 2022, Spektrum der Wissenschaft
+- Nisha Gaind, Holly Else & Antoaneta Roussi: [‘I thought I had forgotten this horror’: Ukrainian scientists stand in defiance](https://www.nature.com/articles/d41586-022-00621-6), 2 March 2022, Nature News
+    - (in German) [»Ich dachte, ich hätte diesen Horror vergessen«](https://www.spektrum.de/news/krieg-in-der-ukraine-ich-dachte-ich-haette-diesen-horror-vergessen/1994932), 4 March 2022, Spektrum der Wissenschaft
 
 ## Press Materials
 
