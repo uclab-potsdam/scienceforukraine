@@ -235,7 +235,8 @@ ERA4Ukraine [https://www.euraxess.dk/ukraine](https://www.euraxess.dk/ukraine)
 
 **Funding programmes**
 
-*   Aarhus University research fellowships for researchers affected by the war in Ukraine  
+*      09.08.2022 Novo Nordisk Foundation supports fellowship programmes for Ukrainian researchers  [https://novonordiskfonden.dk/en/news/novo-nordisk-foundation-supports-fellowship-programmes-for-ukrainian-researchers/](https://novonordiskfonden.dk/en/news/novo-nordisk-foundation-supports-fellowship-programmes-for-ukrainian-researchers/)
+*     Aarhus University research fellowships for researchers affected by the war in Ukraine  
     [https://aias.au.dk/events/show/artikel/aarhus-university-ukrainian-research-fellowships-at-aias](https://aias.au.dk/events/show/artikel/aarhus-university-ukrainian-research-fellowships-at-aias)
 
   
