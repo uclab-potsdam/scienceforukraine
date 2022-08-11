@@ -720,32 +720,35 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 **Funding programmes**
 
-*   Fellowships for Researchers at Risk [https://www.thebritishacademy.ac.uk/news/the-british-academy-and-the-council-for-at-risk-academics-announce-new-fellowships-for-researchers-at-risk](https://www.thebritishacademy.ac.uk/news/the-british-academy-and-the-council-for-at-risk-academics-announce-new-fellowships-for-researchers-at-risk)
-*   Warwick IAS Visiting Fellowships  
-    [https://warwick.ac.uk/insite/news/intnews2/stand\_with\_ukraine/support\_ukraine](https://warwick.ac.uk/insite/news/intnews2/stand_with_ukraine/support_ukraine)
-*   The Physics Benevolent Fund: grants to professional physicists  
-    [https://www.iop.org/about/support-grants/physics-benevolent-fund](https://www.iop.org/about/support-grants/physics-benevolent-fund)
-*   The Graduate Scholarship Scheme for Ukraine Refugees at University of Oxford  
-    [https://www.ox.ac.uk/news/2022-05-06-fully-funded-scholarship-scheme-launches-graduate-students-ukraine](https://www.ox.ac.uk/news/2022-05-06-fully-funded-scholarship-scheme-launches-graduate-students-ukraine)
-*   Honorary Fellowships at the University of Aberdeen  
-    [https://www.abdn.ac.uk/staffnet/new-honorary-fellowships](https://www.abdn.ac.uk/staffnet/new-honorary-fellowships)
-*   Sanctuary Scholarships at the University of Sheffield  
-    [https://www.sheffield.ac.uk/funding/sanctuary-scholarships](https://www.sheffield.ac.uk/funding/sanctuary-scholarships)
-*   Visiting Ukrainian Doctoral Scholarships at the University of Bristol  
-    [https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships](https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships)
-*   Support program for researchers in mathematical sciences offered by Isaac Newton Institute for Mathematical Sciences [https://www.newton.ac.uk/event/slm/](https://www.newton.ac.uk/event/slm/)
-*   Sanctuary scholarships for doctoral students at the University od Edinburgh (College of Science and Engineering) [https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships](https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships)
-*   The Academics beyond Borders scheme at the University of Edinburg provides remote academic support for PhD students affected by conflicts and/or repression [https://www.sps.ed.ac.uk/students/postgraduate/phd/academics-beyond-borders](https://www.sps.ed.ac.uk/students/postgraduate/phd/academics-beyond-borders) 
-*   Researchers at Risk Fellowships Programme [https://news.liverpool.ac.uk/2022/07/07/new-researchers-at-risk-scheme-open-for-ukrainian-applicants/](https://news.liverpool.ac.uk/2022/07/07/new-researchers-at-risk-scheme-open-for-ukrainian-applicants/)
-    
+*   University of Aberdeen Honorary Fellowships
+[https://www.abdn.ac.uk/staffnet/new-honorary-fellowships]( https://www.abdn.ac.uk/staffnet/new-honorary-fellowships)
+*   University of Bristol Visiting Ukrainian Doctoral Scholarships
+[https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships]( https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships)
+*   British Academy Fellowships for Researchers at Risk [https://www.thebritishacademy.ac.uk/funding/researchers-at-risk-fellowships/](https://www.thebritishacademy.ac.uk/funding/researchers-at-risk-fellowships/) 
+*   University of Cambridge Ukrainian Academic Support Scheme [https://www.ukraine.cam.ac.uk/schemes/ukrainian-academic-support-scheme-visiting-postgraduate-research-students-and-academics]( https://www.ukraine.cam.ac.uk/schemes/ukrainian-academic-support-scheme-visiting-postgraduate-research-students-and-academics)
+*   University of Edinburgh Sanctuary scholarships for doctoral students (College of Science and Engineering) [https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships]( https://www.ed.ac.uk/science-engineering/studying/postgraduate/sanctuary-scholarships)
+*   University of Edinburgh Academics Beyond Borders scheme: provides remote academic support for PhD students affected by conflicts and/or repression [https://www.sps.ed.ac.uk/students/postgraduate/phd/academics-beyond-borders](https://www.sps.ed.ac.uk/students/postgraduate/phd/academics-beyond-borders)
+*   European Fund for Displaced Scientists [https://allea.org/efds-funding-line-1/](https://allea.org/efds-funding-line-1/)
+*   Isaac Newton Institute for Mathematical Sciences: support program for researchers in mathematical sciences [https://www.newton.ac.uk/event/slm/](https://www.newton.ac.uk/event/slm/)
+*   Leeds Institute for Fluid Dynamics Ukrainian mobility fund [https://fluids.leeds.ac.uk/2022/03/16/lifd-ukrainian-mobility-fund/](https://fluids.leeds.ac.uk/2022/03/16/lifd-ukrainian-mobility-fund/)
+*   University of Liverpool Researchers at Risk Scheme [https://news.liverpool.ac.uk/2022/07/07/new-researchers-at-risk-scheme-open-for-ukrainian-applicants/](https://news.liverpool.ac.uk/2022/07/07/new-researchers-at-risk-scheme-open-for-ukrainian-applicants/)
+*   London School of Economics Scholars at Risk Scheme [https://info.lse.ac.uk/staff/divisions/directorate/Scholars-at-Risk]( https://info.lse.ac.uk/staff/divisions/directorate/Scholars-at-Risk)
+*   University of Nottingham Commonwealth of Independent States Postgraduate Excellence Award (Masters study only) [https://www.nottingham.ac.uk/pgstudy/funding/cis-postgraduate-excellence-award](https://www.nottingham.ac.uk/pgstudy/funding/cis-postgraduate-excellence-award) 
+*   University of Oxford Graduate Scholarship (Masters study only) [https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/graduate-scholarship-scheme-for-ukraine-refugees]( https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/graduate-scholarship-scheme-for-ukraine-refugees)
+*   University of Oxford Refugee Academic Futures (Masters study only) [https://www.ox.ac.uk/admissions/graduate/access/academic-futures#content-tab--3]( https://www.ox.ac.uk/admissions/graduate/access/academic-futures#content-tab--3)
+*   The Physics Benevolent Fund: grants to professional physicists
+[https://www.iop.org/about/support-grants/physics-benevolent-fund]( https://www.iop.org/about/support-grants/physics-benevolent-fund)
+*   University of Warwick IAS Visiting Fellowships [https://warwick.ac.uk/fac/cross_fac/ias/funding/iasvf]( https://warwick.ac.uk/fac/cross_fac/ias/funding/iasvf)
+
 
 **Other academic support**
 
-*   Council for At-Risk Academics - researchers must register with CARA directly who later match them to an institution. Fellowships last 2 years.  
-    [https://www.cara.ngo](https://www.cara.ngo)
-*   STAR - Student Action for Refugees [https://star-network.org.uk/about](https://star-network.org.uk/about)
-*   SAAS (Student Awards Agency Scotland) overview of support for Ukrainian Students [https://www.saas.gov.uk/guides/support-for-ukrainian-students](https://www.saas.gov.uk/guides/support-for-ukrainian-students)
-*  From 1 August 2022, the Scottish government is providing eligibility for 'home' fee status and full Student Support for people who are in the UK under the recently introduced immigration schemes for Ukrainian and Afghan nationals and their family members [https://www.ukcisa.org.uk/studentnews/1912/Scotland-Ukraine-and-Afghan-provisions](https://www.ukcisa.org.uk/studentnews/1912/Scotland-Ukraine-and-Afghan-provisions)
+*   Council for At-Risk Academics - researchers must register with CARA directly who later match them to an institution. Fellowships last 2 years.
+[https://www.cara.ngo]( https://www.cara.ngo)
+*   STAR - Student Action for Refugees [https://star-network.org.uk/about](https://star-network.org.uk/about); A comprehensive list of student funding opportunities can be found here: [https://star-network.org.uk/access-to-university/scholarships/list/](https://star-network.org.uk/access-to-university/scholarships/list/) 
+*   SAAS (Student Awards Agency Scotland) overview of support for Ukrainian Students [https://www.saas.gov.uk/guides/support-for-ukrainian-students]( https://www.saas.gov.uk/guides/support-for-ukrainian-students)
+*   From 1 August 2022, the Scottish government is providing eligibility for 'home' fee status and full Student Support for people who are in the UK under the recently introduced immigration schemes for Ukrainian and Afghan nationals and their family members [https://www.ukcisa.org.uk/studentnews/1912/Scotland-Ukraine-and-Afghan-provisions]( https://www.ukcisa.org.uk/studentnews/1912/Scotland-Ukraine-and-Afghan-provisions)
+
 
 **Accommodation**
 
