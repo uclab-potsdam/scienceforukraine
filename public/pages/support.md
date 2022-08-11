@@ -326,7 +326,8 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 _[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
 An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
 
-*   Alexander von Humboldt Foundation. Philipp Schwartz Initiative  
+*    11.08.2022  Leopoldina Ukraine Distinguished Fellowship [https://www.leopoldina.org/en/funding/leopoldina-ukraine-distinguished-fellowship](https://www.leopoldina.org/en/funding/leopoldina-ukraine-distinguished-fellowship)
+*    Alexander von Humboldt Foundation. Philipp Schwartz Initiative  
     [https://www.humboldt-foundation.de/bewerben/foerderprogramme/philipp-schwartz-initiative](https://www.humboldt-foundation.de/bewerben/foerderprogramme/philipp-schwartz-initiative)
 *   The Volkswagen Foundation. Funding for Refugee Scholars and Scientists from Ukraine  
     [https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/funding-for-refugee-scholars-and-scientists-from-ukraine](https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/funding-for-refugee-scholars-and-scientists-from-ukraine )
