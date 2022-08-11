@@ -53,28 +53,28 @@ If you're interested in a particular topic, we'll connect you with the right per
 
 ### Banners to promote on the web
 
-| Description | Resolution | Download |
-| --- | --- | --- |
-| Logo | 200x200 | [Download](/media/ScienceForUkraine-200x200px.png) |
-| Logo | 820x312 | [Download](/media/ScienceForUkraineFB-820x312px.png) |
-| Logo | 1128x191 | [Download](/media/ScienceForUkraineLkd-1128x191px.png) |
-| Logo | 1500x500 | [Download](/media/ScienceForUkraineTW-1500x500px.png) |
-| Blue text transparent background | 1128x191 | [Download](/media/ScienceForUkraine-1128x191px-blue.png) |
-| Yellow text transparent background | 1128x191 | [Download](/media/ScienceForUkraine-1128x191px-yellow.png) |
-| White tile | 1000x1000 | [Download](/media/TILE%2001.jpg) |
-| White tile | 1200x800 | [Download](/media/TILE%2002.png) |
-| White tile | 1200x625 | [Download](/media/TILE%2003.jpg) |
-| White tile | 1200x675 | [Download](/media/TILE%2004.jpg) |
-| White tile | 1180x410 | [Download](/media/TILE%2005.png) |
-| Campaign "SFU remote" | 2048x2048 | [Download](/media/RemoteSFU_web.jpeg) |
+| Description | Resolution |
+| --- | --- |
+| [Logo](/media/ScienceForUkraine-200x200px.png) | 200x200 |
+| [Logo](/media/ScienceForUkraineFB-820x312px.png) | 820x312 |
+| [Logo](/media/ScienceForUkraineLkd-1128x191px.png) | 1128x191 |
+| [Logo](/media/ScienceForUkraineTW-1500x500px.png) | 1500x500 |
+| [Blue text transparent background](/media/ScienceForUkraine-1128x191px-blue.png) | 1128x191 |
+| [Yellow text transparent background](/media/ScienceForUkraine-1128x191px-yellow.png) | 1128x191 |
+| [White tile](/media/TILE%2001.jpg) | 1000x1000 |
+| [White tile](/media/TILE%2002.png) | 1200x800 |
+| [White tile](/media/TILE%2003.jpg) | 1200x625 |
+| [White tile](/media/TILE%2004.jpg) | 1200x675 |
+| [White tile](/media/TILE%2005.png) | 1180x410 |
+| [Campaign "SFU remote"](/media/RemoteSFU_web.jpeg) | 2048x2048 |
 
 ### Leaflets
 
-| Description | Format | Download |
-| --- | --- | --- |
-| White frame around flag frame | PDF | [Download](/media/BLEEDS.pdf) |
-| Only flag frame, larger font | PDF | [Download](/media/TEXT.pdf) |
-| Only flag frame, larger font | JPG | [Download](/media/WEB.jpg) |
-| Only flag frame, larger font and smaller size | JPG | [Download](/media/WEB%20SMALL.jpg) |
-| QR code | PNG | [Download](/media/QR.png) |
-| QR code | SVG | [Download](/media/QR.svg) |
+| Description | Format |
+| --- | --- |
+| [White frame around flag](/media/BLEEDS.pdf) | PDF |
+| [Only flag frame, larger font](/media/TEXT.pdf) | PDF |
+| [Only flag frame, larger font](/media/WEB.jpg) | JPG |
+| [Only flag frame, larger font and smaller size](/media/WEB%20SMALL.jpg) | JPG |
+| [QR code](/media/QR.png) | PNG |
+| [QR code](/media/QR.svg) | SVG |
