@@ -800,6 +800,7 @@ ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/uk
 
 ### U.S.
 
+*   13.08.2022 Fulbright Visiting Scholar Program. Deadline 15.10.2022. [https://fulbright.org.ua/en/fulbright-visiting-scholar-program-en/](https://fulbright.org.ua/en/fulbright-visiting-scholar-program-en/)
 *   Indiana University Ukraine Non-Resident Scholars Program, launched 06.06.2022
     [https://news.iu.edu/stories/2022/06/iub/releases/06-host-nonresidential-scholars-from-ukraine.html](https://news.iu.edu/stories/2022/06/iub/releases/06-host-nonresidential-scholars-from-ukraine.html)
 *   Columbia University Scholarship for Displaced Students  
