@@ -27,7 +27,9 @@ This list of funding programmes and other support initiatives is maintained for 
 
 **Funding and support programmes for researchers and students**
 
-*   [ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine)  
+*  17.08.2022 Short-term scholarships from Federation of European Biochemical Societies. [https://www.febs.org/our-activities/fellowships/ukrainian-short-term-fellowships/](https://www.febs.org/our-activities/fellowships/ukrainian-short-term-fellowships/)
+ 
+*    [ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine)  
     European Commission / Euraxess initiative to support researchers of Ukraine by providing an overview of all existing actions at European and national levels.
   
 *   [Horizon for Ukraine](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/ua-opportunities). Displaced researchers or other specialists from Ukraine can search here for opportunities to become involved in ongoing EU-funded research & innovation projects. These opportunities are announced by beneficiaries in such projects.
@@ -771,6 +773,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 ### Canada
 
+*    17.08.2022 Wirth Doctoral Research Fellowship for Ukrainian Students funded by the Wirth Institute for Austrian and Central European Studies, University of Alberta. [https://www.ualberta.ca/canadian-institute-of-ukrainian-studies/stand-with-ukraine/wirth-doctoral-research-fellowship-for-ukrainian-students---august-20221.pdf](https://www.ualberta.ca/canadian-institute-of-ukrainian-studies/stand-with-ukraine/wirth-doctoral-research-fellowship-for-ukrainian-students---august-20221.pdf)
 *    21.07.2022 Support program for researchers at different career stages at UHN (University Health Network). Deadline 30.11.2022. [https://uhntrainees.ca/stand-with-ukraine/#](https://uhntrainees.ca/stand-with-ukraine/#) 
 *     Special response fund to support research trainees from Ukraine  
     [https://www.canada.ca/en/innovation-science-economic-development/news/2022/03/government-of-canada-launches-fund-to-support-research-trainees-from-ukraine.html](https://www.canada.ca/en/innovation-science-economic-development/news/2022/03/government-of-canada-launches-fund-to-support-research-trainees-from-ukraine.html)
