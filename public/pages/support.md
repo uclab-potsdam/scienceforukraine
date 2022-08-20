@@ -13,7 +13,7 @@ This list of funding programmes and other support initiatives is maintained for 
 | **`F`**  | [Faroe Islands](#faroe-islands) – [Finland](#finland) – [France](#france)  
 | **`G`**  | [Georgia](#georgia) – [Germany](#germany) – [Greece](#greece)  
 | **`H`**  | [Hungary](#hungary)  
-| **`I`**  | [Iceland](#iceland) – [Ireland](#ireland) – [Israel](#israel) – [Italy](#italy)  
+| **`I`**  | [Iceland](#iceland) – [India](#india) - [Ireland](#ireland) – [Israel](#israel) – [Italy](#italy)  
 | **`L`**  | [Latvia](#latvia) – [Lithuania](#lithuania) – [Luxembourg](#luxembourg)  
 | **`M`**  | [Malta](#malta) – [Moldova](#moldova) – [Montenegro](#montenegro)  
 | **`N`**  | [Netherlands](#netherlands) – [North Macedonia](#north-macedonia) – [Norway](#norway)  
@@ -803,7 +803,9 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/ukraine)
 
-  
+### India  
+
+*   20.08.2022  Business Analytics Institute offers scholarships for  Winter Session on the Practice of AI for Good in Mysore, India. [https://www.baieurope.com/scholarships](https://www.baieurope.com/scholarships)
 
 ### U.S.
 
