@@ -474,7 +474,7 @@ ERA4Ukraine [https://www.euraxess.lt/ukraine](https://www.euraxess.lt/ukraine)
 
 **Funding**
 
-*   20.08.2022 Marius Jakulis Jason Foundation establishes the funds to support the Ph.D. students, Postdoc researchers and scientists from Ukraine who are looking for safe relocation opportunities in Lithuania.[https://mjjfondas.lt/en/kryptys/for-ukraines-science/](https://mjjfondas.lt/en/kryptys/for-ukraines-science/)
+*   20.08.2022 Marius Jakulis Jason Foundation establishes the funds to support the Ph.D. students, Postdoc researchers and scientists from Ukraine who are looking for safe relocation opportunities in Lithuania. [https://mjjfondas.lt/en/kryptys/for-ukraines-science/](https://mjjfondas.lt/en/kryptys/for-ukraines-science/)
 *   Call for applications of Lithuanian Science Council to recruit Ukrainian researchers in Lithuania  
     [https://www.lmt.lt/en/news/778/lithuanian-science-council-to-launch-a-special-call-for-applications-to-recruit-ukrainian-researchers-in-lithuania:967](https://www.lmt.lt/en/news/778/lithuanian-science-council-to-launch-a-special-call-for-applications-to-recruit-ukrainian-researchers-in-lithuania:967)
 
