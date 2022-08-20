@@ -550,6 +550,7 @@ ERA4Ukraine [https://www.euraxess.pl/ukraine](https://www.euraxess.pl/ukraine)
 
 **Funding programmes and academic support**
 
+*   20.08.2022 Foundation for Polish Science launches a call for collaborative Polish-Ukrainian projects (social sciences and humanities). Deadline 30.09.2022. [https://www.fnp.org.pl/en/oferta/for-ukraine/](https://www.fnp.org.pl/en/oferta/for-ukraine/)
 *   05.08.2022 The National Science Centre is launching a special scholarship programme addressed at students and researchers from Ukraine without a PhD degree [https://www.ncn.gov.pl/en/konkursy/program-stypendialny-dla-naukowcow-z-ukrainy](https://www.ncn.gov.pl/en/konkursy/program-stypendialny-dla-naukowcow-z-ukrainy)
 *   Polish Academy of Sciences, with cooperation and funding from the US National Academy of Sciences, offers funds for 3-month visits of Ukrainian scholars (with a PhD degree) in Poland  
     [https://institution.pan.pl](https://institution.pan.pl/?option=com_content&view=article&id=769)
