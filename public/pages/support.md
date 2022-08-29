@@ -438,7 +438,8 @@ ERA4Ukraine [https://www.euraxess.it/ukraine](https://www.euraxess.it/ukraine)
 
 **Funding programmes**
 
-*   Ministry of University and Research. Established MUR fund to help Ukrainian students and researchers:  
+*   29.08.2022. University of Bologna offers support for Ukrainian PhD students, post-docs, researchers and professors, refugees in Ukraine or holders of a permanent residence permit in Ukraine [https://www.unibo.it/en/university/who-we-are/the-university-of-bologna-for-peace-1/supporting-graduate-students-and-researchers-affected-by-the-Ukrainian-war](https://www.unibo.it/en/university/who-we-are/the-university-of-bologna-for-peace-1/supporting-graduate-students-and-researchers-affected-by-the-Ukrainian-war)
+*   Ministry of University and Research established MUR fund to help Ukrainian students and researchers:  
     [https://www.mur.gov.it/it/news/domenica-27022022/istituito-fondo-mur-aiutare-studenti-e-ricercatori-ucraini](https://www.mur.gov.it/it/news/domenica-27022022/istituito-fondo-mur-aiutare-studenti-e-ricercatori-ucraini)
 *   Jean Monnet Fellowships in the Social Sciences and Humanities for post-doctoral researchers affected by the war in Ukraine  
     [https://www.eui.eu/apply?id=jean-monnet-fellowships-ukraine](https://www.eui.eu/apply?id=jean-monnet-fellowships-ukraine)
@@ -666,7 +667,9 @@ ERA4Ukraine [https://www.euraxess.si/ukraine](https://www.euraxess.si/ukraine)
 
 ERA4Ukraine [https://www.euraxess.es/ukraine](https://www.euraxess.es/ukraine)
 
-  
+**Funding**
+
+*   29.08.2022 University of Castilla - La Mancha (UCLM) support information [https://www.uclm.es/misiones/culturadeporte/responsabilidadsocial/ayuda-a-ucrania-support-ukraine?sc_lang=en](https://www.uclm.es/misiones/culturadeporte/responsabilidadsocial/ayuda-a-ucrania-support-ukraine?sc_lang=en)
 
 ### Sweden
 
