@@ -32,6 +32,7 @@ If you're interested in a particular topic, we'll connect you with the right per
 
 ## Science For Ukraine in the News (selection)
 
+- Оксана Онищенко: [Куди запрошують українських науковців під час війни](https://zn.ua/ukr/science/kudi-zaproshujut-ukrajinskikh-naukovtsiv-pid-chas-vijni.html), 30 August 2022, **Dzerkalo Tyzhnia**
 - Goda Naujokaitytė: [Response to the needs of scientists in crisis must become more dependable](https://sciencebusiness.net/news/response-needs-scientists-crisis-must-become-more-dependable), 17 June 2022, **Science|Business**
 - Nisha Gaind: [How three Ukrainian scientists are surviving Russia’s brutal war](https://www.nature.com/articles/d41586-022-01272-3), May 6 2022, **Nature News**
 - Carlos Marlasca: [España contrata a una treintena de cientificos ucranianos refugiados](https://es.euronews.com/2022/04/29/espana-contrata-a-una-treintena-de-cientificos-ucranianos-refugiados), 29 April 2022, **Euronews**
