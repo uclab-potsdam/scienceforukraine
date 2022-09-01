@@ -5,7 +5,7 @@
 
 #ScienceForUkraine is a grass-root initiative run by an international community of volunteer scholars and students since the beginning of Russia’s war in Ukraine. 
 
-Ours mission is to support the Ukrainian academic community in surviving the war and to help ensure the continuity of Ukraine's science and strengthen its presence in the international science arena. 
+Our mission is to support the Ukrainian academic community in surviving the war and to help ensure the continuity of Ukraine's science and strengthen its presence in the international science arena. 
 
 The initiative works in several directions with the following objectives: 
 * First, to collect and disseminate information about support opportunities at the university, national, and international level for Ukrainian researchers and students.
