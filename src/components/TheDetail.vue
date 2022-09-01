@@ -18,7 +18,7 @@
         </div>
         <h2 class="title">{{item.institution}}</h2>
         <div class="links">
-          <a :href="item.link" target="_blank">Details</a>
+          <a :href="item.link" target="_blank">Website</a>
           <a :href="`mailto:${item.contact}`">Contact</a>
         </div>
         <div class="fields">
