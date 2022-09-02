@@ -329,6 +329,7 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 _[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
 An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
 
+*    02.09.2022 NUMO. Scholarship Programme Libraries and Archives for Refugees from Ukraine, September-December 2022. [https://www.bibliotheksverband.de/numo-stipendienprogramm-bibliotheken-und-archive-fuer-gefluechtete-aus-der-ukraine#NUMO-ScholarshipProgrammeLibrariesandArchivesforRefugeesfromUkraine](https://www.bibliotheksverband.de/numo-stipendienprogramm-bibliotheken-und-archive-fuer-gefluechtete-aus-der-ukraine#NUMO-ScholarshipProgrammeLibrariesandArchivesforRefugeesfromUkraine)
 *    22.08.2022 Scholarships of RWTH Aachen University. Deadline 31.08.2022. [https://www.rwth-aachen.de/cms/root/studium/Im-Studium/Stipendien-Foerderung/Liste-von-Stipendien/~wgowv/Stipendium-fuer-besonderes-Engagement/?lidx=1](https://www.rwth-aachen.de/cms/root/studium/Im-Studium/Stipendien-Foerderung/Liste-von-Stipendien/~wgowv/Stipendium-fuer-besonderes-Engagement/?lidx=1)
 *    11.08.2022  Leopoldina Ukraine Distinguished Fellowship [https://www.leopoldina.org/en/funding/leopoldina-ukraine-distinguished-fellowship](https://www.leopoldina.org/en/funding/leopoldina-ukraine-distinguished-fellowship)
 *    Alexander von Humboldt Foundation. Philipp Schwartz Initiative  
