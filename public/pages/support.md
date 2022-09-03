@@ -670,6 +670,7 @@ ERA4Ukraine [https://www.euraxess.es/ukraine](https://www.euraxess.es/ukraine)
 
 **Funding**
 
+*   03.09.2022 University of Murcia support information [https://www.um.es/en/web/umu-con-ucrania/](https://www.um.es/en/web/umu-con-ucrania/)
 *   29.08.2022 University of Castilla - La Mancha (UCLM) support information [https://www.uclm.es/misiones/culturadeporte/responsabilidadsocial/ayuda-a-ucrania-support-ukraine?sc_lang=en](https://www.uclm.es/misiones/culturadeporte/responsabilidadsocial/ayuda-a-ucrania-support-ukraine?sc_lang=en)
 
 ### Sweden
