@@ -27,6 +27,10 @@ This list of funding programmes and other support initiatives is maintained for 
 
 **Funding and support programmes for researchers and students**
 
+*  04.09.2022 Maria Sklodowska-Curie Actions (MSCA4Ukraine): Preliminary information for applicants. [https://sareurope.eu/msca4ukraine/information-for-applicants/](https://sareurope.eu/msca4ukraine/information-for-applicants/)
+ 
+*  04.09.2022 Universities for Ukraine (U4U) Non-Residential Fellowship Program. [https://econ4ua.org/u4u-fellows/](https://econ4ua.org/u4u-fellows/)
+
 *  17.08.2022 Short-term scholarships from Federation of European Biochemical Societies. [https://www.febs.org/our-activities/fellowships/ukrainian-short-term-fellowships/](https://www.febs.org/our-activities/fellowships/ukrainian-short-term-fellowships/)
  
 *    [ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine)  
