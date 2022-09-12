@@ -70,6 +70,10 @@ const routes = [
     redirect: { name: 'listings' }
   },
   {
+    path: '/table',
+    redirect: { name: 'listings' }
+  },
+  {
     path: '/positions/:id',
     redirect: { name: 'detail' }
   },
