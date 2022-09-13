@@ -6,6 +6,13 @@
         <router-link :to="{ name:'positions' }">Research Positions</router-link> -->
       </nav>
       <the-institutions-filter/>
+      <template v-if="store.view === 'list'">
+        <input-toggle class="map-filter" name="filter results by map extent" v-model="store.filterByMapExtent" />
+        <div class="options-map" :class="{ disabled: !store.filterByMapExtent }">
+          <the-map key="map" :mini="true"/>
+        </div>
+
+      </template>
     </div>
     <div class="list" v-if="store.view === 'list'">
       <the-institutions-list />
@@ -28,6 +35,7 @@ import TheInstitutionsList from '@/components/TheInstitutionsList.vue'
 import { useMainStore } from '@/store/main'
 import TheDetail from '@/components/TheDetail.vue'
 import InputRadio from '@/components/InputRadio.vue'
+import InputToggle from '@/components/InputToggle.vue'
 
 export default {
   name: 'ListingsView',
@@ -36,7 +44,8 @@ export default {
     TheMap,
     TheInstitutionsList,
     TheDetail,
-    InputRadio
+    InputRadio,
+    InputToggle
   },
   props: ['mode'],
   data () {
