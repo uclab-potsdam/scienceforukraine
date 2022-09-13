@@ -91,7 +91,7 @@ export default {
       return this.store.filtered
     },
     filters () {
-      return this.store.filters
+      return this.store.institutionFilters
     },
     index () {
       return this.items.findIndex(i => i.id === this.item.id)
