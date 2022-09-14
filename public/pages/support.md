@@ -675,6 +675,7 @@ ERA4Ukraine [https://www.euraxess.es/ukraine](https://www.euraxess.es/ukraine)
 
 **Funding**
 
+*   14.09.2022 The Institute for Research in Technology (Universidad Pontificia Comillas) offers three-year working contracts to Ukrainian citizens to research in any of the research areas of IIT (bioengineering, fire safety, thermal and fluids engineering, energy system models, smart and sustainable grids, energy economics and regulation, electric power systems, railway systems, intelligent systems, smart management for sustainability). [https://www.iit.comillas.edu/contratosIeF/contratosIeF.php.es?id=22007](https://www.iit.comillas.edu/contratosIeF/contratosIeF.php.es?id=22007)
 *   03.09.2022 University of Murcia support information [https://www.um.es/en/web/umu-con-ucrania/](https://www.um.es/en/web/umu-con-ucrania/)
 *   29.08.2022 University of Castilla - La Mancha (UCLM) support information [https://www.uclm.es/misiones/culturadeporte/responsabilidadsocial/ayuda-a-ucrania-support-ukraine?sc_lang=en](https://www.uclm.es/misiones/culturadeporte/responsabilidadsocial/ayuda-a-ucrania-support-ukraine?sc_lang=en)
 
