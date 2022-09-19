@@ -1,11 +1,12 @@
-# Our partners
+# Our partners and supporters
 
 Here are listed all the organisations, institutions and companies that support #ScienceForUkraine in different ways:
 
 *   collecting and providing information on support offers for scientists from Ukraine
 *   donating volounteer time of their employees
 *   supporting day-to-day activities (e.g. by printing and distributing informational materials)
-*   simply endorsing and disseminating information about the initative through their communication channels (e.g. with our banners).
+*   simply endorsing and disseminating information about the initative through their communication channels (e.g. with our banners)
+*   supporting us financially.
 
 If you would like to support #ScienceForUkraine and become our partner, please get in touch with the PR coordinator [Maciej Maryl](mailto:press@scienceforukraine.eu)
 
@@ -52,6 +53,8 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 *   [Association of Latvian Young Scientists](http://eng.ljza.lv/about-ljza/)
 *   [Ministry of Education and Science of the Republic of Latvia](https://www.izm.gov.lv/lv)
 *   [Latvian Academy of Sciences](https://www.lza.lv/en/homeLatvian)
+*   [MEP Ivars Ijabs](https://ijabs.eu/en)
+
   
 
 ## Luxembourg
