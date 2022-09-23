@@ -10,7 +10,7 @@ If you're interested in a particular topic, we'll connect you with the right per
 
 1. 9 September 2022: **#ScienceForUkraine calls for international support of Ukrainian universities
 and research institutions** \
-    [de](https://drive.google.com/file/d/1sRVjIbKo_oE3ueAEarK42DqirXUmnAtj/view?usp=sharing) [en](https://drive.google.com/file/d/1-bmedkAtpwwBSCZ0ZMwQU6vIv7n7vs74/view?usp=sharing) [lv](https://drive.google.com/file/d/1bnlSx0-Zxgce0pqyP1rTtKUI_zxckE8D/view?usp=sharing) [sk](https://drive.google.com/file/d/1JmCG3jyhNOI2lvNUmv9aA-4yO30AGQz7/view?usp=sharing)
+    [de](https://drive.google.com/file/d/1sRVjIbKo_oE3ueAEarK42DqirXUmnAtj/view?usp=sharing) [en](https://drive.google.com/file/d/1-bmedkAtpwwBSCZ0ZMwQU6vIv7n7vs74/view?usp=sharing) [lv](https://drive.google.com/file/d/1bnlSx0-Zxgce0pqyP1rTtKUI_zxckE8D/view?usp=sharing) [nl](https://drive.google.com/file/d/12GMzP0TJXSSAILbpb_uN4UWf550UZX06/view?usp=sharing) [sk](https://drive.google.com/file/d/1JmCG3jyhNOI2lvNUmv9aA-4yO30AGQz7/view?usp=sharing)
 
 2. 20 June 2022: **#ScienceForUkraine sums up three months of supporting the Ukrainian academic community** \
     [de](https://drive.google.com/file/d/1yVFVg7yfHWF-UoNqOgPs9SHDAGswHAMd/view?usp=sharing)  [en](https://drive.google.com/file/d/152CZWiBF7zVFScmA8h0An6i73LkxYXUs/view?usp=sharing) [lv](https://drive.google.com/file/d/1Ss7gKTRE5ymPJuX20a-lWrla024f_5J1/view?usp=sharing) [nl](https://drive.google.com/file/d/1rrHJHRfIOpBkOHxX1YjKxkmPgGDCTP8E/view?usp=sharing) [pl](https://drive.google.com/file/d/1o73sf4cHoGliLQmJ6oJzW8hMcVL3wPi-/view?usp=sharing) [pt](https://drive.google.com/file/d/1Q2yDy7cImYKA4rstAhOaiX8VvNr4Xfpl/view?usp=sharing) [sk](https://drive.google.com/file/d/1Wq14rZZDiiC249Lq5r6sfRlhoIk2-TTP/view?usp=sharing)
