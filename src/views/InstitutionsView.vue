@@ -1,10 +1,9 @@
 <template>
   <div class="listings max-width-inner">
     <div class="options">
-      <nav class="mode">
-        <!-- <router-link :to="{ name:'transfers' }">Student Transfers</router-link>
-        <router-link :to="{ name:'positions' }">Research Positions</router-link> -->
-      </nav>
+      <h2>
+        Support Requests
+      </h2>
       <the-institutions-filter/>
       <template v-if="store.view === 'list'">
         <input-toggle class="map-filter" name="filter results by map extent" v-model="store.filterByMapExtent" />
@@ -75,6 +74,10 @@ export default {
   @include wide {
     display: grid;
     grid-template-columns: 325px 1fr;
+  }
+
+  h2 {
+    margin: calc(15.6px) 0 var(--spacing);
   }
 
   .options {
