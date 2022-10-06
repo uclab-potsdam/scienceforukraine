@@ -27,7 +27,11 @@ This list of funding programmes and other support initiatives is maintained for 
 
 **Funding and support programmes for researchers and students**
 
-*  04.09.2022 Maria Sklodowska-Curie Actions (MSCA4Ukraine): Preliminary information for applicants. [https://sareurope.eu/msca4ukraine/information-for-applicants/](https://sareurope.eu/msca4ukraine/information-for-applicants/)
+*  21.09.2022  Wildau-Kharkiv IT Bridge, online IT courses. [https://wildau-it-bridge.de/](https://wildau-it-bridge.de/)
+
+*  14.09.2022 EIT Food, RIS4Ukraine fellowships, deadline 18.09.2022. [https://apply.eitfood.eu/en_GB/courses/course/131-ris4ukraine])(https://apply.eitfood.eu/en_GB/courses/course/131-ris4ukraine)
+
+*  04.09.2022 Maria Sklodowska-Curie Actions (MSCA4Ukraine): preliminary information for applicants. [https://sareurope.eu/msca4ukraine/information-for-applicants/](https://sareurope.eu/msca4ukraine/information-for-applicants/)
  
 *  04.09.2022 Universities for Ukraine (U4U) Non-Residential Fellowship Program. [https://econ4ua.org/u4u-fellows/](https://econ4ua.org/u4u-fellows/)
 
@@ -333,6 +337,8 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 _[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
 An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
 
+*  01.10.2022 The German Environment Agency (UBA) provide support for refugee-scientists from Ukraine [https://www.umweltbundesamt.de/das-uba/das-uba-als-arbeitgeber/support-for-academics-from-ukraine#undefined](https://www.umweltbundesamt.de/das-uba/das-uba-als-arbeitgeber/support-for-academics-from-ukraine#undefined)
+*   16.09.2022  German Research Foundation, special addition to the standard collaboration program. [https://www.dfg.de/foerderung/info_wissenschaft/2022/info_wissenschaft_22_65/index.html](https://www.dfg.de/foerderung/info_wissenschaft/2022/info_wissenschaft_22_65/index.html)
 *   12.09.2022 Chance For Science, Social network for refugees and local scientists, academics and students. [https://home.uni-leipzig.de/~chanceforscience/index.php?option=com_content&view=article&id=32&Itemid=182&lang=en](https://home.uni-leipzig.de/~chanceforscience/index.php?option=com_content&view=article&id=32&Itemid=182&lang=en)
 *   02.09.2022 NUMO. Scholarship Programme Libraries and Archives for Refugees from Ukraine, September-December 2022. [https://www.bibliotheksverband.de/numo-stipendienprogramm-bibliotheken-und-archive-fuer-gefluechtete-aus-der-ukraine#NUMO-ScholarshipProgrammeLibrariesandArchivesforRefugeesfromUkraine](https://www.bibliotheksverband.de/numo-stipendienprogramm-bibliotheken-und-archive-fuer-gefluechtete-aus-der-ukraine#NUMO-ScholarshipProgrammeLibrariesandArchivesforRefugeesfromUkraine)
 *    22.08.2022 Scholarships of RWTH Aachen University. Deadline 31.08.2022. [https://www.rwth-aachen.de/cms/root/studium/Im-Studium/Stipendien-Foerderung/Liste-von-Stipendien/~wgowv/Stipendium-fuer-besonderes-Engagement/?lidx=1](https://www.rwth-aachen.de/cms/root/studium/Im-Studium/Stipendien-Foerderung/Liste-von-Stipendien/~wgowv/Stipendium-fuer-besonderes-Engagement/?lidx=1)
@@ -562,6 +568,7 @@ ERA4Ukraine [https://www.euraxess.pl/ukraine](https://www.euraxess.pl/ukraine)
 
 **Funding programmes and academic support**
 
+*   20.09.2022 Bilateral exchange of scientists NAWA Programme [https://nawa.gov.pl/wspolpraca-i-wymiana-miedzynarodowa/wspolne-projekty-badawcze](https://nawa.gov.pl/wspolpraca-i-wymiana-miedzynarodowa/wspolne-projekty-badawcze)
 *   20.08.2022 Foundation for Polish Science launches a call for collaborative Polish-Ukrainian projects (social sciences and humanities). Deadline 30.09.2022. [https://www.fnp.org.pl/en/oferta/for-ukraine/](https://www.fnp.org.pl/en/oferta/for-ukraine/)
 *   05.08.2022 The National Science Centre is launching a special scholarship programme addressed at students and researchers from Ukraine without a PhD degree [https://www.ncn.gov.pl/en/konkursy/program-stypendialny-dla-naukowcow-z-ukrainy](https://www.ncn.gov.pl/en/konkursy/program-stypendialny-dla-naukowcow-z-ukrainy)
 *   Polish Academy of Sciences, with cooperation and funding from the US National Academy of Sciences, offers funds for 3-month visits of Ukrainian scholars (with a PhD degree) in Poland  
@@ -675,6 +682,7 @@ ERA4Ukraine [https://www.euraxess.es/ukraine](https://www.euraxess.es/ukraine)
 
 **Funding**
 
+*   14.09.2022 The Institute for Research in Technology (Universidad Pontificia Comillas) offers three-year working contracts to Ukrainian citizens to research in any of the research areas of IIT (bioengineering, fire safety, thermal and fluids engineering, energy system models, smart and sustainable grids, energy economics and regulation, electric power systems, railway systems, intelligent systems, smart management for sustainability). [https://www.iit.comillas.edu/contratosIeF/contratosIeF.php.es?id=22007](https://www.iit.comillas.edu/contratosIeF/contratosIeF.php.es?id=22007)
 *   03.09.2022 University of Murcia support information [https://www.um.es/en/web/umu-con-ucrania/](https://www.um.es/en/web/umu-con-ucrania/)
 *   29.08.2022 University of Castilla - La Mancha (UCLM) support information [https://www.uclm.es/misiones/culturadeporte/responsabilidadsocial/ayuda-a-ucrania-support-ukraine?sc_lang=en](https://www.uclm.es/misiones/culturadeporte/responsabilidadsocial/ayuda-a-ucrania-support-ukraine?sc_lang=en)
 
