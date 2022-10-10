@@ -797,6 +797,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 ### Canada
 
+*    10.10.2022 University of Toronto offers support for the students [https://www.utoronto.ca/news/u-t-offers-tuition-and-mental-health-support-students-affected-war-ukraine](https://www.utoronto.ca/news/u-t-offers-tuition-and-mental-health-support-students-affected-war-ukraine)
 *    17.08.2022 Wirth Doctoral Research Fellowship for Ukrainian Students funded by the Wirth Institute for Austrian and Central European Studies, University of Alberta. [https://www.ualberta.ca/canadian-institute-of-ukrainian-studies/stand-with-ukraine/wirth-doctoral-research-fellowship-for-ukrainian-students---august-20221.pdf](https://www.ualberta.ca/canadian-institute-of-ukrainian-studies/stand-with-ukraine/wirth-doctoral-research-fellowship-for-ukrainian-students---august-20221.pdf)
 *    21.07.2022 Support program for researchers at different career stages at UHN (University Health Network). Deadline 30.11.2022. [https://uhntrainees.ca/stand-with-ukraine/#](https://uhntrainees.ca/stand-with-ukraine/#) 
 *     Special response fund to support research trainees from Ukraine  
