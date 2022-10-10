@@ -198,6 +198,7 @@ ERA4Ukraine [https://www.euraxess.be/ukraine](https://www.euraxess.be/ukraine)
 
 **Funding programmes**
 
+*   10.10.2022 temporary research positions at KU Leuven [https://www.kuleuven.be/personeel/jobsite/jobs-bij-ku-leuven/temporary-positions-ukrainian](https://www.kuleuven.be/personeel/jobsite/jobs-bij-ku-leuven/temporary-positions-ukrainian)
 *   KU Leuven. Emergency Fund KU Leuven Ukraine  
     [https://www.kuleuven.be/fondsenwerving/fondsen/faculteitsoverkoepelend/emergency-fund-kuleuven](https://www.kuleuven.be/fondsenwerving/fondsen/faculteitsoverkoepelend/emergency-fund-kuleuven)
 
