@@ -29,10 +29,10 @@ Zhanna Santybayeva (Association Femmes & Sciences), Weronika Wolszczak (Berkeley
 **Coordination**
 
 *   Sanita Reinsone (ILFA, University of Latvia)
-*   Maciej Maryl (Polish Academy of Sciences) - Outreach coordination/Press Relations
-*   Matīss Reinfelds (Association of Latvian Young Scientists) - Data Curation and Database Management
-*   Michael E. Rose (Max Planck Institute for Innovation and Competition) - Internal Coordination/Onbording
-*   Oleksandra V. Ivashchenko (Leiden University) - Outreach to Ukrainian organizations and scholarly communities
+*   Maciej Maryl (Polish Academy of Sciences)
+*   Matīss Reinfelds (Association of Latvian Young Scientists)
+*   Michael E. Rose (Max Planck Institute for Innovation and Competition)
+*   Oleksandra V. Ivashchenko (University Medical Center Groningen)
 
 **Technical and Design Assistance**
 Zosia Dzierzawska, Fidel Thomet (University of Applied Sciences Potsdam), Uldis Ķirsis (ILFA, University of Latvia), Antra Upeniece (ILFA, University of Latvia), Agnieszka Zalotyńska (Polish Academy of Sciences), Krišs Salmanis
