@@ -29,7 +29,7 @@ This list of funding programmes and other support initiatives is maintained for 
 
 *  21.09.2022  Wildau-Kharkiv IT Bridge, online IT courses. [https://wildau-it-bridge.de/](https://wildau-it-bridge.de/)
 
-*  14.09.2022 EIT Food, RIS4Ukraine fellowships, deadline 18.09.2022. [https://apply.eitfood.eu/en_GB/courses/course/131-ris4ukraine])(https://apply.eitfood.eu/en_GB/courses/course/131-ris4ukraine)
+*  14.09.2022 EIT Food, RIS4Ukraine fellowships, deadline 18.09.2022. [https://apply.eitfood.eu/en_GB/courses/course/131-ris4ukraine](https://apply.eitfood.eu/en_GB/courses/course/131-ris4ukraine)
 
 *  04.09.2022 Maria Sklodowska-Curie Actions (MSCA4Ukraine): preliminary information for applicants. [https://sareurope.eu/msca4ukraine/information-for-applicants/](https://sareurope.eu/msca4ukraine/information-for-applicants/)
  
