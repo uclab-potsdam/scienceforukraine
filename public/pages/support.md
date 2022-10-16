@@ -198,7 +198,8 @@ ERA4Ukraine [https://www.euraxess.be/ukraine](https://www.euraxess.be/ukraine)
 
 **Funding programmes**
 
-*   10.10.2022 temporary research positions at KU Leuven [https://www.kuleuven.be/personeel/jobsite/jobs-bij-ku-leuven/temporary-positions-ukrainian](https://www.kuleuven.be/personeel/jobsite/jobs-bij-ku-leuven/temporary-positions-ukrainian)
+*   16.10.2022 Ghent University’s Short-term Fellowship Programme for Ukrainian Scholars at Risk [https://www.ugent.be/eureastplatform/en/funding/call_for_visiting_fellows_2022.htm](https://www.ugent.be/eureastplatform/en/funding/call_for_visiting_fellows_2022.htm)
+*   10.10.2022 Temporary research positions at KU Leuven [https://www.kuleuven.be/personeel/jobsite/jobs-bij-ku-leuven/temporary-positions-ukrainian](https://www.kuleuven.be/personeel/jobsite/jobs-bij-ku-leuven/temporary-positions-ukrainian)
 *   KU Leuven. Emergency Fund KU Leuven Ukraine  
     [https://www.kuleuven.be/fondsenwerving/fondsen/faculteitsoverkoepelend/emergency-fund-kuleuven](https://www.kuleuven.be/fondsenwerving/fondsen/faculteitsoverkoepelend/emergency-fund-kuleuven)
 
