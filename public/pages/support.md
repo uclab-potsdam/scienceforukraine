@@ -719,6 +719,7 @@ ERA4Ukraine [https://www.euraxess.ch/ukraine](https://www.euraxess.ch/ukraine)
 
 **Funding programmes**
 
+*  18.10.2022 Two URIS (Ukrainian Research in Switzerland) Fellowships at the University of Basel, deadline 20.11.2022. [https://uris.ch/news/call-for-applications-two-uris-fellowships-at-the-university-of-basel-2](https://uris.ch/news/call-for-applications-two-uris-fellowships-at-the-university-of-basel-2)
 *   Swiss National Science Foundation  
     [https://www.snf.ch/en/WpOfVoVBYdBid6By/news/support-measures-for-scientists-from-ukraine](https://www.snf.ch/en/WpOfVoVBYdBid6By/news/support-measures-for-scientists-from-ukraine )
 *   SAR Switzerland. Switzerland section at Scholars at Risk Network:  
