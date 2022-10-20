@@ -750,7 +750,8 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 **Funding programmes**
 
-*   University of Aberdeen Honorary Fellowships
+*   20.10.2022 The University of Edinburgh offers multiple 5-year tenure track fellowships. Ukrainian researchers are encouraged to apply. [https://www.ed.ac.uk/human-resources/job/chancellors-fellowships](https://www.ed.ac.uk/human-resources/job/chancellors-fellowships)
+*    University of Aberdeen Honorary Fellowships
 [https://www.abdn.ac.uk/staffnet/new-honorary-fellowships]( https://www.abdn.ac.uk/staffnet/new-honorary-fellowships)
 *   University of Bristol Visiting Ukrainian Doctoral Scholarships
 [https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships]( https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/visiting-ukrainian-doctoral-scholarships)
