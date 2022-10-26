@@ -35,6 +35,7 @@ and research institutions** \
 
 ## Science For Ukraine in the News (selection)
 
+- James Strachan: [How You Can Help Your Ukrainian Colleagues](https://theanalyticalscientist.com/business-education/how-you-can-help-your-ukrainian-colleagues), 10 September 2022, **the Analytical Scientist**
 - Оксана Онищенко: [Куди запрошують українських науковців під час війни](https://zn.ua/ukr/science/kudi-zaproshujut-ukrajinskikh-naukovtsiv-pid-chas-vijni.html), 30 August 2022, **Dzerkalo Tyzhnia**
 - Goda Naujokaitytė: [Response to the needs of scientists in crisis must become more dependable](https://sciencebusiness.net/news/response-needs-scientists-crisis-must-become-more-dependable), 17 June 2022, **Science|Business**
 - Nisha Gaind: [How three Ukrainian scientists are surviving Russia’s brutal war](https://www.nature.com/articles/d41586-022-01272-3), May 6 2022, **Nature News**
