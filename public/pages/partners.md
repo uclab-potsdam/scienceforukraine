@@ -14,7 +14,7 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 
 *   [Scholars at Risk Network](https://www.scholarsatrisk.org/)
 *   [How to Change the World](http://www.htctw.org/)
-*   [The Association for Slavic, East European, & Eurasian Studies (ASEEES)](https://www.aseees.org/)
+*   [Association for Slavic, East European, & Eurasian Studies (ASEEES)](https://www.aseees.org/)
 *   [Economists for Ukraine](http://www.econ4ua.org/)
 *   [New Exploratory Phase in Research on East European Cultures of Dissent (Nep4Dissent)](https://nep4dissent.eu/)
 *   [Digital Research Infrastructure for the Arts and Humanities (DARIAH)](https://www.dariah.eu/)
@@ -28,6 +28,7 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 *   [International Federation for Structural Concrete](https://www.fib-international.org/)
 *   [SWS Scholarly Society](https://sgemworld.at/)
 *   [NGO Agency of European Innovations](https://aei.org.ua)
+*   [The UKRAINE Network (The UKRainian Academic International NEtwork)](https://www.linkedin.com/groups/8473594/)
 
   
 
@@ -44,7 +45,7 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 
 ## Germany
 
-*   [The German-Ukrainian Academic Society (The UKRAINE Network)](https://ukrainet.eu/the-german-ukrainian-academic-society)
+*   [The German-Ukrainian Academic Society](https://ukrainet.eu)
 *   [Max Planck Unit for the Science of Pathogens, Emmanuelle Charpentier](https://www.mpusp.mpg.de/#:~:text=Max%20Planck%20Unit%20for%20the%20Science%20of%20Pathogens%20(MPUSP)%20is,viruses\)%20causing%20diseases%20in%20humans.)
 
   
