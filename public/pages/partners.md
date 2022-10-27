@@ -28,7 +28,7 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 *   [International Federation for Structural Concrete](https://www.fib-international.org/)
 *   [SWS Scholarly Society](https://sgemworld.at/)
 *   [NGO Agency of European Innovations](https://aei.org.ua)
-*   [The UKRAINE Network (The UKRainian Academic International NEtwork)](https://www.linkedin.com/groups/8473594/)
+*   [UKRAINET - The UKRainian Academic International NEtwork](https://www.linkedin.com/groups/8473594/)
 
   
 
