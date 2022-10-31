@@ -740,7 +740,7 @@ ERA4Ukraine [https://www.euraxess.ch/ukraine](https://www.euraxess.ch/ukraine)
 
 ### U.K.
 
-**#ScienceForUkraine mentoring scheme**. [Mentee sign up:](https://www.pushfar.com/mentee-registration/6Aj4rMK5y8/). [Mentor sign up:](https://www.pushfar.com/mentor-registration/6Aj4rMK5y8/).
+**#ScienceForUkraine mentoring scheme**. [Mentee sign up link.](https://www.pushfar.com/mentee-registration/6Aj4rMK5y8/) [Mentor sign up link.](https://www.pushfar.com/mentor-registration/6Aj4rMK5y8/)
 
 [**UK information for #ScienceForUkraine**](https://docs.google.com/document/d/1kSmhnTMkB_6-9byoevmHXN_XmDagi0513-RwHmSZRhc)
 
