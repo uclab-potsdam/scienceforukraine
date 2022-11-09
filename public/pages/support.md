@@ -836,6 +836,7 @@ ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/uk
 
 ### U.S.
 
+*   09.11.2022 The Linda Hall virtual funding. [https://www.lindahall.org/research/linda-hall-library-fellowships](https://www.lindahall.org/research/linda-hall-library-fellowships)
 *   15.08.2022 The Scholars at Risk (SAR) Program at Tufts. [https://global.tufts.edu/scholars-risk-tufts-university](https://global.tufts.edu/scholars-risk-tufts-university)
 *   13.08.2022 Fulbright Visiting Scholar Program. Deadline 15.10.2022. [https://fulbright.org.ua/en/fulbright-visiting-scholar-program-en/](https://fulbright.org.ua/en/fulbright-visiting-scholar-program-en/)
 *   Indiana University Ukraine Non-Resident Scholars Program, launched 06.06.2022
