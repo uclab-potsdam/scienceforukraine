@@ -27,6 +27,8 @@ This list of funding programmes and other support initiatives is maintained for 
 
 **Funding and support programmes for researchers and students**
 
+*   09.11.2022 The Twinning scheme, an institution-to-institution collaboration model [https://www.twinningukraine.com/](https://www.twinningukraine.com/)
+
 *   01.11.2022  Call for expression of interest – scientific trainees - Joint Research Centre at the European Commission. [https://recruitment.jrc.ec.europa.eu/showprj.php?type=D&id=8](https://recruitment.jrc.ec.europa.eu/showprj.php?type=D&id=8)
 
 *   21.09.2022  Wildau-Kharkiv IT Bridge, online IT courses. [https://wildau-it-bridge.de/](https://wildau-it-bridge.de/)
