@@ -173,6 +173,7 @@ ERA4Ukraine [https://www.euraxess.at/ukraine](https://www.euraxess.at/ukraine)
 
 **Funding programmes**
 
+*   23.11.2022 Ukraine in European Dialogue Junior Fellowship at the Institute for Human Sciences. Deadline 16.01.2023. [https://www.iwm.at/program/ukraine-in-european-dialogue-junior-fellowship](https://www.iwm.at/program/ukraine-in-european-dialogue-junior-fellowship)
 *   Austrian Academy of Sciences. Joint Excellence in Science and Humanities (JESH) – Emergency call  
     [https://stipendien.oeaw.ac.at/stipendien/jesh-ukraine](https://stipendien.oeaw.ac.at/stipendien/jesh-ukraine)
 *   FWF Austrian Science Fund. Crisis Support for Researchers from Ukraine  
