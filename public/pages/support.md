@@ -27,7 +27,7 @@ This list of funding programmes and other support initiatives is maintained for 
 
 **Funding and support programmes for researchers and students**
 
-*   17.11.2022  MSCA4Ukraine Fellowship Scheme [https://sareurope.eu/msca4ukraine/](https://sareurope.eu/msca4ukraine/)
+*   17.11.2022  MSCA4Ukraine Fellowship Scheme [https://sareurope.eu/msca4ukraine/](https://sareurope.eu/msca4ukraine/) UPDATE: closed
 
 *   09.11.2022 The Twinning scheme, an institution-to-institution collaboration model [https://www.twinningukraine.com/](https://www.twinningukraine.com/)
 
