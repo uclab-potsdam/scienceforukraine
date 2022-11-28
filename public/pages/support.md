@@ -29,7 +29,7 @@ This list of funding programmes and other support initiatives is maintained for 
 
 *   28.11.2022 European Molecular Biology Organization stipends [https://www.embo.org/funding/fellowships-grants-and-career-support/embo-solidarity-grants/](https://www.embo.org/funding/fellowships-grants-and-career-support/embo-solidarity-grants/)
 *   28.11.2022 European Stroke Organisation, visiting program. Deadline 02.12.2022. [https://eso-stroke.org/tf4ukr-d2d-visiting-programme-application-open/](https://eso-stroke.org/tf4ukr-d2d-visiting-programme-application-open/)
-*   
+
 *   17.11.2022  MSCA4Ukraine Fellowship Scheme [https://sareurope.eu/msca4ukraine/](https://sareurope.eu/msca4ukraine/) UPDATE: closed
 
 *   09.11.2022 The Twinning scheme, an institution-to-institution collaboration model [https://www.twinningukraine.com/](https://www.twinningukraine.com/)
@@ -856,3 +856,7 @@ ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/uk
     [https://www.uopeople.edu/about/worldwide-recognition/press-releases/university-of-the-people-opening-all-its-courses-to-ukrainian-students-for-free](https://www.uopeople.edu/about/worldwide-recognition/press-releases/university-of-the-people-opening-all-its-courses-to-ukrainian-students-for-free/)
 *   University of Pennsylvania Emergency Fellowships for Graduate Students from Ukraine  
     [https://rees.sas.upenn.edu/graduate/university-pennsylvania-emergency-fellowships-graduate-students-ukraine](https://rees.sas.upenn.edu/graduate/university-pennsylvania-emergency-fellowships-graduate-students-ukraine)
+    
+    **General help**
+    
+   *  28.11.2022 Resources for Ukrainian Refugees, Nova Ukraine, [https://www.refugees.novaukraine.org/](https://www.refugees.novaukraine.org/)
