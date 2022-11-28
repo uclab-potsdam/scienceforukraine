@@ -216,6 +216,7 @@ ERA4Ukraine [https://www.euraxess.be/ukraine](https://www.euraxess.be/ukraine)
 **Other support**
 
 *   Info-Ukraine.Be: [https://info-ukraine.be/en](https://info-ukraine.be/en)
+*  Digital For Youth, donation of laptops for children [https://digitalforyouth.be/](https://digitalforyouth.be/)
 
   
 
