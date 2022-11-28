@@ -5,8 +5,8 @@
 | [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu) | Everything (unless a more fitting purpose is below) |
 | [press@scienceforukraine.eu](mailto:press@scienceforukraine.eu) | All press contacts |
 | [data@scienceforukraine.eu](mailto:data@scienceforukraine.eu) | Correction and deletion of entries |
-| [germany@scienceforukraine.eu](mailto:germany@scienceforukraine.eu) | Contact with the Germany team |
-| [netherlands@scienceforukraine.eu](mailto:netherlands@scienceforukraine.eu) | Contact with the Netherlands team |
+| [germany@scienceforukraine.eu](mailto:germany@scienceforukraine.eu) | Contact with the DACH team (Germany, Austria and Switzerland) |
+| [netherlands@scienceforukraine.eu](mailto:netherlands@scienceforukraine.eu) | Contact with the BeNeLux team (Belgium, Netherlands and Luxembourg) |
 | [nordic-baltic@scienceforukraine.eu](mailto:nordic-baltic@scienceforukraine.eu) | Contact with the teams for the Nordic and Baltic teams |
 | [poland@scienceforukraine.eu](mailto:poland@scienceforukraine.eu) | Contact with the Poland team |
 | [spain@scienceforukraine.eu](mailto:spain@scienceforukraine.eu) | Contact with the Spain team |
