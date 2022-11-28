@@ -27,6 +27,8 @@ This list of funding programmes and other support initiatives is maintained for 
 
 **Funding and support programmes for researchers and students**
 
+*   28.11.2022 European Stroke Organisation, visiting program. Deadline 02.12.2022. [https://eso-stroke.org/tf4ukr-d2d-visiting-programme-application-open/](https://eso-stroke.org/tf4ukr-d2d-visiting-programme-application-open/)
+*   
 *   17.11.2022  MSCA4Ukraine Fellowship Scheme [https://sareurope.eu/msca4ukraine/](https://sareurope.eu/msca4ukraine/) UPDATE: closed
 
 *   09.11.2022 The Twinning scheme, an institution-to-institution collaboration model [https://www.twinningukraine.com/](https://www.twinningukraine.com/)
