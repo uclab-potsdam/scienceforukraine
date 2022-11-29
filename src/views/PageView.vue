@@ -18,6 +18,9 @@ export default {
   methods: {
     setData (post) {
       this.post = post
+      this.$nextTick(() => {
+        setTimeout(() => { window.scrollTo(0, document.querySelector(location.hash).offsetTop - 68) }, 0)
+      })
     }
   },
   beforeRouteEnter (to, from, next) {
@@ -28,7 +31,7 @@ export default {
   async beforeRouteUpdate (to, from) {
     this.post = null
     try {
-      this.post = await fetch(`/pages/${to.name}.md`).then(d => d.text())
+      this.setData(await fetch(`/pages/${to.name}.md`).then(d => d.text()))
     } catch (error) {
       this.error = error.toString()
     }
