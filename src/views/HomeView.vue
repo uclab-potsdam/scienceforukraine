@@ -26,15 +26,6 @@
       </div>
     </div>
     <div class="content">
-      <h2>Events</h2>
-      <div class="text">
-        <markdown-renderer :md="events"/>
-      </div>
-      <div class="navigation">
-        <a target="_blank" href="https://calendar.google.com/calendar/embed?src=info%40scienceforukraine.eu&ctz=Europe%2FWarsaw">All Events in our Calendar</a>
-      </div>
-    </div>
-    <div class="content">
       <h2>More Information</h2>
       <div class="navigation">
         <router-link to="/about">About Us</router-link>

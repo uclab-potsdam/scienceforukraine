@@ -47,7 +47,7 @@
           <router-link @click="toggleMenu" to="/contact">Contact</router-link>
           <router-link @click="toggleMenu" to="/press">Press & Media</router-link>
 
-          <a target="_blank" href="https://calendar.google.com/calendar/embed?src=info%40scienceforukraine.eu&ctz=Europe%2FWarsaw">Calendar</a>
+          <!-- <a target="_blank" href="https://calendar.google.com/calendar/embed?src=info%40scienceforukraine.eu&ctz=Europe%2FWarsaw">Calendar</a> -->
         </div>
       </nav>
     </div>
@@ -93,6 +93,10 @@ export default {
   position: sticky;
   top: 0;
   z-index: 100;;
+
+  .max-width-inner {
+    max-width: 1100px;
+  }
   .bar {
     background: var(--accent-1);
     border-bottom: var(--spacing) solid var(--accent-2);
