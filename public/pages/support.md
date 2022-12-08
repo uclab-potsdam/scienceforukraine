@@ -581,6 +581,7 @@ ERA4Ukraine [https://www.euraxess.pl/ukraine](https://www.euraxess.pl/ukraine)
 
 **Funding programmes and academic support**
 
+*   08.12.2022 Long-term program to support Ukrainian research teams of Polish Academy of Sciences, deadline 16.01.2023. [https://pan.pl/en/long-term-program-to-support-ukrainian-research-teams/](https://pan.pl/en/long-term-program-to-support-ukrainian-research-teams/)
 *   20.09.2022 Bilateral exchange of scientists NAWA Programme [https://nawa.gov.pl/wspolpraca-i-wymiana-miedzynarodowa/wspolne-projekty-badawcze](https://nawa.gov.pl/wspolpraca-i-wymiana-miedzynarodowa/wspolne-projekty-badawcze)
 *   20.08.2022 Foundation for Polish Science launches a call for collaborative Polish-Ukrainian projects (social sciences and humanities). Deadline 30.09.2022. [https://www.fnp.org.pl/en/oferta/for-ukraine/](https://www.fnp.org.pl/en/oferta/for-ukraine/)
 *   05.08.2022 The National Science Centre is launching a special scholarship programme addressed at students and researchers from Ukraine without a PhD degree [https://www.ncn.gov.pl/en/konkursy/program-stypendialny-dla-naukowcow-z-ukrainy](https://www.ncn.gov.pl/en/konkursy/program-stypendialny-dla-naukowcow-z-ukrainy)
