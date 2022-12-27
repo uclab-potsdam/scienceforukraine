@@ -45,6 +45,7 @@ and research institutions** \
 
 ## Science For Ukraine in the News (selection)
 
+- Lisa Baker: [Mentoring platform provides free access for #scienceforukraine, to help displaced scholars secure funding and support](https://dailybusinessnow.com/2022/12/22/mentoring-platform-provides-free-access-for-scienceforukraine-to-help-displaced-scholars-secure-funding-and-support/), 22 December 2022, **Daily Business Now**
 - James Strachan: [How You Can Help Your Ukrainian Colleagues](https://theanalyticalscientist.com/business-education/how-you-can-help-your-ukrainian-colleagues), 1 September 2022, **the Analytical Scientist**
 - Оксана Онищенко: [Куди запрошують українських науковців під час війни](https://zn.ua/ukr/science/kudi-zaproshujut-ukrajinskikh-naukovtsiv-pid-chas-vijni.html), 30 August 2022, **Dzerkalo Tyzhnia**
 - Goda Naujokaitytė: [Response to the needs of scientists in crisis must become more dependable](https://sciencebusiness.net/news/response-needs-scientists-crisis-must-become-more-dependable), 17 June 2022, **Science|Business**
