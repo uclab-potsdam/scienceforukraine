@@ -34,6 +34,7 @@ and research institutions** \
     
 
 ## Publications by members of the initiative
+- Karishma Chhugani, Alina Frolova, Yuriy Salyha, Andrada Fiscutean, Oksana Zlenko, Sanita Reinsone, Walter W. Wolfsberger, Oleksandra V. Ivashchenko, Megi Maci, Dmytro Dziuba, Andrii Parkhomenko, Eric Bortz, Fyodor Kondrashov, Paweł P. Łabaj, Veronika Romero, Jakub Hlávka, Taras K. Oleksyk & Serghei Mangul: [Remote opportunities for scholars in Ukraine](https://www.science.org/doi/10.1126/science.adg0797), **Science**, 22 December 2022
 - Maciej Maryl, Marta Jaroszewicz, Iryna Degtyarova, Yevheniia Polishchuk, Marta Pachocka & Magdalena Wnuk: [Beyond Resilience: Professional Challenges, Preferences, and Plans of Ukrainian Researchers Abroad](https://zenodo.org/record/7380509), zenodo.org, 6 December 2022
 - Arran Reader & Anna K. Bobak: [Supporting Ukrainian scholars: what’s next for #ScienceForUkraine?](https://www.timeshighereducation.com/campus/supporting-ukrainian-scholars-whats-next-scienceforukraine), **Times Higher Education**, 15 August 2022
 - Valentina Mosienko, Marina Pelepets, Sanita Reinsone & Michael E. Rose: [Funding databases for Ukrainian academics](https://www.science.org/doi/10.1126/science.add9155), **Science** 377(6605), 28 July 2022; DOI: 10.1126/science.add9155
