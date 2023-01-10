@@ -208,6 +208,7 @@ ERA4Ukraine [https://www.euraxess.be/ukraine](https://www.euraxess.be/ukraine)
 
 **Funding programmes**
 
+*  10.01.2023  The Belgian Science Policy Office offers 24 postdoctoral scholarship for research stay in Belgian Federal Scientific Institutions. [https://www.belspo.be/belspo/coordination/resDev_mobility_postdoc_UA_en.stm#:~:text=The%20Belgian%20Science%20Policy%20Office,Scientific%20Institutions%20to%20Ukrainian%20researchers](https://www.belspo.be/belspo/coordination/resDev_mobility_postdoc_UA_en.stm#:~:text=The%20Belgian%20Science%20Policy%20Office,Scientific%20Institutions%20to%20Ukrainian%20researchers) 
 *   16.10.2022 Ghent University’s Short-term Fellowship Programme for Ukrainian Scholars at Risk [https://www.ugent.be/eureastplatform/en/funding/call_for_visiting_fellows_2022.htm](https://www.ugent.be/eureastplatform/en/funding/call_for_visiting_fellows_2022.htm)
 *   10.10.2022 Temporary research positions at KU Leuven [https://www.kuleuven.be/personeel/jobsite/jobs-bij-ku-leuven/temporary-positions-ukrainian](https://www.kuleuven.be/personeel/jobsite/jobs-bij-ku-leuven/temporary-positions-ukrainian)
 *   KU Leuven. Emergency Fund KU Leuven Ukraine  
