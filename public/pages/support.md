@@ -805,6 +805,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
  ### Ukraine
  
+ *   11.01.2023 The National Research Foundation of Ukraine announces a new call "Cambridge – NRFU 2022. Individual grants for research (development) for Ukrainian researchers (with the support of the University of Cambridge, UK)". Deadline 27.01.2023. [https://nrfu.org.ua/en/news-en/the-national-research-foundation-of-ukraine-announces-a-new-call-cambridge-nrfu-2022-individual-grants-for-research-development-for-ukrainian-researchers-with-the-support-of-cambridge/](https://nrfu.org.ua/en/news-en/the-national-research-foundation-of-ukraine-announces-a-new-call-cambridge-nrfu-2022-individual-grants-for-research-development-for-ukrainian-researchers-with-the-support-of-cambridge/)
  *   Public Diplomacy Small Grants Education Program [https://www2.fundsforngos.org/latest-funds-for-ngos/u-s-mission-to-ukraine-public-diplomacy-small-grants/amp/](https://www2.fundsforngos.org/latest-funds-for-ngos/u-s-mission-to-ukraine-public-diplomacy-small-grants/amp/)
  
 
