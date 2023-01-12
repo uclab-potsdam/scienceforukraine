@@ -27,7 +27,8 @@ This list of funding programmes and other support initiatives is maintained for 
 
 **Funding and support programmes for researchers and students**
 
-*   28.11.2022 European Molecular Biology Organization stipends [https://www.embo.org/funding/fellowships-grants-and-career-support/embo-solidarity-grants/](https://www.embo.org/funding/fellowships-grants-and-career-support/embo-solidarity-grants/)
+*   12.01.2023  ERASMUS+ Programme, Open education digital environment Ukraine.[Erasmus edu 2023](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/erasmus-edu-2023-cbhe-strand-3;callCode=ERASMUS-EDU-2023-CBHE;freeTextSearchKeyword=;matchWholeText=true;typeCodes=1;statusCodes=31094501,31094502,31094503;programmePeriod=null;programCcm2Id=null;programDivisionCode=null;focusAreaCode=null;destinationGroup=null;missionGroup=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=callTopicSearchTableState)
+*    28.11.2022 European Molecular Biology Organization stipends [https://www.embo.org/funding/fellowships-grants-and-career-support/embo-solidarity-grants/](https://www.embo.org/funding/fellowships-grants-and-career-support/embo-solidarity-grants/)
 *   28.11.2022 European Stroke Organisation, visiting program. Deadline 02.12.2022. [https://eso-stroke.org/tf4ukr-d2d-visiting-programme-application-open/](https://eso-stroke.org/tf4ukr-d2d-visiting-programme-application-open/)
 
 *   17.11.2022  MSCA4Ukraine Fellowship Scheme [https://sareurope.eu/msca4ukraine/](https://sareurope.eu/msca4ukraine/) UPDATE: closed
