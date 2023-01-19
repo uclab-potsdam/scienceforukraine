@@ -1,7 +1,7 @@
 # Archive of Funding Programmes and Support Initiatives
 
 
-This section serves as an archive of general funding programs for Ukrainian researchers and students. Please note that we do not verify the expiration dates of these programmes, and some may no longer be active. For the most up-to-date information, please refer to our [database](https://scienceforukraine.eu/listings) applying filter "Funding Programme".
+This section serves as an archive of general funding programs for Ukrainian researchers and students. It includes both **ongoing and already completed** funding programs. Please note that we do not update the expiration dates of these programmes, and many of them are no longer active. For the most up-to-date information, please refer to our [database](https://scienceforukraine.eu/listings) applying filter "Funding Programme".
 
 Please inform us about funding and support programmes that are not listed below via email [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu). 
 
