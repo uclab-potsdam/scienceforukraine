@@ -296,8 +296,9 @@ Finland's support to students and researchers who have fled the war in Ukraine
 [https://www.studyinfinland.fi/ukraine](https://www.studyinfinland.fi/ukraine)
 
 **Funding programmes**
+*   31.01.2023 Academy of Finland, Call for inviting researchers from Ukraine to Finland 2023, deadline 28.02.2023 (at 16.15) [https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/for-researchers/call-for-inviting-researchers-from-ukraine-to-finland-2023](https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/for-researchers/call-for-inviting-researchers-from-ukraine-to-finland-2023)
 
-*   The Finnish Society of Sciences And Letters. Call for grants for Ukrainian researchers in Finland  
+*    The Finnish Society of Sciences And Letters. Call for grants for Ukrainian researchers in Finland  
     [http://scientiarum.fi/eng/1660-2](http://scientiarum.fi/eng/1660-2)
 *   EDUFI Fellowship for doctoral students from Ukraine  
     [https://www.oph.fi/en/development/edufi-fellowship-doctoral-students-ukraine](https://www.oph.fi/en/development/edufi-fellowship-doctoral-students-ukraine)
