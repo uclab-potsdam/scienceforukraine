@@ -562,6 +562,7 @@ ERA4Ukraine [https://www.euraxess.nl/ukraine](https://www.euraxess.nl/ukraine)
 
 **Support for researchers and students**
 
+*  06.02.2023 The Holland Scholarship for students [https://www.studyinnl.org/finances/holland-scholarship](https://www.studyinnl.org/finances/holland-scholarship)
 *   Groningen University: general information about support opportunities and free Dutch language courses  
     [https://www.rug.nl/language-centre/ukraine](https://www.rug.nl/language-centre/ukraine)
 *   #AcademicsNLForUkraine initiative, academic transfer and research position for scientist in the Netherlands  
