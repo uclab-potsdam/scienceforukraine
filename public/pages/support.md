@@ -357,6 +357,7 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 _[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
 An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
 
+*  02.02.2023 Fellowship of  German National Academy of Sciences Leopoldina [https://www.leopoldina.org/en/funding/leopoldina-ukraine-distinguished-fellowship/](https://www.leopoldina.org/en/funding/leopoldina-ukraine-distinguished-fellowship/)
 *   13.01.2023 BASEES Non-Residential Fellowship Scheme for Ukrainian scholars [http://basees.org/news-1/2023/1/11/basees-non-residential-fellowships](http://basees.org/news-1/2023/1/11/basees-non-residential-fellowships)
 *   13.01.2023 HessenFonds for Refugees and Researchers at Risk [https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees](https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees)
 *   12.01.2023 DAAD German Academic Exchange Service, Master's scholarships for development-related studies [https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/2023_-ausschreibung_epos_ukraine.pdf](https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/2023_-ausschreibung_epos_ukraine.pdf)
