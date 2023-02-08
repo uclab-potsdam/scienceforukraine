@@ -49,6 +49,7 @@ and research institutions** \
 - Lisa Baker: [Mentoring platform provides free access for #scienceforukraine, to help displaced scholars secure funding and support](https://dailybusinessnow.com/2022/12/22/mentoring-platform-provides-free-access-for-scienceforukraine-to-help-displaced-scholars-secure-funding-and-support/), 22 December 2022, **Daily Business Now**
 - James Strachan: [How You Can Help Your Ukrainian Colleagues](https://theanalyticalscientist.com/business-education/how-you-can-help-your-ukrainian-colleagues), 1 September 2022, **the Analytical Scientist**
 - Оксана Онищенко: [Куди запрошують українських науковців під час війни](https://zn.ua/ukr/science/kudi-zaproshujut-ukrajinskikh-naukovtsiv-pid-chas-vijni.html), 30 August 2022, **Dzerkalo Tyzhnia**
+- Nicole Chu: [Interview with Dr. Brokoslaw Laschowski](https://www.youtube.com/watch?v=PkOk9D6dusc&t=2s), 24 August 2022, **BEaTS Research Radio**
 - Goda Naujokaitytė: [Response to the needs of scientists in crisis must become more dependable](https://sciencebusiness.net/news/response-needs-scientists-crisis-must-become-more-dependable), 17 June 2022, **Science|Business**
 - Nisha Gaind: [How three Ukrainian scientists are surviving Russia’s brutal war](https://www.nature.com/articles/d41586-022-01272-3), May 6 2022, **Nature News**
 - Carlos Marlasca: [España contrata a una treintena de cientificos ucranianos refugiados](https://es.euronews.com/2022/04/29/espana-contrata-a-una-treintena-de-cientificos-ucranianos-refugiados), 29 April 2022, **Euronews**
