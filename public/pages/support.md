@@ -164,7 +164,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 ### Albania
 
-15.04.2022 EPOKA University in Albania scholarships for Ukrainian students [https://www.epoka.edu.al/news-epoka-university-announces-scholarships-for-ukrainian-students-5936.html] (https://www.epoka.edu.al/news-epoka-university-announces-scholarships-for-ukrainian-students-5936.html)
+15.04.2022 EPOKA University in Albania scholarships for Ukrainian students [https://www.epoka.edu.al/news-epoka-university-announces-scholarships-for-ukrainian-students-5936.html](https://www.epoka.edu.al/news-epoka-university-announces-scholarships-for-ukrainian-students-5936.html)
 
   
 
