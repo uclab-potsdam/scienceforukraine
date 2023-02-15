@@ -180,6 +180,7 @@ ERA4Ukraine [https://www.euraxess.at/ukraine](https://www.euraxess.at/ukraine)
 
 **Funding programmes**
 
+*   15.02.2023 The Institute for Human Sciences (IWM) announces Documenting Ukraine grants (one-time 5000 euro). Deadline 10.03.2023. [https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants](https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants)
 *   19.01.2023 Initiative for refugees MORE at the University of Art and Design Linz [https://kunstuni-linz.at/MORE-Projekt.16849+M52087573ab0.0.html](https://kunstuni-linz.at/MORE-Projekt.16849+M52087573ab0.0.html)
 *   23.11.2022 Ukraine in European Dialogue Junior Fellowship at the Institute for Human Sciences. Deadline 16.01.2023. [https://www.iwm.at/program/ukraine-in-european-dialogue-junior-fellowship](https://www.iwm.at/program/ukraine-in-european-dialogue-junior-fellowship)
 *   Austrian Academy of Sciences. Joint Excellence in Science and Humanities (JESH) – Emergency call  
