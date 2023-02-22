@@ -46,13 +46,14 @@ and research institutions** \
 
 ## Science For Ukraine in the News (selection)
 
+- Aisling Irwin: [The fight to keep Ukrainian science alive through a year of war](https://www.nature.com/articles/d41586-023-00508-0), 22 February 2023, **Nature** (News Feature)
 - [#ScienceForUkraine ha ofert, en un any, 5.000 llocs de treball per a personal investigador ucraïnès](https://betatechcenter.com/ca/scienceforukraine-ha-ofert-en-un-any-5-000-llocs-de-treball-per-a-personal-investigador-ucraines/), 21 February 2023, **Beta**
 - Lisa Baker: [Mentoring platform provides free access for #scienceforukraine, to help displaced scholars secure funding and support](https://dailybusinessnow.com/2022/12/22/mentoring-platform-provides-free-access-for-scienceforukraine-to-help-displaced-scholars-secure-funding-and-support/), 22 December 2022, **Daily Business Now**
 - James Strachan: [How You Can Help Your Ukrainian Colleagues](https://theanalyticalscientist.com/business-education/how-you-can-help-your-ukrainian-colleagues), 1 September 2022, **the Analytical Scientist**
 - Оксана Онищенко: [Куди запрошують українських науковців під час війни](https://zn.ua/ukr/science/kudi-zaproshujut-ukrajinskikh-naukovtsiv-pid-chas-vijni.html), 30 August 2022, **Dzerkalo Tyzhnia**
 - Nicole Chu: [Interview with Dr. Brokoslaw Laschowski](https://www.youtube.com/watch?v=PkOk9D6dusc&t=2s), 24 August 2022, **BEaTS Research Radio**
 - Goda Naujokaitytė: [Response to the needs of scientists in crisis must become more dependable](https://sciencebusiness.net/news/response-needs-scientists-crisis-must-become-more-dependable), 17 June 2022, **Science|Business**
-- Nisha Gaind: [How three Ukrainian scientists are surviving Russia’s brutal war](https://www.nature.com/articles/d41586-022-01272-3), May 6 2022, **Nature News**
+- Nisha Gaind: [How three Ukrainian scientists are surviving Russia’s brutal war](https://www.nature.com/articles/d41586-022-01272-3), May 6 2022, **Nature** (News Feature)
 - Carlos Marlasca: [España contrata a una treintena de cientificos ucranianos refugiados](https://es.euronews.com/2022/04/29/espana-contrata-a-una-treintena-de-cientificos-ucranianos-refugiados), 29 April 2022, **Euronews**
     - (in German) [Forscher im Exil: Zwei Ukrainer arbeiten jetzt am Experimentalreaktor in Madrid](https://de.euronews.com/2022/04/29/forscher-im-exil-zwei-ukrainer-arbeiten-jetzt-am-experimentalreaktor-in-madrid), 29 April 29 2022, **Euronews**
     - (in Hungarian) [Ukrán kutatókat fogadnak a spanyol egyetemek](https://hu.euronews.com/2022/04/29/ukran-kutatokat-fogadnak-a-spanyol-egyetemek), 29 April 2022, **Euronews**
@@ -66,7 +67,7 @@ and research institutions** \
 - Goda Naujokaitytė, Florin Zubașcu: [Universities start scoping out how to help Ukrainian academics fleeing the war](https://sciencebusiness.net/news/universities-start-scoping-out-how-help-ukrainian-academics-fleeing-war), 8 March 2022, **Science|Business**
 - [Ukrainian scientists stand in defiance](https://morenewsonline.com/ukrainian-scientists-stand-in-defiance/), 4 March 2022, **Morenews Online**
 - Alicia Moreno, Diego Salvadores: [Es importante ofrecer oportunidades temporales a los científicos que han tenido que huir de Ucrania](https://www.agenciasinc.es/Entrevistas/Es-importante-ofrecer-oportunidades-temporales-a-los-cientificos-que-han-tenido-que-huir-de-Ucrania), 3 March 2022, **SiNC**
-- Nisha Gaind, Holly Else & Antoaneta Roussi: [‘I thought I had forgotten this horror’: Ukrainian scientists stand in defiance](https://www.nature.com/articles/d41586-022-00621-6), 2 March 2022, **Nature News**
+- Nisha Gaind, Holly Else & Antoaneta Roussi: [‘I thought I had forgotten this horror’: Ukrainian scientists stand in defiance](https://www.nature.com/articles/d41586-022-00621-6), 2 March 2022, **Nature** (News)
     - (in German) [»Ich dachte, ich hätte diesen Horror vergessen«](https://www.spektrum.de/news/krieg-in-der-ukraine-ich-dachte-ich-haette-diesen-horror-vergessen/1994932), 4 March 2022, **Spektrum der Wissenschaft**
 
 ## Press Materials
