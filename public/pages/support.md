@@ -28,6 +28,8 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+*  22.02.20023 Elsevier provides access to some research instruments [https://www.elsevier.com/promo/ukraine-academic-support](https://www.elsevier.com/promo/ukraine-academic-support)
+*  22.02.20023  [Elsevier's seminars on research supporting tools](https://www.elsevier.com/en-xm/events/webinars/elsevier-training-and-demo-webinars/ukraine?fbclid=IwAR0X2jHoOoDH_BRzNIvcr3AVphlk4zMfakr8kZ4YfroAof9-9cmex1AfSkE)
 *  20.01.2023 Ukraine Global Faculty lectures [https://ugf.academy/all-lectures/](https://ugf.academy/all-lectures/)
 *  14.01.2023 The Kosciuszko Foundation announces award for ukrainian scientists in the fields of molecular biology, genetics, biochemistry, immunology, bio-medicine [https://kfpoland.org/](https://kfpoland.org/)
 *   12.01.2023  ERASMUS+ Programme, Open education digital environment Ukraine. [Erasmus edu 2023](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/erasmus-edu-2023-cbhe-strand-3;callCode=ERASMUS-EDU-2023-CBHE;freeTextSearchKeyword=;matchWholeText=true;typeCodes=1;statusCodes=31094501,31094502,31094503;programmePeriod=null;programCcm2Id=null;programDivisionCode=null;focusAreaCode=null;destinationGroup=null;missionGroup=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=callTopicSearchTableState)
