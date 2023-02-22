@@ -46,6 +46,7 @@ and research institutions** \
 
 ## Science For Ukraine in the News (selection)
 
+- [#ScienceForUkraine ha ofert, en un any, 5.000 llocs de treball per a personal investigador ucraïnès](https://betatechcenter.com/ca/scienceforukraine-ha-ofert-en-un-any-5-000-llocs-de-treball-per-a-personal-investigador-ucraines/), 21 February 2023, **Beta**
 - Lisa Baker: [Mentoring platform provides free access for #scienceforukraine, to help displaced scholars secure funding and support](https://dailybusinessnow.com/2022/12/22/mentoring-platform-provides-free-access-for-scienceforukraine-to-help-displaced-scholars-secure-funding-and-support/), 22 December 2022, **Daily Business Now**
 - James Strachan: [How You Can Help Your Ukrainian Colleagues](https://theanalyticalscientist.com/business-education/how-you-can-help-your-ukrainian-colleagues), 1 September 2022, **the Analytical Scientist**
 - Оксана Онищенко: [Куди запрошують українських науковців під час війни](https://zn.ua/ukr/science/kudi-zaproshujut-ukrajinskikh-naukovtsiv-pid-chas-vijni.html), 30 August 2022, **Dzerkalo Tyzhnia**
