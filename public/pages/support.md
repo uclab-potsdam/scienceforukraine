@@ -600,6 +600,7 @@ ERA4Ukraine [https://www.euraxess.pl/ukraine](https://www.euraxess.pl/ukraine)
 
 **Funding programmes and academic support**
 
+*   22.02.2023 Foundation for Polish Science (FNP) announces new funding. Deadline 4.04.2023. [https://www.fnp.org.pl/en/oferta/for-ukraine/](https://www.fnp.org.pl/en/oferta/for-ukraine/) 
 *   13.02.2023 Cisco4Ukraine offers free IT courses [https://cisco4ukraine.pl/](https://cisco4ukraine.pl/)
 *   08.12.2022 Long-term program to support Ukrainian research teams of Polish Academy of Sciences, deadline 16.01.2023. [https://pan.pl/en/long-term-program-to-support-ukrainian-research-teams/](https://pan.pl/en/long-term-program-to-support-ukrainian-research-teams/)
 *   20.09.2022 Bilateral exchange of scientists NAWA Programme [https://nawa.gov.pl/wspolpraca-i-wymiana-miedzynarodowa/wspolne-projekty-badawcze](https://nawa.gov.pl/wspolpraca-i-wymiana-miedzynarodowa/wspolne-projekty-badawcze)
