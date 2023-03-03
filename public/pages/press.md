@@ -46,6 +46,7 @@ and research institutions** \
 
 ## Science For Ukraine in the News (selection)
 
+- Anastasia Klimash: [Keeping up support for Ukraine](https://www.chemistryworld.com/opinion/ukraines-chemists-persevere-through-a-year-of-war/4017035.article), 28 February 2023, **Chemistry World**
 - Aisling Irwin: [The fight to keep Ukrainian science alive through a year of war](https://www.nature.com/articles/d41586-023-00508-0), 22 February 2023, **Nature** (News Feature)
 - [#ScienceForUkraine ha ofert, en un any, 5.000 llocs de treball per a personal investigador ucraïnès](https://betatechcenter.com/ca/scienceforukraine-ha-ofert-en-un-any-5-000-llocs-de-treball-per-a-personal-investigador-ucraines/), 21 February 2023, **Beta**
 - Lisa Baker: [Mentoring platform provides free access for #scienceforukraine, to help displaced scholars secure funding and support](https://dailybusinessnow.com/2022/12/22/mentoring-platform-provides-free-access-for-scienceforukraine-to-help-displaced-scholars-secure-funding-and-support/), 22 December 2022, **Daily Business Now**
