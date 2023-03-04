@@ -257,7 +257,8 @@ ERA4Ukraine [https://www.euraxess.cy/ukraine](https://www.euraxess.cy/ukraine)
 
 ERA4Ukraine [https://www.euraxess.cz/ukraine](https://www.euraxess.cz/ukraine)
 
-ResearchJobs.cz #ScienceForUkraine [https://www.researchjobs.cz/ua/?src-titulka](https://www.researchjobs.cz/ua/?src-titulka)
+* 04.02.2023  French Center for Research in Humanities and Social Sciences provides non-residential fellowships. Deadline 15.03.2023 [https://houseofeurope.org.ua/en/opportunity/470](https://houseofeurope.org.ua/en/opportunity/470)
+* ResearchJobs.cz #ScienceForUkraine [https://www.researchjobs.cz/ua/?src-titulka](https://www.researchjobs.cz/ua/?src-titulka)
 
   
 
