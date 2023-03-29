@@ -788,6 +788,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 **Funding programmes**
 
+*  29.03.2023 Dumbarton Oaks Mentorship Program (deadline 30.04.23)  and Research Grants (deadline 31.03.23) for Scholars  Affected by the Conflict in Ukraine [https://www.doaks.org/research/fellowships-and-awards/opportunities-ukraine-scholars](https://www.doaks.org/research/fellowships-and-awards/opportunities-ukraine-scholars)
 *  27.11.2022 The Oxford University Graduate Scholarships for Ukraine Programme for 2023-24, 18 master's positions. [https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/graduate-scholarship-scheme-for-ukraine](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/graduate-scholarship-scheme-for-ukraine)
 *   20.10.2022 The University of Edinburgh offers multiple 5-year tenure track fellowships. Ukrainian researchers are encouraged to apply. [https://www.ed.ac.uk/human-resources/job/chancellors-fellowships](https://www.ed.ac.uk/human-resources/job/chancellors-fellowships)
 *    University of Aberdeen Honorary Fellowships
