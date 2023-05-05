@@ -877,6 +877,7 @@ ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/uk
 
 ### U.S.
 
+*  05.05.2023 Fellowships of the New York Public Library. [https://www.nypl.org/help/about-nypl/fellowships-institutes](https://www.nypl.org/help/about-nypl/fellowships-institutes)
 *  15.02.2023 Fulbright Program Ukraine. [https://fulbright.org.ua/en/](https://fulbright.org.ua/en/)
 *   08.02.2023  The Executive Leadership Academy for Ukrainian University Leaders at UC Berkeley. Deadline 31.03.2023. [https://cshe.berkeley.edu/ela/ukraine](https://cshe.berkeley.edu/ela/ukraine)
 *   27.12.2022 Ukrainian Research Institute (HURI), Harvard University, offers scholarships for different stage research. Deadline 31.01.2023. [https://huri.harvard.edu/news/now-accepting-applications-huris-research-fellowships-2023-2024](https://huri.harvard.edu/news/now-accepting-applications-huris-research-fellowships-2023-2024)
