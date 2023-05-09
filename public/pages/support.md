@@ -841,8 +841,16 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 ## World
 
 
-  
+ ### Australia
 
+*  09.05.2023 The Australian Academy of Science offers funding for short-term visits (deadline 7.06.2023) and for accessing the research infrastructure (deadline 31.05.2023). [More details](https://www.science.org.au/supporting-science/awards-and-opportunities/the-ukraine-australia-research-fund) 
+
+### Brazil
+
+*   Welcome Ukrainian Scientists, a program by the Government of Paraná, through the Araucária Foundation and the General Superintendence of Science, Technology and Higher Education (SETI)  
+    [https://www.fappr.pr.gov.br/Noticia/Governo-do-Parana-por-meio-da-Araucaria-e-SETI-anuncia-o-Programa-de-Acolhida-Cientistas](https://www.fappr.pr.gov.br/Noticia/Governo-do-Parana-por-meio-da-Araucaria-e-SETI-anuncia-o-Programa-de-Acolhida-Cientistas)
+*   Researchers at Risk Initiative [https://fapesp.br/15402/initiative-researchers-at-risk](https://fapesp.br/15402/initiative-researchers-at-risk)  
+    Call for Proposals aimed to enable research institutions in São Paulo to host scientists at risk.
 ### Canada
 
 *    10.10.2022 University of Toronto offers support for the students [https://www.utoronto.ca/news/u-t-offers-tuition-and-mental-health-support-students-affected-war-ukraine](https://www.utoronto.ca/news/u-t-offers-tuition-and-mental-health-support-students-affected-war-ukraine)
@@ -859,12 +867,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
   
 
-### Brazil
 
-*   Welcome Ukrainian Scientists, a program by the Government of Paraná, through the Araucária Foundation and the General Superintendence of Science, Technology and Higher Education (SETI)  
-    [https://www.fappr.pr.gov.br/Noticia/Governo-do-Parana-por-meio-da-Araucaria-e-SETI-anuncia-o-Programa-de-Acolhida-Cientistas](https://www.fappr.pr.gov.br/Noticia/Governo-do-Parana-por-meio-da-Araucaria-e-SETI-anuncia-o-Programa-de-Acolhida-Cientistas)
-*   Researchers at Risk Initiative [https://fapesp.br/15402/initiative-researchers-at-risk](https://fapesp.br/15402/initiative-researchers-at-risk)  
-    Call for Proposals aimed to enable research institutions in São Paulo to host scientists at risk.
 
   
 
