@@ -240,6 +240,8 @@ ERA4Ukraine [https://www.euraxess.ba/ukraine](https://www.euraxess.ba/ukraine)
 
 ERA4Ukraine[https://www.euraxess.bg/ukraine](https://www.euraxess.bg/ukraine)
 
+* 13.05.2023 Fellowship programm in Sofia and Bucharest, deadline 15.06.2023. [https://cas.bg/en/sustaining-ukrainian-scholarship-invitation-to-apply/](https://cas.bg/en/sustaining-ukrainian-scholarship-invitation-to-apply/)
+
   
 
 ### Croatia
