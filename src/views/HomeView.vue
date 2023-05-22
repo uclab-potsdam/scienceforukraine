@@ -7,7 +7,7 @@
       <h2>I Look for Help</h2>
       <div class="navigation">
         <router-link class="primary" to="/listings">View All Support Listings</router-link>
-        <router-link to="/support">Archive of<br>Funding Programmes</router-link>
+        <router-link to="/support">Funding programs<br>and other support</router-link>
       </div>
     </div>
     <div class="content">
