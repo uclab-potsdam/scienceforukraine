@@ -21,7 +21,7 @@
     <div class="content">
       <h2>For Institutions</h2>
       <div class="navigation">
-        <router-link to="/institutions">View Cooperation Offers<br>and Support Requests</router-link>
+        <router-link class="primary" to="/institutions">View Cooperation Offers<br>and Support Requests</router-link>
         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdmlkhAhf6frO2OuJNeopd1q_lzDAnzo25Zw5i-SwmJcV37eg/viewform">Submit Cooperation Offer<br>or Request Support</a>
       </div>
     </div>
