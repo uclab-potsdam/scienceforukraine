@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+*  24.05.2023 Odysseus Network summer school offers financial support for refugees participants. Deadline 01.06.2023. [https://odysseus-network.eu/2023-summer-school/](https://odysseus-network.eu/2023-summer-school/)
 *  22.02.20023 Elsevier provides access to some research instruments [https://www.elsevier.com/promo/ukraine-academic-support](https://www.elsevier.com/promo/ukraine-academic-support)
 *  22.02.20023  [Elsevier's seminars on research supporting tools](https://www.elsevier.com/en-xm/events/webinars/elsevier-training-and-demo-webinars/ukraine?fbclid=IwAR0X2jHoOoDH_BRzNIvcr3AVphlk4zMfakr8kZ4YfroAof9-9cmex1AfSkE)
 *  20.01.2023 Ukraine Global Faculty lectures [https://ugf.academy/all-lectures/](https://ugf.academy/all-lectures/)
