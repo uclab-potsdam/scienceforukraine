@@ -534,6 +534,7 @@ ERA4Ukraine [https://www.euraxess.lt/ukraine](https://www.euraxess.lt/ukraine)
 
 **Other support**
 
+*  27.05.2023 Kaunas University of Technology support offer [https://en.ktu.edu/for-ua-students/](https://en.ktu.edu/for-ua-students/)
 *   Housing offers from private individuals [https://stipruskartu.lt/lt](https://stipruskartu.lt/lt)
 
   
