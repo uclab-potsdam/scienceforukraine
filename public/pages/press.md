@@ -2,7 +2,7 @@
 
 ## Press information
 
-Please direct all press-related requests to our PR coordinator [Maciej Maryl](/cdn-cgi/l/email-protection#5424263127271427373d313a3731323b26213f26353d3a317a3121). If you're interested in a particular topic, we'll connect you with the right person.
+Please direct all press-related requests to info@scienceforukraine.eu. If you're interested in a particular topic, we'll connect you with the right person.
 
 For background information about the work of #ScienceForUkraine, please have a look at our [3 month report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4139263), published on 17 June 2022.
 
