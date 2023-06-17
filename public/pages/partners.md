@@ -39,7 +39,8 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 *   [National Academy of Science of Ukraine](https://www.nas.gov.ua/UA/Messages/Pages/View.aspx?MessageID=8820)
 *   [Taras Shevchenko National University of Kyiv](http://www.univ.kiev.ua/en)
 *   [Kyiv Academic University (KAU)](https://kau.org.ua/en)
-*   [Ukrainian Global University (UGU)](https://uglobal.university/)
+*   [Ukrainian Global University (UGU)](https://uglobal.university)
+*   [National Research Foundation of Ukraine](https://nrfu.org.ua/en)
 
   
 
