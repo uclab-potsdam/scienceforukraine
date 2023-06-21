@@ -184,6 +184,7 @@ ERA4Ukraine [https://www.euraxess.at/ukraine](https://www.euraxess.at/ukraine)
 
 **Funding programmes**
 
+*  21.06.2023  Fellowships for Scholars from Ukraine – the "Ukraine and the Transformation of Eastern Europe Fellowship Program" at the Research Center for the History of Transformations (RECET). Deadline 01.07.2023. [Link.](https://www.recet.at/event-news/news/detail/fellowships-for-scholars-from-ukraine)
 *   15.02.2023 The Institute for Human Sciences (IWM) announces Documenting Ukraine grants (one-time 5000 euro). Deadline 10.03.2023. [https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants](https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants)
 *   19.01.2023 Initiative for refugees MORE at the University of Art and Design Linz [https://kunstuni-linz.at/MORE-Projekt.16849+M52087573ab0.0.html](https://kunstuni-linz.at/MORE-Projekt.16849+M52087573ab0.0.html)
 *   23.11.2022 Ukraine in European Dialogue Junior Fellowship at the Institute for Human Sciences. Deadline 16.01.2023. [https://www.iwm.at/program/ukraine-in-european-dialogue-junior-fellowship](https://www.iwm.at/program/ukraine-in-european-dialogue-junior-fellowship)
@@ -366,6 +367,7 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 _[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
 An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
 
+*  21.06.2023 Renewal of HessenFonds for Refugees and Researchers at Risk [https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees](https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees)
 *  12.06.2023 RTG Situated Cognitions offers individual support for researchers in the domain of situated cognition and similar, see [webpage](https://situated-cognition.com/2022/03/14/ukraine-fellowships/).
 *  13.04.2023 Federal Ministry of Education and Research (BMBF) calls for joint German-Ukrainian applications. Deadline 22.06.2023. [BMBF page.](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2023/03/2023-03-31-Bekanntmachung-Ukraine.html) [In Ukrainian.](https://mon.gov.ua/ua/news/trivaye-konkurs-spilnih-ukrayinsko-nimeckih-naukovo-doslidnih-proyektiv-dlya-realizaciyi-u-2024-2025-rokah)
 *    09.02.2023 Tübingen University, list of available support [https://uni-tuebingen.de/en/international/university/solidarity-with-ukraine/?fbclid=PAAaZIhU-hLf_ws0gf80YrLmnr6eY8V7axOgCm5uKEExqZSDDowBkDKujck84#c1543421](https://uni-tuebingen.de/en/international/university/solidarity-with-ukraine/?fbclid=PAAaZIhU-hLf_ws0gf80YrLmnr6eY8V7axOgCm5uKEExqZSDDowBkDKujck84#c1543421)
@@ -795,6 +797,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 **Funding programmes**
 
+*  21.06.2023 Renewal of Isaac Newton Institute for Mathematical Sciences support program for researchers in mathematical sciences [https://www.newton.ac.uk/event/slm/](https://www.newton.ac.uk/event/slm/)
 *  29.03.2023 Dumbarton Oaks Mentorship Program (deadline 30.04.23)  and Research Grants (deadline 31.03.23) for Scholars  Affected by the Conflict in Ukraine [https://www.doaks.org/research/fellowships-and-awards/opportunities-ukraine-scholars](https://www.doaks.org/research/fellowships-and-awards/opportunities-ukraine-scholars)
 *  27.11.2022 The Oxford University Graduate Scholarships for Ukraine Programme for 2023-24, 18 master's positions. [https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/graduate-scholarship-scheme-for-ukraine](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/graduate-scholarship-scheme-for-ukraine)
 *   20.10.2022 The University of Edinburgh offers multiple 5-year tenure track fellowships. Ukrainian researchers are encouraged to apply. [https://www.ed.ac.uk/human-resources/job/chancellors-fellowships](https://www.ed.ac.uk/human-resources/job/chancellors-fellowships)
