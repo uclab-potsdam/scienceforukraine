@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+*  03.07.2023 The Central European Research Infrastructure Consortium, CERIC–ERIC [calls for postdocs](https://www.ceric-eric.eu/2023/07/03/call-for-post-docs-for-ukrainian-citizens-and-residents-affected-by-the-war-2/).
 *  06.06.2023 Maria Sklodowska-Curie Actions (MSCA4Ukraine) [new call](https://www.humboldt-foundation.de/en/explore/newsroom/news/war-in-ukraine-information-and-measures)
 *  24.05.2023 Odysseus Network summer school offers financial support for refugees participants. Deadline 01.06.2023. [https://odysseus-network.eu/2023-summer-school/](https://odysseus-network.eu/2023-summer-school/)
 *  22.02.20023 Elsevier provides access to some research instruments [https://www.elsevier.com/promo/ukraine-academic-support](https://www.elsevier.com/promo/ukraine-academic-support)
