@@ -326,6 +326,7 @@ ERA4Ukraine [https://www.euraxess.fr/ukraine](https://www.euraxess.fr/ukraine)
 
 **Funding programmes**
 
+*  06.07.2023 New call for hosts in PAUSE Program, deadline 28.09.2023. [https://www.programmepause.fr/en/comment-accueillir-une-scientifique-ou-artiste-en-exil/](https://www.programmepause.fr/en/comment-accueillir-une-scientifique-ou-artiste-en-exil/)
 *   PAUSE-ANR: a coordinated program to host Ukrainian scientists  
     [https://anr.fr/en/latest-news/read/news/pause-anr-un-programme-coordonne-pour-laccueil-de-scientifiques-ukrainiens](https://anr.fr/en/latest-news/read/news/pause-anr-un-programme-coordonne-pour-laccueil-de-scientifiques-ukrainiens)
 *   Le Collège de France. PAUSE – Solidarité Ukraine [https://www.programmepause.org](https://www.programmepause.org/?page_id=1870&lang=en)
