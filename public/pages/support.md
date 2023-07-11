@@ -497,6 +497,7 @@ ERA4Ukraine [https://www.euraxess.it/ukraine](https://www.euraxess.it/ukraine)
 
 **Funding programmes**
 
+*   11.07.2023 Two Rula Jebreal Scholarships for Master's studies at the American University of Rome. [M.A. Food Studies: Policies for sustainable production and consumption](https://aur.edu/program/ma-food-studies) and [M.A. Peace Studies & Conflict Resolution: Human Security in the Mediterranean and Beyond](https://aur.edu/program/ma-peace-studies)
 *   29.08.2022. University of Bologna offers support for Ukrainian PhD students, post-docs, researchers and professors, refugees in Ukraine or holders of a permanent residence permit in Ukraine [https://www.unibo.it/en/university/who-we-are/the-university-of-bologna-for-peace-1/supporting-graduate-students-and-researchers-affected-by-the-Ukrainian-war](https://www.unibo.it/en/university/who-we-are/the-university-of-bologna-for-peace-1/supporting-graduate-students-and-researchers-affected-by-the-Ukrainian-war)
 *   Ministry of University and Research established MUR fund to help Ukrainian students and researchers:  
     [https://www.mur.gov.it/it/news/domenica-27022022/istituito-fondo-mur-aiutare-studenti-e-ricercatori-ucraini](https://www.mur.gov.it/it/news/domenica-27022022/istituito-fondo-mur-aiutare-studenti-e-ricercatori-ucraini)
