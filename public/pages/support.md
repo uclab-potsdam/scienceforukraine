@@ -461,6 +461,7 @@ ERA4Ukraine [https://www.euraxess.ie/ukraine](https://www.euraxess.ie/ukraine)
 
 **Funding programmes**
 
+*   11.07.2023. A new round of the Irish Research Council Scheme for Ukrainian Researchers [https://research.ie/funding/ukrainian-researchers-scheme/](https://research.ie/funding/ukrainian-researchers-scheme/)
 *   SFI Supplemental Grant for Displaced Researchers from Ukraine  
     [https://www.sfi.ie/funding/funding-calls/displaced-researchers/index.xml](https://www.sfi.ie/funding/funding-calls/displaced-researchers/index.xml)
 *   The Physics Benevolent Fund: grants to professional physicists  
