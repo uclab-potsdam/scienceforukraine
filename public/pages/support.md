@@ -807,6 +807,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 **Funding programmes**
 
+*  30.07.2023 British Academy/ Cara/ Leverhulme Researchers at Risk Research [Support Grants](https://www.thebritishacademy.ac.uk/funding/british-academy-cara-leverhulme-researchers-at-risk-research-support-grants/). Deadline 23.09.2023. 
 *  21.06.2023 Renewal of Isaac Newton Institute for Mathematical Sciences support program for researchers in mathematical sciences [https://www.newton.ac.uk/event/slm/](https://www.newton.ac.uk/event/slm/)
 *  29.03.2023 Dumbarton Oaks Mentorship Program (deadline 30.04.23)  and Research Grants (deadline 31.03.23) for Scholars  Affected by the Conflict in Ukraine [https://www.doaks.org/research/fellowships-and-awards/opportunities-ukraine-scholars](https://www.doaks.org/research/fellowships-and-awards/opportunities-ukraine-scholars)
 *  27.11.2022 The Oxford University Graduate Scholarships for Ukraine Programme for 2023-24, 18 master's positions. [https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/graduate-scholarship-scheme-for-ukraine](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/graduate-scholarship-scheme-for-ukraine)
