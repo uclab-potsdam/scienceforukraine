@@ -288,6 +288,7 @@ ERA4Ukraine [https://www.euraxess.ee/ukraine](https://www.euraxess.ee/ukraine)
 
 **Funding programmes**
 
+*   30.07.2023 Estonian Entrepreneurship University of Applied Sciences offers tuition and accommodation waivers [https://euas.eu/all_news/news/?id=3108](https://euas.eu/all_news/news/?id=3108)
 *   Support programme for Ukrainian researchers by the Estonian Research Council  
     [https://www.etag.ee/en/funding/support-for-ukrainian-researchers](https://www.etag.ee/en/funding/support-for-ukrainian-researchers)
 
