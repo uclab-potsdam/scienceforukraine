@@ -463,6 +463,7 @@ ERA4Ukraine [https://www.euraxess.ie/ukraine](https://www.euraxess.ie/ukraine)
 
 **Funding programmes**
 
+*   30.07.2023 University of Galway offers 24 [Universities of Sanctuary Scholarships](https://universityofgalway.ie/about-us/news-and-events/news-archive/2023/july/university-of-galway-offers-24-universities-of-sanctuary-scholarships-1.html)
 *   11.07.2023. A new round of the Irish Research Council Scheme for Ukrainian Researchers [https://research.ie/funding/ukrainian-researchers-scheme/](https://research.ie/funding/ukrainian-researchers-scheme/)
 *   SFI Supplemental Grant for Displaced Researchers from Ukraine  
     [https://www.sfi.ie/funding/funding-calls/displaced-researchers/index.xml](https://www.sfi.ie/funding/funding-calls/displaced-researchers/index.xml)
