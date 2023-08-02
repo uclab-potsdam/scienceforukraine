@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+*  02.08.2023 The International Holocaust Remembrance Alliance supports research on the Holocaust and antisemitism. Deadline 29.09.2023. [DAAD- Ukraine page](https://www.daad-ukraine.org/en/2023/08/02/ihra-grant-program-for-projects-on-the-holocaust/)
 *  03.07.2023 The Central European Research Infrastructure Consortium, CERIC–ERIC [calls for postdocs](https://www.ceric-eric.eu/2023/07/03/call-for-post-docs-for-ukrainian-citizens-and-residents-affected-by-the-war-2/).
 *  06.06.2023 Maria Sklodowska-Curie Actions (MSCA4Ukraine) [new call](https://www.humboldt-foundation.de/en/explore/newsroom/news/war-in-ukraine-information-and-measures)
 *  24.05.2023 Odysseus Network summer school offers financial support for refugees participants. Deadline 01.06.2023. [https://odysseus-network.eu/2023-summer-school/](https://odysseus-network.eu/2023-summer-school/)
@@ -622,6 +623,7 @@ ERA4Ukraine [https://www.euraxess.pl/ukraine](https://www.euraxess.pl/ukraine)
 
 **Funding programmes and academic support**
 
+*  02.08.2023 Centrum Mieroszewskiego offers stipends to study Polish-Ukrainian-EU relationships. Deadline 20.08.2023. [Link](https://mieroszewski.pl/stypendia/naukowe/badaj-na-ukrainie/2023/zglos-sie)
 *  17.03.2023 Warsaw University offers mentoring/coaching support for non-academic Ukrainian refugees, [https://ua.wne.uw.edu.pl/uk/pro-diyalnist/](https://ua.wne.uw.edu.pl/uk/pro-diyalnist/)
 *   22.02.2023 Foundation for Polish Science (FNP) announces new funding. Deadline 4.04.2023. [https://www.fnp.org.pl/en/oferta/for-ukraine/](https://www.fnp.org.pl/en/oferta/for-ukraine/) 
 *   13.02.2023 Cisco4Ukraine offers free IT courses [https://cisco4ukraine.pl/](https://cisco4ukraine.pl/)
@@ -885,11 +887,6 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 *   Summer Program Grants for Displaced Ukrainian Youth [https://shevchenkofoundation.com/summer-program-grants-for-displaced-ukrainian-youth/](https://shevchenkofoundation.com/summer-program-grants-for-displaced-ukrainian-youth/)
 *   Ukraine Emergency Doctoral Student Fellowship in the Humanities (University of Victoria) [https://www.uvic.ca/humanities/student-resources/graduate-finances/index.php](https://www.uvic.ca/humanities/student-resources/graduate-finances/index.php)
 *  University of Alberta,  Support for Disrupted Ukrainian Scholars and Students (DUSS) [https://www.ualberta.ca/media-technology-studies/about-us/news/2022/june-2022/duss-ualberta---disrupted-ukrainian-scholars--students-initiative.html](https://www.ualberta.ca/media-technology-studies/about-us/news/2022/june-2022/duss-ualberta---disrupted-ukrainian-scholars--students-initiative.html)
-
-  
-
-
-
   
 
 ### Turkey
