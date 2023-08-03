@@ -588,6 +588,7 @@ ERA4Ukraine [https://www.euraxess.nl/ukraine](https://www.euraxess.nl/ukraine)
 
 **Support for researchers and students**
 
+* 03.08.2023  NWO-NRFU Partnership Initiative 2023, deadline 08.04.2024. [Link.](https://www.nwo.nl/en/news/nwo-and-nrfu-open-call-for-collaboration-between-dutch-and-ukrainian-researchers)
 *  06.02.2023 The Holland Scholarship for students [https://www.studyinnl.org/finances/holland-scholarship](https://www.studyinnl.org/finances/holland-scholarship)
 *   Groningen University: general information about support opportunities and free Dutch language courses  
     [https://www.rug.nl/language-centre/ukraine](https://www.rug.nl/language-centre/ukraine)
@@ -623,7 +624,8 @@ ERA4Ukraine [https://www.euraxess.pl/ukraine](https://www.euraxess.pl/ukraine)
 
 **Funding programmes and academic support**
 
-*  02.08.2023 Centrum Mieroszewskiego offers stipends to study Polish-Ukrainian-EU relationships. Deadline 20.08.2023. [Link](https://mieroszewski.pl/stypendia/naukowe/badaj-na-ukrainie/2023/zglos-sie)
+*  03.08.2023 International Multilateral Partnerships for Resilient Education and Science System in Ukraine (IMPRESS-U). [Link.](https://www.ncn.gov.pl/en/ogloszenia/konkursy/impress-u)
+*  02.08.2023 Centrum Mieroszewskiego offers stipends to study Polish-Ukrainian-EU relationships. Deadline 20.08.2023. [Link.](https://mieroszewski.pl/stypendia/naukowe/badaj-na-ukrainie/2023/zglos-sie)
 *  17.03.2023 Warsaw University offers mentoring/coaching support for non-academic Ukrainian refugees, [https://ua.wne.uw.edu.pl/uk/pro-diyalnist/](https://ua.wne.uw.edu.pl/uk/pro-diyalnist/)
 *   22.02.2023 Foundation for Polish Science (FNP) announces new funding. Deadline 4.04.2023. [https://www.fnp.org.pl/en/oferta/for-ukraine/](https://www.fnp.org.pl/en/oferta/for-ukraine/) 
 *   13.02.2023 Cisco4Ukraine offers free IT courses [https://cisco4ukraine.pl/](https://cisco4ukraine.pl/)
