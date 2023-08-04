@@ -8,7 +8,7 @@ Here are listed all the organisations, institutions and companies that support #
 *   simply endorsing and disseminating information about the initative through their communication channels (e.g. with our banners)
 *   supporting us financially.
 
-If you would like to support #ScienceForUkraine and become our partner, please get in touch with the PR coordinator [Maciej Maryl](mailto:press@scienceforukraine.eu)
+If you would like to support #ScienceForUkraine and become our partner, please get in touch [via email](mailto:info@scienceforukraine.eu)
 
 ## International
 
