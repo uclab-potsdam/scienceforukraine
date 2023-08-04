@@ -2,11 +2,11 @@
 
 ## Mission Statement
 
-#ScienceForUkraine is a grass-root initiative run by an international community of volunteer scholars and students since the beginning of Russia’s war in Ukraine. 
+#ScienceForUkraine started as a grass-root initiative run by an international community of volunteer scholars and students since the beginning of Russia’s war in Ukraine. As of 2 August, we an NGO under Latvian law registered under 40008327275 at Akadēmijas laukums 1, Riga, Latvia, LV-1050.
 
 Our mission is to support the Ukrainian academic community in surviving the war and to help ensure the continuity of Ukraine's science and strengthen its presence in the international science arena. 
 
-The initiative works in several directions with the following objectives: 
+The NGO works in several directions with the following objectives: 
 * First, to collect and disseminate information about support opportunities at the university, national, and international level for Ukrainian researchers and students.
 * Second, to monitor the current situation of Ukrainian research, higher education institutions, and scholars and students (both those in Ukraine and those who have fled), to closely follow decisions taken by governments and funding agencies, announced support mechanisms and general funding schemes.
 * Third, to raise awareness among the international academic community, national governments, funding bodies, and international organisations of the need to support Ukrainian scientists and students.
