@@ -16,7 +16,7 @@ The NGO works in several directions with the following objectives:
 
 #ScienceForUkraine has helped a large number of Ukrainian scienstists find (temporary) emplyoment outside Ukraine. Read more about #ScienceForUkraine in our [3 month report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4139263), published on June 17, 2022.
 
-We collect some success stories in a [Twitter thread](https://twitter.com/i/events/1519372075504484352) and feature some videos by Ukrainians whom we helped online on our [YouTube channel](https://www.youtube.com/@scienceforukraine1731).
+Until August 2022 we have collected success stories in a [Twitter thread](https://twitter.com/i/events/1519372075504484352). We also feature some videos by Ukrainians whom we helped online on our [YouTube channel](https://www.youtube.com/@scienceforukraine1731).
 
 We are grateful for support from [NEP4DISSENT COST Action](https://nep4dissent.eu/), [Institute of Literature, Folklore and Art of the University of Latvia](http://lulfmi.lv/en/news) and the [Polish Young Academy - Polish Academy of Sciences](https://amu.pan.pl/en/). Other institutions, networks and initiatives we partner with are listed [here](./partners.html).
 
