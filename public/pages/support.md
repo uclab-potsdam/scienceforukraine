@@ -451,6 +451,7 @@ ERA4Ukraine [https://www.euraxess.gr/ukraine](https://www.euraxess.gr/ukraine)
 
 ERA4Ukraine [https://www.euraxess.hu/ukraine](https://www.euraxess.hu/ukraine)
 
+*12.08.2023  Central European University offers [Invisible University for Ukraine program](https://www.ceu.edu/non-degree/Invisible-University). Deadline 8.09.2023.
   
 
 ### Iceland
