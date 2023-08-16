@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+* 16.08.2023 Scholars at Risk (SAR) provides [5 fellowships on academic freedom research](https://www.scholarsatrisk.org/the-network/mellon-sar/). Deadline 20.09.2023.
 *  02.08.2023 The International Holocaust Remembrance Alliance supports research on the Holocaust and antisemitism. Deadline 29.09.2023. [DAAD- Ukraine page](https://www.daad-ukraine.org/en/2023/08/02/ihra-grant-program-for-projects-on-the-holocaust/)
 *  03.07.2023 The Central European Research Infrastructure Consortium, CERIC–ERIC [calls for postdocs](https://www.ceric-eric.eu/2023/07/03/call-for-post-docs-for-ukrainian-citizens-and-residents-affected-by-the-war-2/).
 *  06.06.2023 Maria Sklodowska-Curie Actions (MSCA4Ukraine) [new call](https://www.humboldt-foundation.de/en/explore/newsroom/news/war-in-ukraine-information-and-measures)
@@ -904,6 +905,7 @@ ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/uk
 
 ### U.S.
 
+*  16.08.2023 American Physics Society presents [Distinguished Student Program - Ukraine](https://info.aps.org/webmail/640833/993061292/572dafa9a4fa4e119892fbbf5b3adaddb30635725ee332b12b0e34fff14ca9f1). Deadline 29.09.2023.
 *  28.06.2023 Radiation medical physics course from Stanford [LinkIn Post](https://www.linkedin.com/posts/nataliya-kovalchuk-6750b810_helpukrainegroup-ugcPost-7078029423366602752-HlTY/?utm_source=share&utm_medium=member_ios)
 *  13.05.2023 Non-residential fellowships of the University of Indiana, [https://reei.indiana.edu/](https://reei.indiana.edu/)
 *  05.05.2023 Fellowships of the New York Public Library. [https://www.nypl.org/help/about-nypl/fellowships-institutes](https://www.nypl.org/help/about-nypl/fellowships-institutes)
