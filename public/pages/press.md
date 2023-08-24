@@ -71,6 +71,7 @@ and research institutions** \
 - Alicia Moreno, Diego Salvadores: [Es importante ofrecer oportunidades temporales a los científicos que han tenido que huir de Ucrania](https://www.agenciasinc.es/Entrevistas/Es-importante-ofrecer-oportunidades-temporales-a-los-cientificos-que-han-tenido-que-huir-de-Ucrania), 3 March 2022, **SiNC**
 - Nisha Gaind, Holly Else & Antoaneta Roussi: [‘I thought I had forgotten this horror’: Ukrainian scientists stand in defiance](https://www.nature.com/articles/d41586-022-00621-6), 2 March 2022, **Nature** (News)
     - (in German) [»Ich dachte, ich hätte diesen Horror vergessen«](https://www.spektrum.de/news/krieg-in-der-ukraine-ich-dachte-ich-haette-diesen-horror-vergessen/1994932), 4 March 2022, **Spektrum der Wissenschaft**
+- Yvan Pandelé: [Meet the Latvian scholar rallying support for Ukrainian researchers](https://genevasolutions.news/science-tech/meet-the-latvian-scholar-rallying-support-for-ukrainian-researchers), 28 February 2022, **Geneva Solutions**
 
 ## Press Materials
 
