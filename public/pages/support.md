@@ -374,7 +374,8 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 _[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
 An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
 
-* 03.07.2023 Alexander von Humboldt Foundation. Renewal of Philipp Schwartz Initiative  
+*  25.08.2023 DAAD, [current list of support options](https://www.daad-ukraine.org/uk/propozitsiyi-finansovoyi-pidtrimki/stipendialna-baza-danih-daad/stipendien-datenbank-uk/).
+*  03.07.2023 Alexander von Humboldt Foundation. Renewal of Philipp Schwartz Initiative  
   [https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative)
 * 21.06.2023 Renewal of HessenFonds for Refugees and Researchers at Risk [https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees](https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees)
 *  12.06.2023 RTG Situated Cognitions offers individual support for researchers in the domain of situated cognition and similar, see [webpage](https://situated-cognition.com/2022/03/14/ukraine-fellowships/).
