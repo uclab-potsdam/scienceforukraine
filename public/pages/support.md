@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+* 26.08.2023 The American Council of Learned Societies (ACLS) [invites applications](https://networks.h-net.org/group/discussions/20003903/cfa-summer-institute-study-east-central-and-southeastern-europe) for the Summer Institute for the Study of East Central and Southeastern Europe (SISECSE) 2023-24 competition, in partnership with the Centre for Advanced Study Sofia (CAS). Deadline 02.11.2023.
 * 16.08.2023 Scholars at Risk (SAR) provides [5 fellowships on academic freedom research](https://www.scholarsatrisk.org/the-network/mellon-sar/). Deadline 20.09.2023.
 *  02.08.2023 The International Holocaust Remembrance Alliance supports research on the Holocaust and antisemitism. Deadline 29.09.2023. [DAAD- Ukraine page](https://www.daad-ukraine.org/en/2023/08/02/ihra-grant-program-for-projects-on-the-holocaust/)
 *  03.07.2023 The Central European Research Infrastructure Consortium, CERIC–ERIC [calls for postdocs](https://www.ceric-eric.eu/2023/07/03/call-for-post-docs-for-ukrainian-citizens-and-residents-affected-by-the-war-2/).
