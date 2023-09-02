@@ -188,6 +188,7 @@ ERA4Ukraine [https://www.euraxess.at/ukraine](https://www.euraxess.at/ukraine)
 
 **Funding programmes**
 
+*  02.09.2023 The Institute for Human Sciences (IWM) announces Documenting Ukraine grants (one-time 5000 euro). Deadline 29.09.2023. [https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants](https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants)
 *  21.06.2023  Fellowships for Scholars from Ukraine – the "Ukraine and the Transformation of Eastern Europe Fellowship Program" at the Research Center for the History of Transformations (RECET). Deadline 01.07.2023. [Link.](https://www.recet.at/event-news/news/detail/fellowships-for-scholars-from-ukraine)
 *   15.02.2023 The Institute for Human Sciences (IWM) announces Documenting Ukraine grants (one-time 5000 euro). Deadline 10.03.2023. [https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants](https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants)
 *   19.01.2023 Initiative for refugees MORE at the University of Art and Design Linz [https://kunstuni-linz.at/MORE-Projekt.16849+M52087573ab0.0.html](https://kunstuni-linz.at/MORE-Projekt.16849+M52087573ab0.0.html)
