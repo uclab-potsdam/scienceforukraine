@@ -845,7 +845,8 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 **Other academic support**
 
-*   Council for At-Risk Academics - researchers must register with CARA directly who later match them to an institution. Fellowships last 2 years.
+* 03.09.2023 Cambridge Open Equity Initiative supports [open access publishing](https://www.cambridge.org/core/open-research/open-access/cambridge-open-equity-initiative)
+*  Council for At-Risk Academics - researchers must register with CARA directly who later match them to an institution. Fellowships last 2 years.
 [https://www.cara.ngo]( https://www.cara.ngo)
 *   STAR - Student Action for Refugees [https://star-network.org.uk/about](https://star-network.org.uk/about); A comprehensive list of student funding opportunities can be found here: [https://star-network.org.uk/access-to-university/scholarships/list/](https://star-network.org.uk/access-to-university/scholarships/list/) 
 *   SAAS (Student Awards Agency Scotland) overview of support for Ukrainian Students [https://www.saas.gov.uk/guides/support-for-ukrainian-students]( https://www.saas.gov.uk/guides/support-for-ukrainian-students)
