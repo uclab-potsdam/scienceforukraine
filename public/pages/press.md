@@ -45,8 +45,9 @@ and research institutions** \
 - Nicoleta Spînu & Oleksandra V. Ivashchenko: [Support Ukraine Now: Urgent Needs and Proactive Responses](https://medium.com/marie-curie-alumni/support-ukraine-now-urgent-needs-and-proactive-responses-975b622ea6d8), **The Marie Curie Alumni Association Blog**, 2 April 2022
 - Marten Düring: [Help needed: Science for Ukraine](https://historicalnetworkresearch.org/help-needed-science-for-ukraine/), **The Historical Network Research Community**, 7 March 2022
 
-## Science For Ukraine in the News (selection)
+## #ScienceForUkraine in the News (selection)
 
+- Mariona Baltkalne, Paula Gulbinska: (in Latvian) [Zināmais nezināmajā. Ukrainas zinātnieki Latvijā](https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/ukrainas-zinatnieki-latvija.a180868), 4 September 2023, **Latvijas Sabiedriskie Mediji** (Public Broadcasting of Latvia)
 - Anastasia Klimash: [Keeping up support for Ukraine](https://www.chemistryworld.com/opinion/ukraines-chemists-persevere-through-a-year-of-war/4017035.article), 28 February 2023, **Chemistry World**
 - Aisling Irwin: [The fight to keep Ukrainian science alive through a year of war](https://www.nature.com/articles/d41586-023-00508-0), 22 February 2023, **Nature** (News Feature)
 - [#ScienceForUkraine ha ofert, en un any, 5.000 llocs de treball per a personal investigador ucraïnès](https://betatechcenter.com/ca/scienceforukraine-ha-ofert-en-un-any-5-000-llocs-de-treball-per-a-personal-investigador-ucraines/), 21 February 2023, **Beta**
