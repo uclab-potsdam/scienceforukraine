@@ -48,6 +48,7 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 
 *   [The German-Ukrainian Academic Society](https://ukrainet.eu)
 *   [Max Planck Unit for the Science of Pathogens, Emmanuelle Charpentier](https://www.mpusp.mpg.de/#:~:text=Max%20Planck%20Unit%20for%20the%20Science%20of%20Pathogens%20(MPUSP)%20is,viruses\)%20causing%20diseases%20in%20humans.)
+*   [Centre for Innovation and Technologies in the German State of North Rhine-Westphalia (ZENIT GmbH)](https://www.zenit.de/english/)
 
   
 ## Latvia
@@ -75,8 +76,6 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 
 ## Netherlands
 
-*   [Leiden University Medical Center](https://www.lumc.nl)
-*   [Leiden University](https://www.universiteitleiden.nl/en)
 *   [Dutch Society for Clinical Pharmacology & Biopharmacy (NVKFB)](https://nvkfb.nl/2022/03/27/scienceforukraine/)
 *   [Students for Ukraine](https://studentsforukraine.nl)
 
