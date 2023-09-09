@@ -492,6 +492,7 @@ ERA4Ukraine [https://www.euraxess.org.il/ukraine](https://www.euraxess.org.il/uk
 
 **Funding programmes**
 
+*  09.09.2023 TAU International invites Ukrainian students to pursue their studies at Tel Aviv University International for the upcoming academic year 2023-24 [https://international.tau.ac.il/scholarship_programs/?tab=1](https://international.tau.ac.il/scholarship_programs/?tab=1)
 *   Hebrew University of Jerusalem Emergency Aid for Researchers and Students from Ukraine  
     [https://international.huji.ac.il/news/hebrew-university-emergency-aid-researchers-and-students-ukraine](https://international.huji.ac.il/news/hebrew-university-emergency-aid-researchers-and-students-ukraine)
 *   University of Haifa. Haifa Center for German and European Studies of the University of Haifa. Ukraine Emergency Fellowship:  
