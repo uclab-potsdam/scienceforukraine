@@ -911,7 +911,8 @@ ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/uk
 
 ### U.S.
 
-*  16.08.2023 American Physics Society presents [Distinguished Student Program - Ukraine](https://info.aps.org/webmail/640833/993061292/572dafa9a4fa4e119892fbbf5b3adaddb30635725ee332b12b0e34fff14ca9f1). Deadline 29.09.2023.
+* 12.09.2023 Fellowships of MIT At-Risk Fellows Program, deadline 27.09.2023. [Link.](https://mistigsf.smapply.io/prog/global_mit_at-risk_fellows_-_ukraine/)
+* 16.08.2023 American Physics Society presents [Distinguished Student Program - Ukraine](https://info.aps.org/webmail/640833/993061292/572dafa9a4fa4e119892fbbf5b3adaddb30635725ee332b12b0e34fff14ca9f1). Deadline 29.09.2023.
 *  28.06.2023 Radiation medical physics course from Stanford [LinkIn Post](https://www.linkedin.com/posts/nataliya-kovalchuk-6750b810_helpukrainegroup-ugcPost-7078029423366602752-HlTY/?utm_source=share&utm_medium=member_ios)
 *  13.05.2023 Non-residential fellowships of the University of Indiana, [https://reei.indiana.edu/](https://reei.indiana.edu/)
 *  05.05.2023 Fellowships of the New York Public Library. [https://www.nypl.org/help/about-nypl/fellowships-institutes](https://www.nypl.org/help/about-nypl/fellowships-institutes)
