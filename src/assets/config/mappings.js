@@ -16,6 +16,7 @@ export default {
       { value: 'paidPosition', label: 'Paid Positions' },
       { value: 'education', label: 'Education' },
       { value: 'funding', label: 'Funding Programme' },
+      { value: 'fundingTogether', label: 'Application for funding together' },
       { value: 'partnership', label: 'Partnership' },
       { value: 'otherHelp', label: 'Other Help' }
     ]
@@ -51,14 +52,10 @@ export default {
     key: 'fundingSecured',
     type: 'toggle'
   }, {
-    name: 'working arrangements',
+    name: 'On-site work',
     category: 'paidPosition',
-    type: 'radio',
-    columns: [
-      { value: 'presence', label: 'On-site' },
-      { value: 'remoteLocal', label: 'Remote with relocation' },
-      { value: 'remoteUkraine', label: 'Remote from Ukraine' }
-    ]
+    key: 'fundingSecured',
+    type: 'toggle'
   }, {
     name: 'level',
     category: 'education',
@@ -114,7 +111,7 @@ export default {
       { value: 'officeSpace', label: 'Office space' },
       { value: 'infrastructure', label: 'On-site infrastructure & equipment' },
       { value: 'remoteinfrastructure', label: 'Remote infrastructure & equipment' },
-      { value: 'donation', label: 'Donation of equipment & materials' },
+      // { value: 'donation', label: 'Donation of equipment & materials' },
       { value: 'mentoring', label: 'Mentoring' },
       { value: 'other', label: 'Other' }
     ]
