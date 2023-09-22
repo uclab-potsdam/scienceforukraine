@@ -15,9 +15,9 @@ export default {
     columns: [
       { value: 'paidPosition', label: 'Paid Positions' },
       { value: 'education', label: 'Education' },
-      { value: 'funding', label: 'Funding Programme' },
-      { value: 'fundingTogether', label: 'Application for funding together' },
       { value: 'partnership', label: 'Partnership' },
+      { value: 'funding', label: 'Funding Programme' },
+      { value: 'fundingTogether', label: 'Application for Funding Together' },
       { value: 'otherHelp', label: 'Other Help' }
     ]
   }, {
@@ -42,8 +42,8 @@ export default {
     type: 'radio',
     columns: [
       { value: 'researchers', label: 'Researchers' },
+      { value: 'doctoralStudents', label: 'Doctoral students' },
       { value: 'students', label: 'Students' },
-      { value: 'technicians', label: 'Technicians' },
       { value: 'others', label: 'Others' }
     ]
   }, {
