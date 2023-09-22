@@ -5,21 +5,10 @@
         Support Offers
       </h2>
       <the-filter/>
-      <template v-if="store.view === 'list'">
-        <input-toggle class="map-filter" name="filter results by map extent" v-model="store.filterByMapExtent" />
-        <div class="options-map" :class="{ disabled: !store.filterByMapExtent }">
-          <the-map key="map" :mini="true"/>
-        </div>
-
-      </template>
     </div>
-    <div class="list" v-if="store.view === 'list'">
+    <div class="list">
       <the-list />
     </div>
-    <the-map v-else key="map" :mini="false"/>
-  </div>
-  <div class="max-width-inner toggle-view">
-    <input-radio :segmented="true" :yellow="true" :options="[{label: 'LIST', value: 'list'}, {label: 'MAP', value: 'map'}]" v-model="store.view"/>
   </div>
   <div class="detail" v-if="$route.params.id">
     <the-detail/>
@@ -28,23 +17,17 @@
 
 <script>
 import TheFilter from '@/components/TheFilter.vue'
-import TheMap from '@/components/TheMap.vue'
 import TheList from '@/components/TheList.vue'
 
 import { useMainStore } from '@/store/main'
 import TheDetail from '@/components/TheDetail.vue'
-import InputToggle from '@/components/InputToggle.vue'
-import InputRadio from '@/components/InputRadio.vue'
 
 export default {
   name: 'ListingsView',
   components: {
     TheFilter,
-    TheMap,
     TheList,
-    TheDetail,
-    InputToggle,
-    InputRadio
+    TheDetail
   },
   props: ['mode'],
   data () {
