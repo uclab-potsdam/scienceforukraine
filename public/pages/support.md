@@ -115,6 +115,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Other support initiatives**
 
+*  12.10.2023 Ukrainian Science Diaspora [platform](https://ukrdiaspora.nauka.gov.ua/uk/).
 *   Resources for Helping Displaced Scholars from Ukraine maintained by ASEEES  
     [https://www.aseees.org/resources/help-displaced-scholars-ukraine](https://www.aseees.org/resources/help-displaced-scholars-ukraine)
 *   H-Ukraine: recent scholarships, teaching resources, and other material related to the academic study of Ukraine. Scholarly opportunities for those who have been forced to leave Ukraine  
