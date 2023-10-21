@@ -13,7 +13,7 @@ export default {
     primary: true,
     // hideLabel: true,
     columns: [
-      { value: 'Position', label: 'Positions' },
+      { value: 'Position', label: 'Position' },
       { value: 'Scholarship', label: 'Scholarship' },
       { value: 'Joint application', label: 'Joint application' },
       { value: 'Resources', label: 'Resources' },
