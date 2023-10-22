@@ -14,7 +14,7 @@
       <h2>I Offer Help</h2>
       <div class="navigation">
         <router-link to="/help">How Can You Help?</router-link>
-        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdcyWM6L1ee-lI5ByMUDx6RBDskCLxvKDQ_yRqOr344wKAR9g/viewform">Submit Listing</a>
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe0a7SOe1BeSbZsI2py43gaC2MgpuaaiAcl5cqmskCxzeuHvg/viewform">Submit Listing</a>
         <a target="_blank" href="mailto:data@scienceforukraine.eu">Request Changes</a>
       </div>
     </div>
