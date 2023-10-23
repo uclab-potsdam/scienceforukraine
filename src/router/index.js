@@ -87,10 +87,6 @@ const routes = [
   },
   // external redirects
   {
-    path: '/calendar',
-    beforeEnter () { location.href = 'https://calendar.google.com/calendar/u/0/embed?src=info@scienceforukraine.eu&ctz=Europe/Warsaw' }
-  },
-  {
     path: '/submit',
     beforeEnter () { location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSe0a7SOe1BeSbZsI2py43gaC2MgpuaaiAcl5cqmskCxzeuHvg/viewform' }
   },
