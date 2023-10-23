@@ -92,7 +92,7 @@ const routes = [
   },
   {
     path: '/submit',
-    beforeEnter () { location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSdcyWM6L1ee-lI5ByMUDx6RBDskCLxvKDQ_yRqOr344wKAR9g/viewform' }
+    beforeEnter () { location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSe0a7SOe1BeSbZsI2py43gaC2MgpuaaiAcl5cqmskCxzeuHvg/viewform' }
   },
   {
     path: '/UK-info',
