@@ -42,7 +42,7 @@
         <div class="items">
           <router-link @click="toggleMenu" to="/support">Funding Programmes<br>& Further Support</router-link>
           <router-link @click="toggleMenu" to="/help">How You Can Help</router-link>
-          <router-link @click="toggleMenu" to="/donate">Donate</router-link>          
+          <router-link @click="toggleMenu" to="/donate">Donate</router-link>
           <router-link @click="toggleMenu" to="/about">About Us</router-link>
           <router-link @click="toggleMenu" to="/partners">Our Partners</router-link>
           <router-link @click="toggleMenu" to="/contact">Contact</router-link>

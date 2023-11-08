@@ -16,7 +16,7 @@
         <router-link to="/help">How Can You Help?</router-link>
         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe0a7SOe1BeSbZsI2py43gaC2MgpuaaiAcl5cqmskCxzeuHvg/viewform">Submit Listing</a>
         <a target="_blank" href="mailto:data@scienceforukraine.eu">Request Changes</a>
-        <router-link class="primary" to="/donate">Donate</router-link>        
+        <router-link class="primary" to="/donate">Donate</router-link>
       </div>
     </div>
     <div class="content">
