@@ -18,11 +18,11 @@ IBAN: LV89HABA0551055307427\
 Bank: Swedbank\
 Official address: Akademijas laukums 1, Riga, Latvia, LV1027
 
-Kindly specify **'Donation'** in the bank payment reference.
+Kindly specify **'Donation'** in the bank payment reference.  
 
 
 If you prefer to process your donation via an **invoice**, please don't hesitate to reach out to us at [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu).
-If you'd like your name to be publicly listed as a donor in the #ScienceForUkraine donor list, please don't hesitate to contact us via email at [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu).
+If you'd like your name to be publicly listed as a donor in the #ScienceForUkraine donor list, please don't hesitate to contact us via email at [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu).  
 
 
 # We thank our donors
