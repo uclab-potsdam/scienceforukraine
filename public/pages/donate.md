@@ -29,7 +29,7 @@ If you'd like your name to be publicly listed as a donor in the #ScienceForUkrai
 # We thank our donors
 
 #### The European Council of Academies of Applied Sciences, Technologies and Engineering, [https://www.euro-case.org](https://www.euro-case.org)
-#### Ivars Ījabs, Member of the European Parliament, [https://ijabs.eu/en](https://ijabs.eu)
+#### Ivars Ījabs, Member of the European Parliament, [https://ijabs.eu](https://ijabs.eu/en)
 
 <br>
 <br>
