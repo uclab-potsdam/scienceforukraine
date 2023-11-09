@@ -22,3 +22,10 @@ Kindly specify **'Donation'** in the bank payment reference.
 
 
 If you prefer to process your donation via an **invoice**, please don't hesitate to reach out to us at [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu).
+If you'd like your name to be publicly listed as a donor in the #ScienceForUkraine donor list, please don't hesitate to contact us via email at [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu).
+
+
+# We thank our donors
+
+#### The European Council of Academies of Applied Sciences, Technologies and Engineering, [https://www.euro-case.org](https://www.euro-case.org)
+#### Ivars Ījabs, Member of the European Parliament, [https://ijabs.eu/en](https://ijabs.eu/en)
