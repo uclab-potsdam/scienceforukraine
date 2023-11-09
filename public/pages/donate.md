@@ -6,9 +6,10 @@
 
 By supporting this initiative you are helping us support and sustain Ukrainian academic society.
 
-## Donations can be performed through:
-*   [PayPal](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN)
-*   regular bank transfer using account details listed below
+**Donations** can be performed through [PayPal](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN) and regular bank transfer using account details listed below.
+
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN)
+
 
 ### Details for the bank transfer
 Account holder name: Science for Ukraine\
