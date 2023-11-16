@@ -44,7 +44,7 @@ Every contribution to this program is highly needed and appreciated!
 [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN)
 
 
-[![Image](https://scienceforukraine.eu/media/S4U-IG-AcademicTravelGrants.png)](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN)
+[![Image](https://scienceforukraine.eu/media/S4U-IG-AcademicTravelGrants-s.jpg)](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN)
 
 
 <br>
