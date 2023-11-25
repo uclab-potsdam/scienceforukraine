@@ -378,6 +378,7 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 _[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
 An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
 
+* 25.11.2023 Deutsches Elektronen-Synchrotron DESY invites physics students to the [summer school](https://indico.desy.de/event/41934/)
 * 18.11.2023 DAAD, [Future Ukraine: Research Grants for Ukrainian Master´s students and researchers.](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57650857&utm_source=daad.de&utm_medium=referral&utm_campaign=StipDB-Shortlink_Studieren-im-Ausland)
 *  25.08.2023 DAAD, [current list of support options](https://www.daad-ukraine.org/uk/propozitsiyi-finansovoyi-pidtrimki/stipendialna-baza-danih-daad/stipendien-datenbank-uk/).
 *  03.07.2023 Alexander von Humboldt Foundation. Renewal of Philipp Schwartz Initiative  
