@@ -10,6 +10,17 @@ Here are listed all the organisations, institutions and companies that support #
 
 If you would like to support #ScienceForUkraine and become our partner, please get in touch [via email](mailto:info@scienceforukraine.eu).
 
+We are particularly grateful for support from [NEP4DISSENT COST Action](https://nep4dissent.eu/), [Institute of Literature, Folklore and Art of the University of Latvia](http://lulfmi.lv/en/news) and the [Polish Young Academy - Polish Academy of Sciences](https://amu.pan.pl/en/).
+
+Over the years various companies supported our cause, mostly by offering discounts to their products:
+
+*   Slack
+*   Google
+*   plausible.io
+*   Jira
+
+Our academic partners include:
+
 ## International
 
 *   [Scholars at Risk Network](https://www.scholarsatrisk.org/)
@@ -76,6 +87,6 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 
 *   [Slovak Academy of Sciences (SAV)](https://www.sav.sk/)
 [](https://www.sav.sk/)
-*   [](https://www.sav.sk/)[Slovak Fulbright Alumni Association (SFAA)](https://sfaa.sk)
+*   [Slovak Fulbright Alumni Association (SFAA)](https://sfaa.sk)
 
   

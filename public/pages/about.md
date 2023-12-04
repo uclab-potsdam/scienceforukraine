@@ -18,8 +18,6 @@ The NGO works in several directions with the following objectives:
 
 Until August 2022 we have collected success stories in a [Twitter thread](https://twitter.com/i/events/1519372075504484352). We also feature some videos by Ukrainians whom we helped online on our [YouTube channel](https://www.youtube.com/@scienceforukraine1731).
 
-We are grateful for support from [NEP4DISSENT COST Action](https://nep4dissent.eu/), [Institute of Literature, Folklore and Art of the University of Latvia](http://lulfmi.lv/en/news) and the [Polish Young Academy - Polish Academy of Sciences](https://amu.pan.pl/en/). Other institutions, networks and initiatives we partner with are listed [here](./partners.html).
-
 ## Members
 
 **Coordination**
