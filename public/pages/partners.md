@@ -8,7 +8,7 @@ Here are listed all the organisations, institutions and companies that support #
 *   simply endorsing and disseminating information about the initative through their communication channels (e.g. with our banners)
 *   supporting us financially.
 
-If you would like to support #ScienceForUkraine and become our partner, please get in touch [via email](mailto:info@scienceforukraine.eu)
+If you would like to support #ScienceForUkraine and become our partner, please get in touch [via email](mailto:info@scienceforukraine.eu).
 
 ## International
 
@@ -30,8 +30,6 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 *   [NGO Agency of European Innovations](https://aei.org.ua)
 *   [UKRAINET - The UKRainian Academic International NEtwork](https://www.linkedin.com/groups/8473594/)
 
-  
-
 ## Ukraine
 
 *   [Ministry of Education and Science of Ukraine](https://mon.gov.ua/en)
@@ -42,15 +40,12 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 *   [Ukrainian Global University (UGU)](https://uglobal.university)
 *   [National Research Foundation of Ukraine](https://nrfu.org.ua/en)
 
-  
-
 ## Germany
 
 *   [The German-Ukrainian Academic Society](https://ukrainet.eu)
 *   [Max Planck Unit for the Science of Pathogens, Emmanuelle Charpentier](https://www.mpusp.mpg.de/#:~:text=Max%20Planck%20Unit%20for%20the%20Science%20of%20Pathogens%20(MPUSP)%20is,viruses\)%20causing%20diseases%20in%20humans.)
 *   [Centre for Innovation and Technologies in the German State of North Rhine-Westphalia (ZENIT GmbH)](https://www.zenit.de/english/)
 
-  
 ## Latvia
 
 *   [Institute of Literature, Folklore and Art, University of Latvia](http://lulfmi.lv/en/news)
@@ -59,37 +54,28 @@ If you would like to support #ScienceForUkraine and become our partner, please g
 *   [Latvian Academy of Sciences](https://www.lza.lv/en/homeLatvian)
 *   [MEP Ivars Ijabs](https://ijabs.eu/en)
 
-  
-
 ## Luxembourg
 
 *   [Luxembourg Centre for Contemporary and Digital History (C2DH)](https://www.c2dh.uni.lu/)
 *   [ResearchLuxembourg](https://www.researchluxembourg.org/en/)
 
-  
-
 ## Poland
 
 *   [Polish Young Academy - Polish Academy of Sciences](https://amu.pan.pl/en/)
-
-  
 
 ## Netherlands
 
 *   [Dutch Society for Clinical Pharmacology & Biopharmacy (NVKFB)](https://nvkfb.nl/2022/03/27/scienceforukraine/)
 *   [Students for Ukraine](https://studentsforukraine.nl)
 
-  
-
 ## Norway
 
 *   [HTH-Centre of Excellence at the University of Oslo (HTH)](https://www.uio.no/english/about/organisation/exellent-centers/centres-of-excellence/)
 
-  
-
 ## Slovakia
 
 *   [Slovak Academy of Sciences (SAV)](https://www.sav.sk/)
-[](https://www.sav.sk/)*   [](https://www.sav.sk/)[Slovak Fulbright Alumni Association (SFAA)](https://sfaa.sk)
+[](https://www.sav.sk/)
+*   [](https://www.sav.sk/)[Slovak Fulbright Alumni Association (SFAA)](https://sfaa.sk)
 
   
