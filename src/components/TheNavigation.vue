@@ -44,9 +44,9 @@
           <router-link @click="toggleMenu" to="/help">How You Can Help</router-link>
           <router-link @click="toggleMenu" to="/donate">Donate</router-link>
           <router-link @click="toggleMenu" to="/about">About Us</router-link>
-          <router-link @click="toggleMenu" to="/partners">Our Partners</router-link>
           <router-link @click="toggleMenu" to="/contact">Contact</router-link>
           <router-link @click="toggleMenu" to="/press">Press & Media</router-link>
+          <router-link @click="toggleMenu" to="/partners">Our Partners</router-link>
 
           <!-- <a target="_blank" href="https://calendar.google.com/calendar/embed?src=info%40scienceforukraine.eu&ctz=Europe%2FWarsaw">Calendar</a> -->
         </div>

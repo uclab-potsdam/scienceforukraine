@@ -4,14 +4,14 @@
       <markdown-renderer :md="post"/>
     </div>
     <div class="content">
-      <h2>I Look for Help</h2>
+      <h2>For Ukrainians</h2>
       <div class="navigation">
         <router-link class="primary" to="/listings">View All Support Listings</router-link>
         <router-link class="primary" to="/support">Funding Programs<br>and Other Support</router-link>
       </div>
     </div>
     <div class="content">
-      <h2>I Offer Help</h2>
+      <h2>For volunteers</h2>
       <div class="navigation">
         <router-link to="/help">How Can You Help?</router-link>
         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe0a7SOe1BeSbZsI2py43gaC2MgpuaaiAcl5cqmskCxzeuHvg/viewform">Submit Listing</a>
@@ -27,12 +27,12 @@
       </div>
     </div>
     <div class="content">
-      <h2>More Information</h2>
+      <h2>For the public</h2>
       <div class="navigation">
         <router-link to="/about">About Us</router-link>
-        <router-link to="/partners">Our Partners</router-link>
         <router-link to="/contact">Contact Us</router-link>
         <router-link to="/press">Press & Media</router-link>
+        <router-link to="/partners">Our Partners</router-link>
       </div>
     </div>
     <div class="content">

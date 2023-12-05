@@ -2,9 +2,9 @@
 
 ## Press information
 
-Please direct all press-related requests to info@scienceforukraine.eu. If you're interested in a particular topic, we'll connect you with the right person.
+Please direct all press-related requests to [press@scienceforukraine.eu](mailto:press@scienceforukraine.eu). If you're interested in a particular topic or want quots from local persons, we'll connect you with the right person.
 
-For background information about the work of #ScienceForUkraine, please have a look at our [3 month report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4139263), published on 17 June 2022.
+For background information check our (About US)[https://scienceforukraine.eu/about#background-information] page.
 
 ## Press Releases
 
@@ -32,18 +32,6 @@ and research institutions** \
     [bg](https://drive.google.com/file/d/1GakVdAq0vjfzqM1MnUHjPLznh-SDXOup/view) [de](https://drive.google.com/file/d/1507uOS5L3LL6E78AAmdQ_7pdvscRdbwR/view) [en](https://drive.google.com/file/d/1KIO96sfir9oPkVOOKtxXzzx4iPr2_d_-/view) [es](https://drive.google.com/file/d/1TpErt34hjjJOHJyVa6oNk8EsgDUEqfbe/view) [fi](https://drive.google.com/file/d/1NeQx-81oLHqbighVp_8q4H-kC6nqd8No/view) [fr](https://drive.google.com/file/d/1b2OnLFguaGYuyHsoC0yRbAhYRYZ155xR/view) [it](https://drive.google.com/file/d/1C8lhKChKZBITGIto0ouVZsynuzMIKruW/view) [lv](https://drive.google.com/file/d/1kh7MWZg1Z3-moSHkdGkYK80ZWgsGvT1f/view) [nl](https://drive.google.com/file/d/1LBAwGBhCp5w1rt2_COQElCt-p2y-nOzB/view) [pl](https://drive.google.com/file/d/1Mfu_-E6qrsPQp9LkdVuiflp9yB9HBNEN/view) [pt](https://drive.google.com/file/d/1N4T1mjAiYM_2RN3ojvKhIuPt-jAQfiJU/view) [ro](https://drive.google.com/file/d/1Gbyi0pqutmMq1ki2pfy9lFm6eEL5x-Ff/view) [sk](https://drive.google.com/file/d/1R7PyQmrzu5TDzfVRo-cSqLZNlwYrKBNj/view) [sv](https://drive.google.com/file/d/1PqEt7uh7RJLrvX8ALx4NTrJviXn5E6kY/view)  
     [Poster (en)](https://drive.google.com/file/d/1r-Yh5q4lqYxNtSOwJwD2ccO3EljFZTt6/view)
     
-
-## Publications by members of the initiative
-- Ina Ganguli, Michael E. Rose, Oleksandra Ivashchenko & Stefano H. Baruffaldi: [Ukrainian science is struggling, threatening long-term economic recovery – history shows ways to support the Ukrainian scientific system](https://theconversation.com/ukrainian-science-is-struggling-threatening-long-term-economic-recovery-history-shows-ways-to-support-the-ukrainian-scientific-system-207477), **The Conversation**, 6 Jul 2023
-- Karishma Chhugani, Alina Frolova, Yuriy Salyha, Andrada Fiscutean, Oksana Zlenko, Sanita Reinsone, Walter W. Wolfsberger, Oleksandra V. Ivashchenko, Megi Maci, Dmytro Dziuba, Andrii Parkhomenko, Eric Bortz, Fyodor Kondrashov, Paweł P. Łabaj, Veronika Romero, Jakub Hlávka, Taras K. Oleksyk & Serghei Mangul: [Remote opportunities for scholars in Ukraine](https://www.science.org/doi/10.1126/science.adg0797), **Science** 378(6626), 22 December 2022; DOI: 10.1126/science.adg0797
-- Maciej Maryl, Marta Jaroszewicz, Iryna Degtyarova, Yevheniia Polishchuk, Marta Pachocka & Magdalena Wnuk: [Beyond Resilience: Professional Challenges, Preferences, and Plans of Ukrainian Researchers Abroad](https://zenodo.org/record/7380509), zenodo.org, 6 December 2022
-- Arran Reader & Anna K. Bobak: [Supporting Ukrainian scholars: what’s next for #ScienceForUkraine?](https://www.timeshighereducation.com/campus/supporting-ukrainian-scholars-whats-next-scienceforukraine), **Times Higher Education**, 15 August 2022
-- Valentina Mosienko, Marina Pelepets, Sanita Reinsone & Michael E. Rose: [Funding databases for Ukrainian academics](https://www.science.org/doi/10.1126/science.add9155), **Science** 377(6605), 28 July 2022; DOI: 10.1126/science.add9155
-- Michael E. Rose, Sanita Reinsone, Maksym Andriushchenko, Marcin Bartosiak, Anna K. Bobak, Luke Drury, Marten Düring, Inês Figueira, Elīna Gailīte, Iryna Gozhyk, Lucas Guimarães Abreu, Irene Gutierrez, Oleksandra Ivashchenko, Kris Van Heuckelom, Justine Jaudzema, Katarina Jurikova, Anna Kłos, Johannes Knörzer, Ekaterina Kutafina, Mateusz Kwaśnicki, Ilze Ļaksa-Timinska, Brokoslaw Laschowski, Annina Lattu, Megi Maci, Katri Mäkinen-Rostedt, Maciej Maryl, Maarten van Meerbeek, Olivier Morin, Valentina Mosienko, Albert Palou Vilar, Karen De Pauw, Marina Pelepets, Matiss Reinfelds, Cristina Rujan, Zhanna Santybayeva, Anya Skatova, Martin Vita, Ieva Weaver, Magdalena Wnuk & Robert Beckett: [#ScienceForUkraine: an Initiative to Support the Ukrainian Academic Community. “3 Months Since Russia’s Invasion in Ukraine”, February 26 – May 31, 2022](https://papers.ssrn.com/abstract=4139263), **Max Planck Institute for Innovation & Competition Research Paper** No. 22-13, 15 June 2022 [PDF](https://drive.google.com/file/d/1es1ElUCTPk3MctVb_q5qbOH6SA2Vu4Mo/view?usp=sharing)
-- Anna K. Bobak, Valentina Mosienko & Igor Potapov: [Eight ways UK academics can help students and researchers from Ukrainian universities](https://www.timeshighereducation.com/campus/eight-ways-uk-academics-can-help-students-and-researchers-ukrainian-universities), **THE Campus**, 26 May 2022
-- Maciej Maryl, Oleksandra V. Ivashchenko, Matiss Reinfelds, Sanita Reinsone & Michael E. Rose: [Addressing the needs of Ukrainian scholars at risk](https://www.nature.com/articles/s41562-022-01387-7), **Nature Human Behaviour** 6(6), 25 May 2022; DOI: 10.1038/s41562-022-01387-7
-- Nicoleta Spînu & Oleksandra V. Ivashchenko: [Support Ukraine Now: Urgent Needs and Proactive Responses](https://medium.com/marie-curie-alumni/support-ukraine-now-urgent-needs-and-proactive-responses-975b622ea6d8), **The Marie Curie Alumni Association Blog**, 2 April 2022
-- Marten Düring: [Help needed: Science for Ukraine](https://historicalnetworkresearch.org/help-needed-science-for-ukraine/), **The Historical Network Research Community**, 7 March 2022
 
 ## #ScienceForUkraine in the News (selection)
 - Sarah Kleiner (in German): [Ukrainische Forschende: "Kein Umfeld, um junge Menschen zu bilden"](https://www.derstandard.at/story/3000000197375/ukrainische-forschende-kein-umfeld-um-junge-menschen-zu-bilden?ref=rss), 3 December 2023, **Der Standard**
