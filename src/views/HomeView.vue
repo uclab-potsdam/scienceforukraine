@@ -30,7 +30,6 @@
       <h2>For the public</h2>
       <div class="navigation">
         <router-link to="/about">About Us</router-link>
-        <router-link to="/contact">Contact Us</router-link>
         <router-link to="/press">Press & Media</router-link>
         <router-link to="/partners">Our Partners</router-link>
       </div>

@@ -6,6 +6,10 @@
 
 The coordinators and founding members include Sanita Reinsone (ILFA, University of Latvia), Michael E. Rose (Max Planck Institute for Innovation and Competition), and Oleksandra V. Ivashchenko (University Medical Center Groningen).
 
+## Contact
+
+You can reach us via [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu). Use [press@scienceforukraine.eu](mailto:press@scienceforukraine.eu) for press-related requests. For data-related matters, please use [data@scienceforukraine.eu](mailto:data@scienceforukraine.eu).
+
 ## Mission Statement
 Our mission is to support the Ukrainian academic community in surviving the war and to help ensure the continuity of Ukraine's science and strengthen its presence in the international science arena. 
 

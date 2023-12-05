@@ -60,11 +60,6 @@ const routes = [
     component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
   },
   {
-    path: '/contact',
-    name: 'contact',
-    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
-  },
-  {
     path: '/donate',
     name: 'donate',
     component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
