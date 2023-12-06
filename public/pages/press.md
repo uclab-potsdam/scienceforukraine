@@ -4,7 +4,7 @@
 
 Please direct all press-related requests to [press@scienceforukraine.eu](mailto:press@scienceforukraine.eu). If you're interested in a particular topic or want quots from local persons, we'll connect you with the right person.
 
-For background information check our (About US)[https://scienceforukraine.eu/about#background-information] page.
+For background information check our [About US](./about#background-information) page.
 
 ## Press Releases
 
