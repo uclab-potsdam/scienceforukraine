@@ -8,27 +8,31 @@ For background information check our (About US)[https://scienceforukraine.eu/abo
 
 ## Press Releases
 
-1. 21 December 2022: **Mentoring Platform proivdes free Access for #ScienceForUkraine, to help displaced Scholars secure Funding and Support**, joint with [PushFar](https://www.pushfar.com/) (UK only)\
+1. 6 December 2023: **#ScienceForUkraine registered as an NGO and launches academic travel grant
+programme** \
+    [de](https://drive.google.com/file/d/1pn9aL_dAW4IGBZ7EUxA3ZfyIM7dd3_Qd/view?usp=sharing) [en](https://drive.google.com/file/d/10WQIU3zf_ggw0LZTFBAAMWw5js6qeLno/view?usp=sharing) [fi](https://drive.google.com/file/d/1kwkW53ZMTbEPimjjctfo0pf24F0WeY25/view?usp=sharing) [pl](https://drive.google.com/file/d/12ceJi_KC-XAmCyeurxK-4ZDtaBUbigz8/view?usp=sharing) [sk](https://drive.google.com/file/d/1Ch4iVdpgecMENT23GSkVuGiIga22D6HC/view?usp=sharing)
+
+2. 21 December 2022: **Mentoring Platform proivdes free Access for #ScienceForUkraine, to help displaced Scholars secure Funding and Support**, joint with [PushFar](https://www.pushfar.com/) (UK only) \
     [en](https://drive.google.com/file/d/1KyXcC-2ixn-O4zY8FtNEV7sGlXjW7UDZ/view?usp=sharing)
 
-2. 7 December 2022: **#ScienceForUkraine survey report: Ukrainian scholars in exile want to use the experience gained abroad upon return to home institutions** \
+3. 7 December 2022: **#ScienceForUkraine survey report: Ukrainian scholars in exile want to use the experience gained abroad upon return to home institutions** \
     [de](https://drive.google.com/file/d/17akU0OQVRreEN3nhSwffVriNoUOVO8Qw/view?usp=sharing) [en](https://drive.google.com/file/d/15cV16yF145T0oDtiqKAdysIp-nHpbh7b/view?usp=sharing) [lv](https://drive.google.com/file/d/1BItr5BGnnq3qOKh4QmJX8VOCKFTvI8yB/view?usp=sharing) [pl](https://drive.google.com/file/d/1EtVxe4w6rnf-rZgi0wVBJevwg38pmBHf/view?usp=sharing)
-   
-3. 9 September 2022: **#ScienceForUkraine calls for international support of Ukrainian universities
+
+4. 9 September 2022: **#ScienceForUkraine calls for international support of Ukrainian universities
 and research institutions** \
     [de](https://drive.google.com/file/d/1sRVjIbKo_oE3ueAEarK42DqirXUmnAtj/view?usp=sharing) [en](https://drive.google.com/file/d/1-bmedkAtpwwBSCZ0ZMwQU6vIv7n7vs74/view?usp=sharing) [lv](https://drive.google.com/file/d/1bnlSx0-Zxgce0pqyP1rTtKUI_zxckE8D/view?usp=sharing) [nl](https://drive.google.com/file/d/12GMzP0TJXSSAILbpb_uN4UWf550UZX06/view?usp=sharing) [pl](https://drive.google.com/file/d/1f8afIa2zAgdpy1Z_PKu_Ap3gBmLOHxLW/view?usp=sharing) [sk](https://drive.google.com/file/d/1JmCG3jyhNOI2lvNUmv9aA-4yO30AGQz7/view?usp=sharing)
 
-4. 30 June 2022: **Ukrainian scientists and students still need our help - offer support and register it on our Science for Ukraine website** (FI only)\
+5. 30 June 2022: **Ukrainian scientists and students still need our help - offer support and register it on our Science for Ukraine website** (FI only)\
     [fi](https://drive.google.com/file/d/1rVgbg4bkHzZTefMogh9xRzVI5pihClwq/view?usp=sharing)
 
-5. 20 June 2022: **#ScienceForUkraine sums up three months of supporting the Ukrainian academic community** \
+6. 20 June 2022: **#ScienceForUkraine sums up three months of supporting the Ukrainian academic community** \
     [de](https://drive.google.com/file/d/1yVFVg7yfHWF-UoNqOgPs9SHDAGswHAMd/view?usp=sharing)  [en](https://drive.google.com/file/d/152CZWiBF7zVFScmA8h0An6i73LkxYXUs/view?usp=sharing) [lv](https://drive.google.com/file/d/1Ss7gKTRE5ymPJuX20a-lWrla024f_5J1/view?usp=sharing) [nl](https://drive.google.com/file/d/1rrHJHRfIOpBkOHxX1YjKxkmPgGDCTP8E/view?usp=sharing) [pl](https://drive.google.com/file/d/1o73sf4cHoGliLQmJ6oJzW8hMcVL3wPi-/view?usp=sharing) [pt](https://drive.google.com/file/d/1Q2yDy7cImYKA4rstAhOaiX8VvNr4Xfpl/view?usp=sharing) [sk](https://drive.google.com/file/d/1Wq14rZZDiiC249Lq5r6sfRlhoIk2-TTP/view?usp=sharing)
 
-6.  22 April 2022: **Scholars and institutions willing to host Ukrainian researchers under general funding programmes are encouraged to submit a support offer to the #ScienceForUkraine database**  
+7.  22 April 2022: **Scholars and institutions willing to host Ukrainian researchers under general funding programmes are encouraged to submit a support offer to the #ScienceForUkraine database**  
     [de](https://drive.google.com/file/d/1ylRFeTtWSU2JHHH0sAV89dweztGuTbBT/view) [en](https://drive.google.com/file/d/16C9VW6ZiGoGdWZGTAdnbQwGR0cLkr0y_/view) [es](https://drive.google.com/file/d/1rpfF_ZkdJEPOep7FUVjOZO-jVILPgU7f/view) [fi](https://drive.google.com/file/d/1VP9KTLSFOKStq-8qCzpHyNWhTtNjyEvI/view) [fr](https://drive.google.com/file/d/1Kz53JwRSKS5KB2P4Ej3u7_7et2bFH8BQ/view) [lv](https://drive.google.com/file/d/1ntQ4DlpXEBOQJYR_4fKSl7tG75v6qBwK/view) [nl](https://drive.google.com/file/d/1UEOYj9gzUUOyeGRAqOQF9ltCvMJULMY4/view) [pl](https://drive.google.com/file/d/13tpBTePS2pV9LzII4doIPi6rYKjMrh14/view) [sk](https://drive.google.com/file/d/1AcXevJ1eJMw8etDDuKFmEch2FqhUV97H/view) [sv](https://drive.google.com/file/d/132yzzPGDnYhKZaEQUQCfGNGC6Om23jGv/view)  
     [Poster (en)](https://drive.google.com/file/d/1GovFGM97Dzn2Eubhbc-WWUw61KDOqMRx/view)
-    
-7.  28 March 2022: **Scholars who remained in Ukraine need remote collaboration opportunities**   
+
+8.  28 March 2022: **Scholars who remained in Ukraine need remote collaboration opportunities**   
     [bg](https://drive.google.com/file/d/1GakVdAq0vjfzqM1MnUHjPLznh-SDXOup/view) [de](https://drive.google.com/file/d/1507uOS5L3LL6E78AAmdQ_7pdvscRdbwR/view) [en](https://drive.google.com/file/d/1KIO96sfir9oPkVOOKtxXzzx4iPr2_d_-/view) [es](https://drive.google.com/file/d/1TpErt34hjjJOHJyVa6oNk8EsgDUEqfbe/view) [fi](https://drive.google.com/file/d/1NeQx-81oLHqbighVp_8q4H-kC6nqd8No/view) [fr](https://drive.google.com/file/d/1b2OnLFguaGYuyHsoC0yRbAhYRYZ155xR/view) [it](https://drive.google.com/file/d/1C8lhKChKZBITGIto0ouVZsynuzMIKruW/view) [lv](https://drive.google.com/file/d/1kh7MWZg1Z3-moSHkdGkYK80ZWgsGvT1f/view) [nl](https://drive.google.com/file/d/1LBAwGBhCp5w1rt2_COQElCt-p2y-nOzB/view) [pl](https://drive.google.com/file/d/1Mfu_-E6qrsPQp9LkdVuiflp9yB9HBNEN/view) [pt](https://drive.google.com/file/d/1N4T1mjAiYM_2RN3ojvKhIuPt-jAQfiJU/view) [ro](https://drive.google.com/file/d/1Gbyi0pqutmMq1ki2pfy9lFm6eEL5x-Ff/view) [sk](https://drive.google.com/file/d/1R7PyQmrzu5TDzfVRo-cSqLZNlwYrKBNj/view) [sv](https://drive.google.com/file/d/1PqEt7uh7RJLrvX8ALx4NTrJviXn5E6kY/view)  
     [Poster (en)](https://drive.google.com/file/d/1r-Yh5q4lqYxNtSOwJwD2ccO3EljFZTt6/view)
     
@@ -82,6 +86,7 @@ and research institutions** \
 | [White tile](/media/TILE%2004.jpg) | 1200x675 |
 | [White tile](/media/TILE%2005.png) | 1180x410 |
 | [Campaign "SFU remote"](/media/RemoteSFU_web.jpeg) | 2048x2048 |
+| [Campaign "Donate MTG"](/media/donate_mtg.png) | 1080x1080
 
 ### Leaflets
 
