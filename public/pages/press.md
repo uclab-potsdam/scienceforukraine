@@ -10,7 +10,7 @@ For background information check our (About US)[https://scienceforukraine.eu/abo
 
 1. 6 December 2023: **#ScienceForUkraine registered as an NGO and launches academic travel grant
 programme** \
-    [de](https://drive.google.com/file/d/1pn9aL_dAW4IGBZ7EUxA3ZfyIM7dd3_Qd/view?usp=sharing) [en](https://drive.google.com/file/d/10WQIU3zf_ggw0LZTFBAAMWw5js6qeLno/view?usp=sharing) [fi](https://drive.google.com/file/d/1kwkW53ZMTbEPimjjctfo0pf24F0WeY25/view?usp=sharing) [pl](https://drive.google.com/file/d/12ceJi_KC-XAmCyeurxK-4ZDtaBUbigz8/view?usp=sharing) [sk](https://drive.google.com/file/d/1Ch4iVdpgecMENT23GSkVuGiIga22D6HC/view?usp=sharing)
+    [de](https://drive.google.com/file/d/1pn9aL_dAW4IGBZ7EUxA3ZfyIM7dd3_Qd/view?usp=sharing) [en](https://drive.google.com/file/d/10WQIU3zf_ggw0LZTFBAAMWw5js6qeLno/view?usp=sharing) [fi](https://drive.google.com/file/d/1kwkW53ZMTbEPimjjctfo0pf24F0WeY25/view?usp=sharing) [fr](https://drive.google.com/file/d/1kCA66612LdkhVKcLLJegkO_KIDOhHyNx/view?usp=sharing) [pl](https://drive.google.com/file/d/12ceJi_KC-XAmCyeurxK-4ZDtaBUbigz8/view?usp=sharing) [sk](https://drive.google.com/file/d/1Ch4iVdpgecMENT23GSkVuGiIga22D6HC/view?usp=sharing)
 
 2. 21 December 2022: **Mentoring Platform proivdes free Access for #ScienceForUkraine, to help displaced Scholars secure Funding and Support**, joint with [PushFar](https://www.pushfar.com/) (UK only) \
     [en](https://drive.google.com/file/d/1KyXcC-2ixn-O4zY8FtNEV7sGlXjW7UDZ/view?usp=sharing)
