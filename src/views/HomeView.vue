@@ -8,6 +8,7 @@
       <div class="navigation">
         <router-link class="primary" to="/listings">View All Support Listings</router-link>
         <router-link class="primary" to="/support">Funding Programs<br>and Other Support</router-link>
+        <router-link to="/mtg">Micro Travel Grants</router-link>
       </div>
     </div>
     <div class="content">

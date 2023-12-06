@@ -23,37 +23,16 @@ Kindly specify **'Donation'** in the bank payment reference.
 
 If you prefer to process your donation via an **invoice**, please don't hesitate to reach out to us at [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu).
 
-If you would like your name to be publicly listed as a donor in the #ScienceForUkraine donor list, please don't hesitate to contact us via email at [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu).  
-<br>
-<br>
-
-
-# #ScienceForUkraine Micro Travel Grant Programme
-
-#ScienceForUkraine steps in when we see that something crucial is lacking in support available for Ukrainian scientists. Currently, as much as possible, it is essential to strengthen the presence of Ukrainian scientists in the international scientific arena.
-
-To enhance the opportunities for Ukrainian scientists to participate in academic trips abroad, in 2024, we plan to launch the **#ScienceForUkraine Micro Travel Grant Programme**. This program will provide up to 500 euros per grant, helping to cover travel, accommodation, and participation fees for scientists affiliated with Ukrainian universities.
-
-Every contribution to this program is highly needed and appreciated!
-
-**Would you also like to support Ukrainian scholars in fostering their international collaboration? Contribute to our fundraising campaign [here](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN)!**
-
-<br>
-<br>
-
 [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN)
-
-
-[![Image](https://scienceforukraine.eu/media/S4U-IG-AcademicTravelGrants-s.jpg)](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN)
-
-
-<br>
-<br>
 
 # We thank our donors
 
 #### The European Council of Academies of Applied Sciences, Technologies and Engineering, [https://www.euro-case.org](https://www.euro-case.org)
 #### Ivars Ījabs, Member of the European Parliament, [https://ijabs.eu](https://ijabs.eu/en)
 
-<br>
-<br>
+If you would like your name to be publicly listed as a donor in the #ScienceForUkraine donor list, please don't hesitate to contact us via email at [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu).  
+
+
+# What do we do with the money?
+
+As a first measure, we plan to launch the #ScienceForUkraine Micro Travel Grant Programme in 2024! Please visit our [dedicated page](./mtg) for details.

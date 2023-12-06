@@ -64,6 +64,11 @@ const routes = [
     name: 'donate',
     component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
   },
+  {
+    path: '/mtg',
+    name: 'mtg',
+    component: () => import(/* webpackChunkName: "PageView" */ '../views/PageView.vue')
+  },
   // redirects to support old link schema
   {
     path: '/positions',
