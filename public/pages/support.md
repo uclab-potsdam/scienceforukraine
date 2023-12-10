@@ -891,6 +891,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
     Call for Proposals aimed to enable research institutions in São Paulo to host scientists at risk.
 ### Canada
 
+*   10.12.2023 The Petro Jacyk Program (University of Toronto) is accepting applications for [Post-Doctoral Fellowship](https://munkschool.utoronto.ca/petro-jacyk/petro-jacyk-post-doctoral-fellowship-ukrainian-politics-culture-and-society) in Ukrainian Politics, Culture, and Society for the 2024-2025 academic year.
 *   28.10.2023 [Summer Program for Students from Ukraine](https://uwaterloo.ca/engineering/summer-program-students-ukraine) at the University of Waterloo, deadline 02.01.2024.
 *   28.10.2023 [Science en exil – Researchers:](https://frq.gouv.qc.ca/en/program/science-en-exil-researchers/) support by the Fonds de recherche du Québec (FRQ).
 *    09.08.2023 [Travel stipends](https://holodomor.ca/travel-stipends-to-attend-conference-the-assault-on-culture-in-ukraine-the-holodomor-years/) for a conference on Holodomor from Columbia University and University of Alberta. Deadline 01.09.2023.
