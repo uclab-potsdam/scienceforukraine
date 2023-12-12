@@ -8,6 +8,6 @@ Details will soon follow!
 
 Every contribution to this program is highly needed and appreciated!
 
-**Would you also like to support Ukrainian scholars in fostering their international collaboration? Contribute to our fundraising campaign [via PayPal](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN) or [bank transfer](./dontate)!**
+**Would you also like to support Ukrainian scholars in fostering their international collaboration? Contribute to our fundraising campaign [via PayPal](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN) or [bank transfer](https://scienceforukraine.eu/donate)!**
 
 [![Image](https://scienceforukraine.eu/media/S4U-IG-AcademicTravelGrants-s.jpg)](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN)
