@@ -2,7 +2,7 @@
 
 #ScienceForUkraine warmly welcomes donations made through PayPal or bank transfers to the association's bank account. Every contribution is highly appreciated and will greatly support the organization's sustainability as well as the realization of its goals.
 
-**In 2024, our objective is to establish a **[#ScienceForUkraine Micro Travel Grant Programme](#scienceforukraine-micro-travel-grant-programme)** for scholars affiliated with Ukrainian academic institutions**. The program will support academic trips, covering accommodation and travel expenses associated with active (presenting poster/oral presentation) participation in international conferences and other scientific events.
+**In 2024, our objective is to establish a **[#ScienceForUkraine Micro Travel Grant Programme](https://scienceforukraine.eu/mtg)** for scholars affiliated with Ukrainian academic institutions**. The program will support academic trips, covering accommodation and travel expenses associated with active (presenting poster/oral presentation) participation in international conferences and other scientific events.
 
 By supporting this initiative you are helping us support and sustain Ukrainian academic society.
 
