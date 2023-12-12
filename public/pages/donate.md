@@ -23,7 +23,7 @@ Kindly specify **'Donation'** in the bank payment reference.
 
 If you prefer to process your donation via an **invoice**, please don't hesitate to reach out to us at [info@scienceforukraine.eu](mailto:info@scienceforukraine.eu).
 
-[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN)
+
 
 # We thank our donors
 
