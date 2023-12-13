@@ -38,6 +38,7 @@ and research institutions** \
     
 
 ## #ScienceForUkraine in the News (selection)
+- ['Science for Ukraine' initiative gathers momentum](https://eng.lsm.lv/article/society/education/07.12.2023-science-for-ukraine-initiative-gathers-momentum.a534369/), 7 December 2023, **LSM** (Public broadcasting of Latvia)
 - Sarah Kleiner (in German): [Ukrainische Forschende: "Kein Umfeld, um junge Menschen zu bilden"](https://www.derstandard.at/story/3000000197375/ukrainische-forschende-kein-umfeld-um-junge-menschen-zu-bilden?ref=rss), 3 December 2023, **Der Standard**
 - [Digital Collaboration between UK and Ukraine](https://www.bcs.org/articles-opinion-and-research/digital-collaboration-between-uk-and-ukraine/), 10 October 2023, **BCS, The Chartered Institute for IT**
 - Mariona Baltkalne, Paula Gulbinska: (in Latvian) [Zināmais nezināmajā. Ukrainas zinātnieki Latvijā](https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/ukrainas-zinatnieki-latvija.a180868), 4 September 2023, **Latvijas Sabiedriskie Mediji** (Public Broadcasting of Latvia)
