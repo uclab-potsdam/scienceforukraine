@@ -869,6 +869,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
  ### Ukraine
  
+ *  19.12.2023  VUIAS Fellowships in Ukraine, different disciplines. Deadline 31.01.2024. [https://www.vuias.org/call](https://www.vuias.org/call)
  *  19.08.2023 RED KALYNA Initiative: Empowering Women Leaders in Ukraine. [Nomination](https://nrfu.org.ua/en/news-en/red-kalyna-initiative-empowering-women-leaders-in-ukraine/) deadline: 15.10.2023. 
  *   06.05.2023  VUIAS Fellowships in Ukraine, different disciplines. Deadline 25.06.2023. [https://www.vuias.org/call](https://www.vuias.org/call)
  *   04.04.2023 New Fellowship scheme for Ukrainian researchers by EURIZON project. Deadline 08.05.2023. [https://europa.eu/!D3kvFN](https://europa.eu/!D3kvFN)
