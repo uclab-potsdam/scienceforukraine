@@ -33,7 +33,7 @@
         <span class="label">Listings</span>
         <div class="items">
           <router-link @click="toggleMenu" :to="{ name:'listings' }">All Listings</router-link>
-          <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdcyWM6L1ee-lI5ByMUDx6RBDskCLxvKDQ_yRqOr344wKAR9g/viewform">Submit Listing</a>
+          <a target="_blank" href="https://scienceforukraine.eu/submit">Submit Listing</a>
           <a target="_blank" href="mailto:data@scienceforukraine.eu">Request Changes</a>
         </div>
       </nav>
