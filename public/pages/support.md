@@ -922,6 +922,7 @@ ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/uk
 
 ### U.S.
 
+* 11.01.2024 Linda Hall Library provides [scholarships for Ukrainian Researchers](https://www.lindahall.org/research/linda-hall-library-fellowships/). Deadline 19.01.2024.
 * 22.12.2023 Help Ukraine Group is organizing observerships for radiation oncologists and medical physicists in USA. [Link.](https://www.linkedin.com/posts/nataliya-kovalchuk-6750b810_helpukrainegroup-activity-7143638850207137792-57qf/?utm_source=share&utm_medium=member_ios) Deadline 31.12.2023
 * 12.09.2023 Fellowships of MIT At-Risk Fellows Program, deadline 27.09.2023. [Link.](https://mistigsf.smapply.io/prog/global_mit_at-risk_fellows_-_ukraine/)
 * 16.08.2023 American Physics Society presents [Distinguished Student Program - Ukraine](https://info.aps.org/webmail/640833/993061292/572dafa9a4fa4e119892fbbf5b3adaddb30635725ee332b12b0e34fff14ca9f1). Deadline 29.09.2023.
