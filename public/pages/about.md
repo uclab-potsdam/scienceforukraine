@@ -82,7 +82,7 @@ Bank: Swedbank
 - **PayPal**
 
 You can use a direct link to the Science for Ukraine PayPal account: [paypal.me/scienceforukraine](https://paypal.me/scienceforukraine) or 
-the pre-filled PayPal [payment form](https://www.paypal.com/donate/?hosted_button_id=Z4WPN2BUPJD3C).\ 
+the pre-filled PayPal [payment form](https://www.paypal.com/donate/?hosted_button_id=Z4WPN2BUPJD3C).
 
 <br>
 
