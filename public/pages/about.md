@@ -55,9 +55,9 @@ Zosia Dzierzawska, Fidel Thomet (University of Applied Sciences Potsdam), Uldis 
 
 NGO “Science for Ukraine” comprises three member categories:
 
-- **Full Members:** actively contribute to the organization by performing various tasks on a regular basis.
+- **Full Members:** actively contribute to the organization by performing various tasks on a regular basis. To become a full member, specific personal data needs to be provided (see the application form).
 
-- **Associate Members:** are also actively involved with the organization.
+- **Associate Members:** are also actively involved with the organization. To become an associate member, limited personal data needs to be provided (see the application form).
 
 - **Supporting Members:** Form a part of #ScienceForUkraine's support community. They receive information about the organization's activities and plans. Supporting Members can participate in joint initiatives or projects when opportunities arise, but attendance at the Annual General Assembly is optional, and they do not possess voting rights. No personal information is required for this application.
 
