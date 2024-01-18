@@ -870,6 +870,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
  ### Ukraine
  
+ *  18.01.2023  STEM with Ukraine Group launches online “Introduction to Quantum Computing” Course. Sign via the [form](https://docs.google.com/forms/d/e/1FAIpQLSfxNtFGcKZudB-nzrS7djV5oV7bTyAmtXMm_N34VVZs5aqalA/viewform). 
  *  19.12.2023  VUIAS Fellowships in Ukraine, different disciplines. Deadline 31.01.2024. [https://www.vuias.org/call](https://www.vuias.org/call)
  *  19.08.2023 RED KALYNA Initiative: Empowering Women Leaders in Ukraine. [Nomination](https://nrfu.org.ua/en/news-en/red-kalyna-initiative-empowering-women-leaders-in-ukraine/) deadline: 15.10.2023. 
  *   06.05.2023  VUIAS Fellowships in Ukraine, different disciplines. Deadline 25.06.2023. [https://www.vuias.org/call](https://www.vuias.org/call)
