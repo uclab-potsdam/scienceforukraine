@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+* 26.02.2024 The EIT Food Seedbed Incubator encourages submissions from Ukraine. Deadline 19.02.2024. [Link.](https://www.eitfood.eu/entrepreneurship/launch-seedbed-incubator)
 * 22.11.2023 The Nanophotonics journal (De Gruyter), in collaboration with the Optica Foundation announced a [grant program](https://cutt.ly/PwTGXeCl) to support Ukrainian researchers and educators. Deadline 30.11.2023.
 * 26.08.2023 The American Council of Learned Societies (ACLS) [invites applications](https://networks.h-net.org/group/discussions/20003903/cfa-summer-institute-study-east-central-and-southeastern-europe) for the Summer Institute for the Study of East Central and Southeastern Europe (SISECSE) 2023-24 competition, in partnership with the Centre for Advanced Study Sofia (CAS). Deadline 02.11.2023.
 * 16.08.2023 Scholars at Risk (SAR) provides [5 fellowships on academic freedom research](https://www.scholarsatrisk.org/the-network/mellon-sar/). Deadline 20.09.2023.
