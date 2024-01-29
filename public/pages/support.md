@@ -824,6 +824,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 **Funding programmes**
 
+* 29.01.2024 The Cambridge Open Equity Initiative is designed to support  open access publications. [Link.](https://www.cambridge.org/core/open-research/open-access/cambridge-open-equity-initiative)
 *  25.11.2023  The Oxford University Graduate [Scholarships for Ukraine](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/graduate-scholarship-scheme-for-ukraine) Programme (2024-25) is proudly supported by XTX Markets.
 *  30.07.2023 British Academy/ Cara/ Leverhulme Researchers at Risk Research [Support Grants](https://www.thebritishacademy.ac.uk/funding/british-academy-cara-leverhulme-researchers-at-risk-research-support-grants/). Deadline 23.09.2023. 
 *  21.06.2023 Renewal of Isaac Newton Institute for Mathematical Sciences support program for researchers in mathematical sciences [https://www.newton.ac.uk/event/slm/](https://www.newton.ac.uk/event/slm/)
