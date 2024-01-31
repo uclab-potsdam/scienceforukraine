@@ -9,7 +9,9 @@ To enhance the opportunities for Ukrainian scientists to participate in academic
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN"><img src="https://scienceforukraine.eu/media/MTGbanner.png" alt="MTG" width="450"/></a>
 
-MTGs are intended to support eligible Ukrainian scientists in participating in international conferences, covering costs up to EUR 500. <br>
+MTGs are intended to support eligible Ukrainian scientists in participating in international conferences, covering costs up to EUR 500. 
+
+<br>
 
  **➡️  [Application Form for #ScienceForUkraine Micro Travel Grants 2024](https://docs.google.com/forms/d/e/1FAIpQLSeoPsFO4nT1l07PLet79qcShU5de2mt8gF5oFPEYj8KMJfKsQ/viewform)**
 
