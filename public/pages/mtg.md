@@ -1,12 +1,13 @@
-# #ScienceForUkraine Academic Micro Travel Grant Programme
+# #ScienceForUkraine Micro Travel Grant Programme
 
 #ScienceForUkraine steps in when we see that something crucial is lacking in support available for Ukrainian scientists. Currently, as much as possible, it is essential to strengthen the presence of Ukrainian scientists in the international scientific arena.
 
-To enhance the opportunities for Ukrainian scientists to participate in academic trips abroad, in 2024 we are launching launch the **#ScienceForUkraine Academic Micro Travel Grant Programme**. This program will provide up to 500 euros per grant, helping to cover travel, accommodation, and participation fees for scientists affiliated with Ukrainian universities. **Would you also like to support Ukrainian scholars in fostering their international collaboration? Contribute to our fundraising campaign [via PayPal](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN) or [bank transfer](https://scienceforukraine.eu/donate)!** Every contribution to this program is highly needed and appreciated!
+To enhance the opportunities for Ukrainian scientists to participate in academic trips abroad, in 2024 we are launching launch the **#ScienceForUkraine Micro Travel Grant Programme**. This program will provide up to 500 euros per grant, helping to cover travel, accommodation, and participation fees for scientists affiliated with Ukrainian universities. **Would you also like to support Ukrainian scholars in fostering their international collaboration? Contribute to our fundraising campaign [via PayPal](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN) or [bank transfer](https://scienceforukraine.eu/donate)!** Every contribution to this program is highly needed and appreciated!
 
 <br>
 
-# # Micro Travel Grants Call 2024 (MTG2024) 
+
+# Micro Travel Grant Call 2024 (MTG2024) 
 
 <br>
 
