@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+* 01.02.2024 #ScienceForUkraine [Micro Travel Grant Programme](https://scienceforukraine.eu/mtg)
 * 29.01.2024 [Seeds of Bravery](https://seedsofbravery.eu/) is funded by the European Union under the European Innovation Council (EIC) to support Ukrainian tech startups.
 * 26.02.2024 The EIT Food Seedbed Incubator encourages submissions from Ukraine. Deadline 19.02.2024. [Link.](https://www.eitfood.eu/entrepreneurship/launch-seedbed-incubator)
 * 22.11.2023 The Nanophotonics journal (De Gruyter), in collaboration with the Optica Foundation announced a [grant program](https://cutt.ly/PwTGXeCl) to support Ukrainian researchers and educators. Deadline 30.11.2023.
