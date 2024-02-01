@@ -4,10 +4,11 @@
 
 To enhance the opportunities for Ukrainian scientists to participate in academic trips abroad, in 2024 we are launching launch the **#ScienceForUkraine Academic Micro Travel Grant Programme**. This program will provide up to 500 euros per grant, helping to cover travel, accommodation, and participation fees for scientists affiliated with Ukrainian universities. **Would you also like to support Ukrainian scholars in fostering their international collaboration? Contribute to our fundraising campaign [via PayPal](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN) or [bank transfer](https://scienceforukraine.eu/donate)!** Every contribution to this program is highly needed and appreciated!
 
+<br>
 
 # # Micro Travel Grants Call 2024 (MTG2024) 
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN"><img src="https://scienceforukraine.eu/media/MTGbanner.png" alt="MTG" width="450"/></a>
+<br>
 
 MTGs are intended to support eligible Ukrainian scientists in participating in international conferences, covering costs up to EUR 500. 
 
@@ -63,10 +64,11 @@ Furthermore, there are three additional rules:
 
 ### 3. From application to reimbursement
 
+
 #### Summary of steps:
 | Application Timeline | Schedule |
 |----------------------|----------|
-| Submission of MTG applications | At least 30 days before the activity and not later than 1 October 2024. |
+| Submission of MTG applications  | At least 30 days before the activity and not later than 1 October 2024. |
 | Validation and evaluation of applications | Will take place during the first 3 weeks of each month. Only applications received until the last day of the precedent month are evaluated each month. |
 | Communication of results to applicants | Applicants are informed by email about the results of their applications by the end of the month that follows the application. |
 | Awardees’ confirmation of the acceptance of MTGs | Awardees must confirm the acceptance of the MTG within 14 days. |
