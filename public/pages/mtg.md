@@ -69,7 +69,8 @@ Furthermore, there are three additional rules: <br>
 ### 3. From application to reimbursement
 
 
-#### Summary of steps:
+**➡️ Summary of steps:**
+
 | Application Timeline | Schedule |
 |----------------------|----------|
 | Submission of MTG applications  | At least 30 days before the activity and not later than 1 October 2024. |
@@ -78,7 +79,7 @@ Furthermore, there are three additional rules: <br>
 | Awardees’ confirmation of the acceptance of MTGs | Awardees must confirm the acceptance of the MTG within 14 days. |
 | Earmarking of funds and publication of results | Only upon reception of the awardee’s confirmation, the amount of the MTG is earmarked. The list of awardees and the events attended may be made public on the *Science for Ukraine* website and its annual reports. |
 
-#### How to apply:
+**➡️ How to apply:**
 
 To apply for receiving an MTG, interested applicants must: <br>
 ▪️ Fill up the online application form; <br>
@@ -89,7 +90,8 @@ To apply for receiving an MTG, interested applicants must: <br>
 (b) *Science for Ukraine* has communicated the results to applicants, and <br>
 (c) the awarded applicants have confirmed the acceptance of the MTGs. Likewise, *Science for Ukraine* will not reimburse members for any travel, accommodation, or fees costs incurred if the event/activity is not attended (whatever the reasons).
 
-#### Validation, selection, and confirmation of applications:
+**➡️ Validation, selection, and confirmation of applications:**
+
 We commit to validate and evaluate applications within 3 weeks.
 For each round of MTGs, *Science for Ukraine* will define the number of applications that can be awarded based on the budget available for MTGs.
 The validation and evaluation of applications comprise 3 steps, all taking place during the first 3 weeks of the month that follows the month when the application was submitted: <br>
@@ -101,13 +103,14 @@ Applicants will be then informed of the results of their applications.
 
 Applicants who were awarded with an MTG will have to **confirm within the following 14 days** that they accept the MTG and the amount awarded. If no confirmation is received by day 10, *Science for Ukraine* will send a reminder for an urgent confirmation. If the applicant still does not reply, the application will be cancelled, and the funds will be allocated to another applicant. The applicants will be contacted at the main email provided in the application form.
 
-#### Participation in events/activities – Acknowledgment requirement:
+**➡️ Participation in events/activities – Acknowledgment requirement:**
+
 Awardees of an MTG must acknowledge the support of *Science for Ukraine* in their communication activities related to the event (e.g., presentations, social media, etc.).
 
 For presentations, members must use the formula **“With the support of #*ScienceForUkraine*, through the Micro Travel Grants Call 2024.”**
 For social media, please use the **#ScienceForUkraine** hashtag and tag [@Sci_for_Ukraine](https://twitter.com/Sci_for_Ukraine) (Twitter/X).
 
-#### Reimbursement procedures and rules:
+**➡️ Reimbursement procedures and rules:**
 
 In order to be reimbursed for the expenses covered by the MTG, members must: <br>
 ▪️ Fill up the reimbursement form (link will be provided to awardees); <br>
@@ -117,7 +120,8 @@ Payments of expenses will be made by *Science for Ukraine* within 20 to 30 days 
 
 <br>
 
-**Eligible costs:**
+**➡️ Eligible costs:**
+
 | Category | Supporting documents to submit |
 |----------|--------------------------------|
 | Travel costs (when applicable) | Booking confirmation / Invoice (the price must be indicated) (not required when the travel date AND the price are indicated in the travel tickets) |
@@ -126,7 +130,8 @@ Payments of expenses will be made by *Science for Ukraine* within 20 to 30 days 
 
 <br>
 
-**Mandatory documents:**
+**➡️ Mandatory documents:**
+
 | Category                                            | Supporting documents to submit                                                                                                                                                                           |
 |----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Confirmation of affiliation with a Ukrainian institution (for the initial application) | An official confirmation of your current position at the Ukrainian university/institute (department, position, work experience, stamp, signature).                                                        |
@@ -149,7 +154,8 @@ The following reimbursement rules apply: <br>
 
 ▪️ Any **banking fees** charged for money transfers, or for currency exchanges, or for any other similar reason, shall be deducted from the sum to be paid to the fellow who receives the MTG. *Science for Ukraine* will not check the validity of bank details for countries outside of the EU; thus, any bank fees resulting from failed transactions will be charged to the member.
 
-#### What happens if applicants cannot use the MTG awarded?
+**➡️ What happens if applicants cannot use the MTG awarded?**
+
 *Science for Ukraine* has a limited budget for MTGs, which means that only part of the applicants can benefit from this financial support.
 When *Science for Ukraine* awards an MTG, the amount of the MTG is earmarked and is part of the accounting and of the planning of future cycles of MTGs.
 
