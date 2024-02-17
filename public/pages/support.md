@@ -286,6 +286,7 @@ ERA4Ukraine [https://www.euraxess.dk/ukraine](https://www.euraxess.dk/ukraine)
 
 **Funding programmes**
 
+*   17.02.2024 Fellowships for scholars at risk from Ukrainian universities (SARU fellowships). Deadline 03.03.2024. [Link.](https://www.scholarsatrisk.org/sections/sar-denmark/section-news/accepting-applications-fellowship-for-scholars-at-risk-from-ukrainian-universities-saru-fellowships/)
 *   27.08.2022  Fellowships for scholars at risk from Ukrainian universities (SARU fellowships). Deadline 30.09.2022. [https://www.scholarsatrisk.org/sections/sar-denmark/section-news/call-for-applications-fellowships-for-scholars-at-risk-from-ukrainian-universities-saru-fellowships/](https://www.scholarsatrisk.org/sections/sar-denmark/section-news/call-for-applications-fellowships-for-scholars-at-risk-from-ukrainian-universities-saru-fellowships/)
 *   09.08.2022 Novo Nordisk Foundation supports fellowship programmes for Ukrainian researchers  [https://novonordiskfonden.dk/en/news/novo-nordisk-foundation-supports-fellowship-programmes-for-ukrainian-researchers/](https://novonordiskfonden.dk/en/news/novo-nordisk-foundation-supports-fellowship-programmes-for-ukrainian-researchers/)
 *   Aarhus University research fellowships for researchers affected by the war in Ukraine  
@@ -383,6 +384,7 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 _[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
 An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
 
+* 17.02.2024  The Imre Kertész Kolleg fellowships in history. Deadline 31.03.2024. [Link.](https://www.imre-kertesz-kolleg.uni-jena.de/activities/detail/call-for-applications-fellowships-2024-2025)
 * 14.02.2024 BMBF measures to prepare joint applications. [Link](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2023/12/2023-12-05-F%C3%B6rderaufruf-Bridge2ERA-EaP.html). Deadlines 13.03.2024 and 25.09.2024.
 * 14.02.2024 BMBF Equality Plan Support [Initiative](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/02/2024-02-01-Foederaufruf-UI-Gleich.html ). deadline 24.04.2024. 
 * 25.11.2023 Deutsches Elektronen-Synchrotron DESY invites physics students to the [summer school](https://indico.desy.de/event/41934/)
