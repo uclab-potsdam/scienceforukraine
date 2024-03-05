@@ -386,7 +386,8 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 _[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
 An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
 
-* 17.02.2024  The Imre Kertész Kolleg fellowships in history. Deadline 31.03.2024. [Link.](https://www.imre-kertesz-kolleg.uni-jena.de/activities/detail/call-for-applications-fellowships-2024-2025)
+* 05.03.2024 Zeppelin University scholarship for Master students. Deadline 14.04.2024. [Link.](https://www.zeppelin-university.com/studying-lifelong-learning/study/scholarships-financing/scholarships-bachelor/scholarship-ukraine-citizenship.php)
+*  17.02.2024  The Imre Kertész Kolleg fellowships in history. Deadline 31.03.2024. [Link.](https://www.imre-kertesz-kolleg.uni-jena.de/activities/detail/call-for-applications-fellowships-2024-2025)
 * 14.02.2024 BMBF measures to prepare joint applications. [Link](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2023/12/2023-12-05-F%C3%B6rderaufruf-Bridge2ERA-EaP.html). Deadlines 13.03.2024 and 25.09.2024.
 * 14.02.2024 BMBF Equality Plan Support [Initiative](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/02/2024-02-01-Foederaufruf-UI-Gleich.html ). deadline 24.04.2024. 
 * 25.11.2023 Deutsches Elektronen-Synchrotron DESY invites physics students to the [summer school](https://indico.desy.de/event/41934/)
