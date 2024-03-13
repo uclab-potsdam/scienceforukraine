@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+* 13.03.2024 [International Multilateral Partnerships for Resilient Education and Science System in Ukraine (IMPRESS-U)](https://www.nationalacademies.org/our-work/international-multilateral-partnerships-for-resilient-education-and-science-system-in-ukraine-impress-u)
 * 29.02.2024 EURAXESS Internship Program for Refugee and Displaced Researchers in Europe. [Link.](https://internship.euraxess.bg/) Deadline 20.04.2024
 * 25.02.2024 The European Heritage Hub Small Grants Scheme. Deadline 31.03.2024. [Link.](https://www.europeanheritagehub.eu/call-for-applications-small-grants-scheme-for-heritage-related-projects-led-by-civil-society-in-eu-neighbouring-countries/)
 * 10.02.2024 The Baltic University Programme offers mobility grants for eligible universities (see the [list](https://www.balticuniv.uu.se/about-us/participating-universities/) for Ukrainian institutions). Deadline 30.04.2024. [Link.](https://www.balticuniv.uu.se/education/phd-training/bup-mobility-grant/)
