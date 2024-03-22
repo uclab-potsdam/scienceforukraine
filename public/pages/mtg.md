@@ -21,7 +21,7 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 <br>
 
-## Winners of the MTG2024 🎉
+## Awardees of MTG2024
 
 ▪️  **March 2024**: **Svitlana Gryn**, associate professor, Taras Shevchenko National University of Kyiv
 
