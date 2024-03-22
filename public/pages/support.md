@@ -258,6 +258,7 @@ ERA4Ukraine [https://www.euraxess.ba/ukraine](https://www.euraxess.ba/ukraine)
 
 ERA4Ukraine[https://www.euraxess.bg/ukraine](https://www.euraxess.bg/ukraine)
 
+* 22.03.2024 "Sustaining Ukrainian Scholarship” (SUS) fellowship programme for the Academic year 2024/2025. [Link](https://cas.bg/en/2024-2025-call-for-applications-sustaining-ukrainian-scholarship/)
 * 13.05.2023 Fellowship programm in Sofia and Bucharest, deadline 15.06.2023. [https://cas.bg/en/sustaining-ukrainian-scholarship-invitation-to-apply/](https://cas.bg/en/sustaining-ukrainian-scholarship-invitation-to-apply/)
 
   
