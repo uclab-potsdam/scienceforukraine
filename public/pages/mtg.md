@@ -15,7 +15,17 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 <br>
 
+
  **➡️  [Application Form for #ScienceForUkraine Micro Travel Grants 2024](https://docs.google.com/forms/d/e/1FAIpQLSeoPsFO4nT1l07PLet79qcShU5de2mt8gF5oFPEYj8KMJfKsQ/viewform)**
+
+
+<br>
+
+## Winners of the MTG2024 🎉
+
+▪️  **March 2024**: **Svitlana Gryn**, associate professor, Taras Shevchenko National University of Kyiv
+
+▪️  **April 2024**: to be announced by the end of April
 
 <br>
 
