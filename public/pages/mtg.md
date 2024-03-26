@@ -24,7 +24,7 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 In collaboration with the [Department of Biomedical Informatics of the University of Colorado School of Medicine](https://medschool.cuanschutz.edu/dbmi), we are offering a special MTG for a scholar associated with Ukrainian universities and planning to present at the 37th European Immunogenetics & Histocompatibility Conference in Geneva, May 20–23. 
 
-▪️  **Deadline for applications:** April 16, 2024
+▪️  **Deadline for applications:** April 8, 2024
 
 ▪️  When applying, please include in your email information that you are applying for the Special MTG to attend EFI 2024. 
 
