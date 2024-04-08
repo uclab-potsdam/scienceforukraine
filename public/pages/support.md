@@ -304,6 +304,7 @@ ERA4Ukraine [https://www.euraxess.ee/ukraine](https://www.euraxess.ee/ukraine)
 
 **Funding programmes**
 
+*   08.04.2024 The Estonian University of Life Sciences invites students from Ukraine to study English-taught study programmes. [Link.](https://www.emu.ee/en/about-the-university/news/uudis/2024/04/04/the-estonian-university-of-life-sciences-offers-scholarships-to-people-with-ukrainian-citizenship-) Deadline 10.04.2024.
 *   30.07.2023 Estonian Entrepreneurship University of Applied Sciences offers tuition and accommodation waivers [https://euas.eu/all_news/news/?id=3108](https://euas.eu/all_news/news/?id=3108)
 *   Support programme for Ukrainian researchers by the Estonian Research Council  
     [https://www.etag.ee/en/funding/support-for-ukrainian-researchers](https://www.etag.ee/en/funding/support-for-ukrainian-researchers)
