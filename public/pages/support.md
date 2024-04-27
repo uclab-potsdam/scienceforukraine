@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+* 27.04.2024 [Additional funding for MSCA4Ukraine fellowships.](https://sareurope.eu/msca4ukraine/) 
 * 13.03.2024 [International Multilateral Partnerships for Resilient Education and Science System in Ukraine (IMPRESS-U)](https://www.nationalacademies.org/our-work/international-multilateral-partnerships-for-resilient-education-and-science-system-in-ukraine-impress-u)
 * 29.02.2024 EURAXESS Internship Program for Refugee and Displaced Researchers in Europe. [Link.](https://internship.euraxess.bg/) Deadline 20.04.2024
 * 25.02.2024 The European Heritage Hub Small Grants Scheme. Deadline 31.03.2024. [Link.](https://www.europeanheritagehub.eu/call-for-applications-small-grants-scheme-for-heritage-related-projects-led-by-civil-society-in-eu-neighbouring-countries/)
@@ -489,6 +490,7 @@ ERA4Ukraine [https://www.euraxess.ie/ukraine](https://www.euraxess.ie/ukraine)
 
 **Funding programmes**
 
+*   27.04.2024 Funded PhD Sanctuary Studentship at University College Cork. [Link.](https://www.ucc.ie/en/migmobs/newsandevents/funded-phd-sanctuary-studentship-at-ucc.html) Deadline 27.05.2024.
 *   30.07.2023 University of Galway offers 24 [Universities of Sanctuary Scholarships](https://universityofgalway.ie/about-us/news-and-events/news-archive/2023/july/university-of-galway-offers-24-universities-of-sanctuary-scholarships-1.html)
 *   11.07.2023. A new round of the Irish Research Council Scheme for Ukrainian Researchers [https://research.ie/funding/ukrainian-researchers-scheme/](https://research.ie/funding/ukrainian-researchers-scheme/)
 *   SFI Supplemental Grant for Displaced Researchers from Ukraine  
