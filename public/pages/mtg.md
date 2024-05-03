@@ -39,9 +39,11 @@ In collaboration with the [Department of Biomedical Informatics of the Universit
 
 ## Awardees of MTG2024
 
-▪️  **March 2024**: **Svitlana Gryn**, associate professor, Taras Shevchenko National University of Kyiv
+▪️  **March 2024**: **Svitlana Gryn**, Taras Shevchenko National University of Kyiv
 
-▪️  **April 2024**: to be announced by the end of April
+▪️  **April 2024**: **Iuliia Gernego**, Kyiv National Economics University
+
+▪️  **May 2024**: to be announced by the end of May
 
 <br>
 
