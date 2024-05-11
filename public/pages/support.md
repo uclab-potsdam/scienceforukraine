@@ -941,6 +941,7 @@ ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/uk
 
 ### U.S.
 
+* 11.05.2024 Competition: undergraduates of U.S. universities are encouraged to submit an academic essay on any topic related to Ukraine. Deadline 31.05.2024. [Link.](https://www.ukraineoncampus.org/essay)
 * 23.01.2024 HURI Research Fellowship in Ukrainian Studies. Deadline 01.02.2024. [Link.]([https://huri.harvard.edu/news/now-accepting-applications-huris-research-fellowships-2023-2024](https://huri.harvard.edu/HURI-research-fellowships)
 * 11.01.2024 Linda Hall Library provides [scholarships for Ukrainian Researchers](https://www.lindahall.org/research/linda-hall-library-fellowships/). Deadline 19.01.2024.
 * 22.12.2023 Help Ukraine Group is organizing observerships for radiation oncologists and medical physicists in USA. [Link.](https://www.linkedin.com/posts/nataliya-kovalchuk-6750b810_helpukrainegroup-activity-7143638850207137792-57qf/?utm_source=share&utm_medium=member_ios) Deadline 31.12.2023
