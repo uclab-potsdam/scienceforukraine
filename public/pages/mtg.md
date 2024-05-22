@@ -20,21 +20,6 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 <br>
 
-## ‼️ Special Micro Travel Grant to attend EFI 2024 conference in Geneva! 
-
-In collaboration with the [Department of Biomedical Informatics of the University of Colorado School of Medicine](https://medschool.cuanschutz.edu/dbmi), we are offering a special MTG for a scholar associated with Ukrainian universities and planning to present at the 37th European Immunogenetics & Histocompatibility Conference in Geneva, May 20–23. 
-
-▪️  **Deadline for applications:** April 8, 2024
-
-▪️  When applying, please include in your email information that you are applying for the Special MTG to attend EFI 2024. 
-
-▪️  **Results** to be announced by the end of April, 2024
-
-▪️ The special MTG will not influence standard MTG applications for other events.
-
-▪️ Should you have any questions, please contact us via info@scienceforukraine.eu.
-
-
 <br>
 
 ## Awardees of MTG2024
