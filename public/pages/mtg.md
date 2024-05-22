@@ -76,7 +76,7 @@ To be entitled to apply and get an MTG, applicants must:<br>
 ▪️ Be the first author of a research work that has been invited for presentation at an international conference, symposium, or workshop in the form of an oral presentation or a poster; <br>
 ▪️ Use the MTGs for their own benefit and not for someone else’s (e.g., teammates, students, etc.); <br>
 ▪️ Apply for activities having a clear relevance for the career development of applicants; <br>
-▪️ Apply for activities taking place at least 30 days after the date of application and not later than October 1, 2024; <br>
+▪️ Apply for activities taking place at least 30 days after the deadline of application and not later than October 1, 2024; <br>
 ▪️ Have a bank account in a country that is not affected by restrictive measures imposed by the [European Union affecting the transfer of money](https://www.sanctionsmap.eu/#/main); <br>
 ▪️ Be able to initially cover the intended event's costs from personal resources and then submit these costs for reimbursement. <br>
 
