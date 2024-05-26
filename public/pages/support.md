@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+* 26.05.2024 Links to mobility programs on NaUKMA page. [Link.](https://dfc.ukma.edu.ua/going-from-naukma/mobility-programs/students-bachelor-master/actual-programs?)
 * 27.04.2024 [Additional funding for MSCA4Ukraine fellowships.](https://sareurope.eu/msca4ukraine/) 
 * 13.03.2024 [International Multilateral Partnerships for Resilient Education and Science System in Ukraine (IMPRESS-U)](https://www.nationalacademies.org/our-work/international-multilateral-partnerships-for-resilient-education-and-science-system-in-ukraine-impress-u)
 * 29.02.2024 EURAXESS Internship Program for Refugee and Displaced Researchers in Europe. [Link.](https://internship.euraxess.bg/) Deadline 20.04.2024
