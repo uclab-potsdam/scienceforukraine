@@ -914,6 +914,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
     Call for Proposals aimed to enable research institutions in São Paulo to host scientists at risk.
 ### Canada
 
+* 17.07.2024 The Sheptytsky Institute of Eastern Christian Studies is funding three non-resident Ukrainian Fellows working on research topics in Eastern Christian history, liturgy, spirituality or theology. Deadline 08.07.2024. [Link.](https://www.rsmtheology.utoronto.ca/non-resident-fellowship-2024-25/)
 * 15.05.2024  Petro Jacyk Non-Residential  [Scholars Program](https://munkschool.utoronto.ca/petro-jacyk/non-residential-scholarships). Deadline 10.06.2024. 
 * 02.01.2024  The University of Alberta’s DUSS (Disrupted Ukrainian Scholars and Students) Initiative is launching a new phase of its [virtual support program](https://cius-awards.artsrn.ualberta.ca/). Deadline 10.01.2024.
 *  10.12.2023 The Petro Jacyk Program (University of Toronto) is accepting applications for [Post-Doctoral Fellowship](https://munkschool.utoronto.ca/petro-jacyk/petro-jacyk-post-doctoral-fellowship-ukrainian-politics-culture-and-society) in Ukrainian Politics, Culture, and Society for the 2024-2025 academic year.
