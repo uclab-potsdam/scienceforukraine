@@ -28,7 +28,12 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 ▪️  **April 2024**: **Iuliia Gernego**, Kyiv National Economics University
 
-▪️  **May 2024**: to be announced by the end of May
+▪️  **May 2024**: **Pavlo Yeremieiev**, V. N. Karazin Kharkiv National University
+
+▪️  **June 2024**: **Mariia Lobanova**, Odessa Archaeological Museum of the National Academy of Sciences of Ukraine
+
+▪️  **July 2024**: to be announced by the end of July
+
 
 <br>
 
