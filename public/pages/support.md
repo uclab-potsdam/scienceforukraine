@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+* 04.07.2024 From August 20 to 22, 2024, DCN Global will inaugurate its new hub for Ukrainian refugees. [Link](https://dcnglobal.net/forums/forum/digital-ukraine-influence-redefined)
 * 26.05.2024 Links to mobility programs on NaUKMA page. [Link.](https://dfc.ukma.edu.ua/going-from-naukma/mobility-programs/students-bachelor-master/actual-programs?)
 * 27.04.2024 [Additional funding for MSCA4Ukraine fellowships.](https://sareurope.eu/msca4ukraine/) 
 * 13.03.2024 [International Multilateral Partnerships for Resilient Education and Science System in Ukraine (IMPRESS-U)](https://www.nationalacademies.org/our-work/international-multilateral-partnerships-for-resilient-education-and-science-system-in-ukraine-impress-u)
@@ -842,6 +843,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 **Funding programmes**
 
+* 04.07.2024 UK-Ukraine mentoring scheme. [Link.](https://www.linkedin.com/posts/igor-potapov-a1602919_ukraine-uk-uuki-activity-7213912751314714624-1k20/)
 * 29.01.2024 The Cambridge Open Equity Initiative is designed to support  open access publications. [Link.](https://www.cambridge.org/core/open-research/open-access/cambridge-open-equity-initiative)
 *  25.11.2023  The Oxford University Graduate [Scholarships for Ukraine](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/graduate-scholarship-scheme-for-ukraine) Programme (2024-25) is proudly supported by XTX Markets.
 *  30.07.2023 British Academy/ Cara/ Leverhulme Researchers at Risk Research [Support Grants](https://www.thebritishacademy.ac.uk/funding/british-academy-cara-leverhulme-researchers-at-risk-research-support-grants/). Deadline 23.09.2023. 
