@@ -28,7 +28,6 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
-* 24.07.2024 XTX Markets continues to provide support via the Ukrainian Global Excellence Fund. [Link.](https://www.datocms-assets.com/10954/1720518064-ukrainian-global-excellence-fund-fund-statement.pdf)
 * 04.07.2024 From August 20 to 22, 2024, DCN Global will inaugurate its new hub for Ukrainian refugees. [Link.](https://dcnglobal.net/forums/forum/digital-ukraine-influence-redefined)
 * 26.05.2024 Links to mobility programs on NaUKMA page. [Link.](https://dfc.ukma.edu.ua/going-from-naukma/mobility-programs/students-bachelor-master/actual-programs?)
 * 27.04.2024 [Additional funding for MSCA4Ukraine fellowships.](https://sareurope.eu/msca4ukraine/) 
@@ -201,6 +200,7 @@ ERA4Ukraine [https://www.euraxess.at/ukraine](https://www.euraxess.at/ukraine)
 
 **Funding programmes**
 
+* 24.07.2024 The Institute for Human Sciences (IWM) announces Documenting Ukraine grants (one-time 5000 euro). Deadline 19.08.2024. [Link.](https://www.iwm.at/documenting-ukraine/apply)
 * 21.12.2023 The Institute for Human Sciences (IWM) announces [Junior Visiting Fellowship](https://www.iwm.at/program/ukraine-in-european-dialogue-junior-fellowship). Deadline 28.01.2024.
 *  02.09.2023 The Institute for Human Sciences (IWM) announces Documenting Ukraine grants (one-time 5000 euro). Deadline 29.09.2023. [https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants](https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants)
 *  21.06.2023  Fellowships for Scholars from Ukraine – the "Ukraine and the Transformation of Eastern Europe Fellowship Program" at the Research Center for the History of Transformations (RECET). Deadline 01.07.2023. [Link.](https://www.recet.at/event-news/news/detail/fellowships-for-scholars-from-ukraine)
@@ -844,7 +844,8 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
 **Funding programmes**
 
-* 04.07.2024 UK-Ukraine mentoring scheme. [Link.](https://www.linkedin.com/posts/igor-potapov-a1602919_ukraine-uk-uuki-activity-7213912751314714624-1k20/)
+* 24.07.2024 XTX Markets continues to provide support via the Ukrainian Global Excellence Fund. [Link.](https://www.datocms-assets.com/10954/1720518064-ukrainian-global-excellence-fund-fund-statement.pdf)
+ *  04.07.2024 UK-Ukraine mentoring scheme. [Link.](https://www.linkedin.com/posts/igor-potapov-a1602919_ukraine-uk-uuki-activity-7213912751314714624-1k20/)
 * 29.01.2024 The Cambridge Open Equity Initiative is designed to support  open access publications. [Link.](https://www.cambridge.org/core/open-research/open-access/cambridge-open-equity-initiative)
 *  25.11.2023  The Oxford University Graduate [Scholarships for Ukraine](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/graduate-scholarship-scheme-for-ukraine) Programme (2024-25) is proudly supported by XTX Markets.
 *  30.07.2023 British Academy/ Cara/ Leverhulme Researchers at Risk Research [Support Grants](https://www.thebritishacademy.ac.uk/funding/british-academy-cara-leverhulme-researchers-at-risk-research-support-grants/). Deadline 23.09.2023. 
