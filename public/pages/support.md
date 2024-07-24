@@ -28,7 +28,8 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
-* 04.07.2024 From August 20 to 22, 2024, DCN Global will inaugurate its new hub for Ukrainian refugees. [Link](https://dcnglobal.net/forums/forum/digital-ukraine-influence-redefined)
+* 24.07.2024 XTX Markets continues to provide support via the Ukrainian Global Excellence Fund. [Link.](https://www.datocms-assets.com/10954/1720518064-ukrainian-global-excellence-fund-fund-statement.pdf)
+* 04.07.2024 From August 20 to 22, 2024, DCN Global will inaugurate its new hub for Ukrainian refugees. [Link.](https://dcnglobal.net/forums/forum/digital-ukraine-influence-redefined)
 * 26.05.2024 Links to mobility programs on NaUKMA page. [Link.](https://dfc.ukma.edu.ua/going-from-naukma/mobility-programs/students-bachelor-master/actual-programs?)
 * 27.04.2024 [Additional funding for MSCA4Ukraine fellowships.](https://sareurope.eu/msca4ukraine/) 
 * 13.03.2024 [International Multilateral Partnerships for Resilient Education and Science System in Ukraine (IMPRESS-U)](https://www.nationalacademies.org/our-work/international-multilateral-partnerships-for-resilient-education-and-science-system-in-ukraine-impress-u)
