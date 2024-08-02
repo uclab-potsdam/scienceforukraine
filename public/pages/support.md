@@ -393,6 +393,7 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 _[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
 An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
 
+* 02.08.2024 Fellowships by Competence Network Interdisciplinary Ukrainian Studies Frankfurt (Oder) - Berlin (research fellowship, visiting professor, sur-place). Deadline 11.08.2024. [Link.](https://www.kiu.europa-uni.de/en/fellowships/index.html)
 * 11.06.2024 HessenFonds for Refugees and Researchers at Risk.[Link.](https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees)
 * 05.03.2024 Zeppelin University scholarship for Master students. Deadline 14.04.2024. [Link.](https://www.zeppelin-university.com/studying-lifelong-learning/study/scholarships-financing/scholarships-bachelor/scholarship-ukraine-citizenship.php)
 *  17.02.2024  The Imre Kertész Kolleg fellowships in history. Deadline 31.03.2024. [Link.](https://www.imre-kertesz-kolleg.uni-jena.de/activities/detail/call-for-applications-fellowships-2024-2025)
