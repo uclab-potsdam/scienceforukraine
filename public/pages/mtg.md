@@ -34,8 +34,9 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 ▪️  **July 2024**: **Mariia Voitovych**, I. Krypiakevych Institute of Ukrainian Studies of the National Academy of Sciences of Ukraine
 
-▪️  **August 2024**: to be announced by the end of August
+▪️  **August 2024**: **Anastasiia Udovenko**, Palladin Institute of Biochemistry of the National Academy of Sciences of Ukraine
 
+▪️  **September 2024**: to be announced soon
 
 <br>
 
