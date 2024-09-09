@@ -1,15 +1,12 @@
 # Donate
 
-#ScienceForUkraine warmly welcomes donations made through PayPal or bank transfers to the association's bank account. Every contribution is highly appreciated and will greatly support the organization's sustainability as well as the realization of its goals.
+#ScienceForUkraine warmly welcomes donations made through bank transfers to the association's bank account. Every contribution is highly appreciated and will greatly support the organization's sustainability as well as the realization of its goals.
 
 **In 2024, our objective is to establish a **[#ScienceForUkraine Micro Travel Grant Programme](https://scienceforukraine.eu/mtg)** for scholars affiliated with Ukrainian academic institutions**. The program will support academic trips, covering accommodation and travel expenses associated with active (presenting poster/oral presentation) participation in international conferences and other scientific events.
 
 By supporting this initiative you are helping us support and sustain Ukrainian academic society.
 
-**Donations** can be performed through [PayPal](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN) and regular bank transfer using account details listed below.
-
-
-[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=R3Z8LVVAU9WPN)
+**Donations** can be performed through regular bank transfer using account details listed below.
 
 
 ### Details for the bank transfer
