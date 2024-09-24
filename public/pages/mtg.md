@@ -73,9 +73,10 @@ To be entitled to apply and get an MTG, applicants must:<br>
 ▪️ Have a bank account in a country that is not affected by restrictive measures imposed by the [European Union affecting the transfer of money](https://www.sanctionsmap.eu/#/main); <br>
 ▪️ Be able to initially cover the intended event's costs from personal resources and then submit these costs for reimbursement. <br>
 
-Furthermore, there are three additional rules: <br>
+Furthermore, there are four additional rules: <br>
 
-▪️ Current MSCA or MSCA4Ukraine fellows having an MSCA with a specific budget line for events and meetings are only eligible in exceptional cases, for which **a reasonable justification needs to be provided**. <br>
+▪️ **People holding paid academic positions outside of Ukraine are not eligible**.<br>
+Current MSCA or MSCA4Ukraine fellows having an MSCA with a specific budget line for events and meetings are only eligible in exceptional cases, for which **a reasonable justification needs to be provided**. <br>
 ▪️ A person can only be awarded one MTG within a period of twelve months, counting from the date of submission of the first application for a subsequently approved MTG. <br>
 ▪️ **Grants cannot be attributed retrospectively**, and therefore applicants cannot apply for an MTG to attend an event that already took place. <br>
 
