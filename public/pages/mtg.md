@@ -78,7 +78,7 @@ To be entitled to apply and get an MTG, applicants must:<br>
 Furthermore, there are four additional rules: <br>
 
 ▪️ **People holding paid academic positions outside of Ukraine are not eligible**.<br>
-Current MSCA or MSCA4Ukraine fellows having an MSCA with a specific budget line for events and meetings are only eligible in exceptional cases, for which **a reasonable justification needs to be provided**. <br>
+▪️ Current MSCA or MSCA4Ukraine fellows having an MSCA with a specific budget line for events and meetings are only eligible in exceptional cases, for which **a reasonable justification needs to be provided**. <br>
 ▪️ A person can only be awarded one MTG within a period of twelve months, counting from the date of submission of the first application for a subsequently approved MTG. <br>
 ▪️ **Grants cannot be attributed retrospectively**, and therefore applicants cannot apply for an MTG to attend an event that already took place. <br>
 
