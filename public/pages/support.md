@@ -897,6 +897,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
  ### Ukraine
  
+ *  25.09.2024 Science2Business. Transform scientific ideas into innovative business. [Link.](https://innovate.com.ua/en/science2business/)
  *  14.08.2024 Invisible University of Ukraine has open calls for certificate program and graduate school program. Deadline 12.09.2024. [Link.](https://visibleukraine.org/programs/open-calls/)
  *  24.07.2024 Programming Historian, a resource for digital history in Ukrainian. Collaboration of the Center for Urban History in Lviv and Ukrainian Catholic University, and funding from the University of St.Gallen.  [Link.](https://digihist.lvivcenter.org/posibnik-z-cifrovoyi-istoriyi)
  *  18.01.2023  STEM with Ukraine Group launches online “Introduction to Quantum Computing” Course. Sign via the [form](https://docs.google.com/forms/d/e/1FAIpQLSfxNtFGcKZudB-nzrS7djV5oV7bTyAmtXMm_N34VVZs5aqalA/viewform). 
