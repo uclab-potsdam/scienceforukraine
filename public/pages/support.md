@@ -924,6 +924,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
     Call for Proposals aimed to enable research institutions in São Paulo to host scientists at risk.
 ### Canada
 
+* 04.10.2024 The University of Waterloo invites applications for its fourth [Summer Internship Program](https://uwaterloo.ca/engineering/summer-program-students-ukraine) for students at risk from Ukraine.
 * 11.08.2024 Bohdan Medwidsky Ukrainian Folklore Archives (BMUFA) at the Kule Folklore Centre, University of Alberta, announces [Archives Residency Project.](https://www.ualberta.ca/en/kule-folklore-centre/research/callforsubmissions/index.html) Deadline 01.09.2024.
 * 17.07.2024 The Sheptytsky Institute of Eastern Christian Studies is funding three non-resident Ukrainian Fellows working on research topics in Eastern Christian history, liturgy, spirituality or theology. Deadline 08.07.2024. [Link.](https://www.rsmtheology.utoronto.ca/non-resident-fellowship-2024-25/)
 * 15.05.2024  Petro Jacyk Non-Residential  [Scholars Program](https://munkschool.utoronto.ca/petro-jacyk/non-residential-scholarships). Deadline 10.06.2024. 
