@@ -44,7 +44,7 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 ## Rules and Procedures
 
-➡️  [Read in PDF](https://drive.google.com/file/d/1FlebkocG9Jr88c-C2smtAYvdKPaxY-7Q/view?usp=sharing)
+➡️  [Read in PDF](https://drive.google.com/file/d/1BIQqY93peKMc5Plo_Sp8rZFkJZEmjCOb/view?usp=sharing)
 
 
 ### Content:
