@@ -44,7 +44,7 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 ## Rules and Procedures
 
-➡️  [Read in PDF](https://drive.google.com/file/d/12k_74lWot2LpRfApPBf0PB8Kg3Y7jZbl/view?usp=sharing)
+➡️  [Read in PDF](https://drive.google.com/file/d/1q2dogSEIGB82J9cEdCAzO81n9vRFqAxp/view?usp=sharing)
 
 
 ### Content:
@@ -71,7 +71,7 @@ To be entitled to apply and get an MTG, applicants must:<br>
 ▪️ Be the first author of a research work that has been invited for presentation at an international conference, symposium, or workshop in the form of an oral presentation or a poster; <br>
 ▪️ Use the MTGs for their own benefit and not for someone else’s (e.g., teammates, students, etc.); <br>
 ▪️ Apply for activities having a clear relevance for the career development of applicants; <br>
-▪️ Apply for activities taking place at least 30 days after the deadline of application; <br>
+▪️ Apply for activities taking place at least 30 days between the planned activity and the submission deadline of the MTG call; <br>
 ▪️ Have a bank account in a country that is not affected by restrictive measures imposed by the [European Union affecting the transfer of money](https://www.sanctionsmap.eu/#/main); <br>
 ▪️ Be able to initially cover the intended event's costs from personal resources and then submit these costs for reimbursement. <br>
 
@@ -98,7 +98,7 @@ Furthermore, there are four additional rules: <br>
 
 | Application Timeline | Schedule |
 |----------------------|----------|
-| Submission of MTG applications  | At least 30 days before the activity. |
+| Submission of MTG applications  | At least 30 days between the planned activity and the submission deadline of the MTG call. |
 | Validation and evaluation of applications | Will take place during the first 3 weeks of each month. Only applications received until the last day of the precedent month are evaluated each month. |
 | Communication of results to applicants | Applicants are informed by email about the results of their applications by the end of the month that follows the application. |
 | Awardees’ confirmation of the acceptance of MTGs | Awardees must confirm the acceptance of the MTG within 14 days. |
