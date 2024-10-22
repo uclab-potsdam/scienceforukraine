@@ -44,7 +44,7 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 ## Rules and Procedures
 
-➡️  [Read in PDF](https://drive.google.com/file/d/1q2dogSEIGB82J9cEdCAzO81n9vRFqAxp/view?usp=sharing)
+➡️  [Read in PDF](https://drive.google.com/file/d/1e7jgxpGm1xCqNS8u1N1kiHfEuTI_u0DK/view?usp=sharing)
 
 
 ### Content:
@@ -108,7 +108,7 @@ Furthermore, there are four additional rules: <br>
 
 To apply for receiving an MTG, interested applicants must: <br>
 ▪️ Fill up the online application form; <br>
-▪️ Submit the application at least **30 days ahead of the start** of the event.
+▪️ Submit the application applying **for activities taking place at least 30 days between the planned activity and the submission deadline of the MTG call**.
 
 **Important note**: The application per se does not give applicants the right to receive any or part of the funds requested. Applicants who depend on the financial support of the MTG to attend an event/activity are strongly advised not to make any expenditures related to that event/activity before being informed of the results of their applications. *Science for Ukraine* is not responsible for (and hence will not reimburse for) any expenses incurred by applicants before the joint concurrence of the following: <br>
 (a) the evaluation process has been finalized, <br>
