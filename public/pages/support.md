@@ -661,6 +661,7 @@ ERA4Ukraine [https://www.euraxess.pl/ukraine](https://www.euraxess.pl/ukraine)
 
 **Funding programmes and academic support**
 
+
 *  03.08.2023 International Multilateral Partnerships for Resilient Education and Science System in Ukraine (IMPRESS-U). [Link.](https://www.ncn.gov.pl/en/ogloszenia/konkursy/impress-u)
 *  02.08.2023 Centrum Mieroszewskiego offers stipends to study Polish-Ukrainian-EU relationships. Deadline 20.08.2023. [Link.](https://mieroszewski.pl/stypendia/naukowe/badaj-na-ukrainie/2023/zglos-sie)
 *  17.03.2023 Warsaw University offers mentoring/coaching support for non-academic Ukrainian refugees, [https://ua.wne.uw.edu.pl/uk/pro-diyalnist/](https://ua.wne.uw.edu.pl/uk/pro-diyalnist/)
@@ -899,6 +900,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
 
  ### Ukraine
  
+ * 02.11.2024 Call for application for up to fifteen VUIAS Fellowships in Ukraine for the academic year 2025/2026. Deadline 30.11.2024. [Link.](https://vuias.org/call/)
  *  25.09.2024 Science2Business. Transform scientific ideas into innovative business. [Link.](https://innovate.com.ua/en/science2business/)
  *  14.08.2024 Invisible University of Ukraine has open calls for certificate program and graduate school program. Deadline 12.09.2024. [Link.](https://visibleukraine.org/programs/open-calls/)
  *  24.07.2024 Programming Historian, a resource for digital history in Ukrainian. Collaboration of the Center for Urban History in Lviv and Ukrainian Catholic University, and funding from the University of St.Gallen.  [Link.](https://digihist.lvivcenter.org/posibnik-z-cifrovoyi-istoriyi)
