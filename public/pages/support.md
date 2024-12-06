@@ -392,9 +392,8 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 
 **Funding programmes**
 
-_[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
-An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
-
+* 06.12.2024 Alexander von Humboldt Foundation. Renewal of Philipp Schwartz Initiative  
+  [https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative)
 * 28.11.2024 DAAD call on building German-Ukrainian educational network. Deadline 17.02.2025. [Link.](https://www.daad.de/de/infos-services-fuer-hochschulen/programme-der-projektfoerderung/detail/duhn/?pfp-id=57777388)
 * 02.11.2024 BMBF call on joint proposals with Ukrainian partners. Deadline 31.01.2025. [Link](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2024/10/2024-10-15-foerderaufruf-wiederaufbau.html)
 * 22.09.2024 Expert call for knowledge transfer from Diaspora 2030. [Link.](https://diaspora2030.de/en/call-for-proposals-diaspora-experts/)
@@ -463,13 +462,15 @@ An extensive list of support programmes updated by Karin Reichenbach (GWZO) and 
 *   Help for women from Ukraine - emergency loans for study projects and other qualification projects  
     [https://www.hildegardis-verein.de/ukraine-soforthilfe.html](https://www.hildegardis-verein.de/ukraine-soforthilfe.html)
 *   Remote scholarships from the Hanse-Wissenschaftskolleg - Institute for Advanced Study (HWK) [https://hanse-ias.de/fileadmin/user_upload/downloads/bewerbung/Call_Ukraine_4_2022.pdf](https://hanse-ias.de/fileadmin/user_upload/downloads/bewerbung/Call_Ukraine_4_2022.pdf)
-*   As part of the HessenFonds, the Hessian Ministry of Higher Education, Research, Science and the Arts provides scholarships for exceptionally talented and high achieving university students and researchers with refugee status at state universities in Hessen [https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees](https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees)
+*   As part of the HessenFonds, the Hessian Ministry of Higher Education, Research, Science and the Arts provides scholarships for exceptionally talented and high-achieving university students and researchers with refugee status at state universities in Hessen [https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees](https://wissenschaft.hessen.de/studieren/internationales/studium-incoming/hessenfonds-fuer-fluechtlinge/hessenfonds-for-refugees)
     
 
 **Support organizations**
 
 *  German-Ukrainian academic society [https://ukrainet.eu](https://ukrainet.eu)
 *  DAAD German Academic Exchange Service [https://www.daad-ukraine.org/en/](https://www.daad-ukraine.org/en/)
+*  _[Help and funding opportunities in and from academia](https://bit.ly/3tvL2po), especially in Germany.  
+An extensive list of support programmes updated by Karin Reichenbach (GWZO) and Bernhard Kleeberg (UE)_
 
 **Non-academic support**
 *   Federal government's central support portal for refugees from Ukraine [https://www.germany4ukraine.de/hilfeportal-en](https://www.germany4ukraine.de/hilfeportal-en)
