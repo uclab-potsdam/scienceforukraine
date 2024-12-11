@@ -40,7 +40,10 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 ▪️  **October 2024**: –
 
-▪️  **November 2024**: to be announced soon
+▪️  **November 2024**: **Nataliia Letunovska**, Sumy State University
+
+▪️  **December 2024**: to be announced soon
+
 
 <br>
 
