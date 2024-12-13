@@ -392,6 +392,7 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 
 **Funding programmes**
 
+* 12.12.2024 PhD program by Competence Network Interdisciplinary Ukrainian Studies, Frankfurt (Oder). [Link.](https://www.kiu.europa-uni.de/en/programs/kiuphdprogram/index.html)
 * 06.12.2024 University of Regensburg offers multiple scholarships. Deadline 31.12.2024. [Link.](https://www.uni-regensburg.de/denkraum-ukraine/stipendien/index.html)
 * 06.12.2024 Alexander von Humboldt Foundation. Renewal of Philipp Schwartz Initiative  
   [https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative)
