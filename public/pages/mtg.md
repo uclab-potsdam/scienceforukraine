@@ -7,7 +7,7 @@ To enhance the opportunities for Ukrainian scientists to participate in academic
 <br>
 
 
-# Micro Travel Grant Call 2024 (MTG2024) 
+# Micro Travel Grant Call (MTG) 
 
 <br>
 
@@ -16,7 +16,7 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 <br>
 
 
- **➡️  [Application Form for #ScienceForUkraine Micro Travel Grants 2024](https://docs.google.com/forms/d/e/1FAIpQLSeoPsFO4nT1l07PLet79qcShU5de2mt8gF5oFPEYj8KMJfKsQ/viewform)**
+ **➡️  [Application Form for #ScienceForUkraine Micro Travel Grants](https://docs.google.com/forms/d/e/1FAIpQLSeoPsFO4nT1l07PLet79qcShU5de2mt8gF5oFPEYj8KMJfKsQ/viewform)**
 
 <br>
 
