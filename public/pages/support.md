@@ -965,6 +965,7 @@ ERA4Ukraine [https://www.euraxess.org.tr/ukraine](https://www.euraxess.org.tr/uk
 
 ### U.S.
 
+* 12.01.2025 BridgeUSA Ukraine Program for Resilience and Reconstruction (UPRR). Deadline 12.01.2025. [Link.](https://ais.americancouncils.org/cgi-bin/WebObjects/AIR.woa/wa/login?brand=BridgeUSAUAFP)
 * 26.08.2024 Harvard T.H. Chan School of Public Health offers a "Leadership for Sustainable Reconstruction of Ukraine" course. Deadline 18.08.2024. [Link.](https://www.hsph.harvard.edu/c-change/sustainable-leadership-for-ukraine-reconstruction/)
 * 14.06.2024 The Global MIT At-Risk Fellowship (GMAF) for one-semester stay. Deadline 01.08.2024. [Link.](https://ukraine.mit.edu/science/gmaf)
 * 11.05.2024 Competition: undergraduates of U.S. universities are encouraged to submit an academic essay on any topic related to Ukraine. Deadline 31.05.2024. [Link.](https://www.ukraineoncampus.org/essay)
