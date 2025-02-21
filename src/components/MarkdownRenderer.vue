@@ -11,7 +11,7 @@ export default {
   computed: {
     html () {
       const md = this.md || ''
-      return DOMPurify.sanitize(marked.parse(md))
+      return marked.parse(md)
     }
   }
 }
