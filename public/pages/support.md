@@ -394,6 +394,7 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 
 **Funding programmes**
 
+* 03.03.2025 Nonresidential fellowships at the European University Viadrina. Deadline 31.03.2025. [Link.](https://www.kiu.europa-uni.de/en/fellowships/research-fellowship-competition/index.html)
 * 26.02.2025 Fellowships at the Centre for East European and International Studies (ZOiS). Deadline 26.03.2025. [Link.](https://www.zois-berlin.de/ueber-uns/stellenausschreibungen/bmbf/zois-fellowships-for-ukrainian-scholars)
 * 12.12.2024 PhD program by Competence Network Interdisciplinary Ukrainian Studies, Frankfurt (Oder). [Link.](https://www.kiu.europa-uni.de/en/programs/kiuphdprogram/index.html)
 * 06.12.2024 University of Regensburg offers multiple scholarships. Deadline 31.12.2024. [Link.](https://www.uni-regensburg.de/denkraum-ukraine/stipendien/index.html)
