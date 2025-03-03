@@ -202,6 +202,7 @@ ERA4Ukraine [https://www.euraxess.at/ukraine](https://www.euraxess.at/ukraine)
 
 **Funding programmes**
 
+* 03.03.2025 The Institute for Human Sciences (IWM) and the Institute of International Studies (IMS), Charles University in Prague announce a joint fellowship. Deadline 15.03.2025. [Link.](https://www.iwm.at/iwm-ims-fellowship)
 * 24.07.2024 The Institute for Human Sciences (IWM) announces Documenting Ukraine grants (one-time 5000 euro). Deadline 19.08.2024. [Link.](https://www.iwm.at/documenting-ukraine/apply)
 * 21.12.2023 The Institute for Human Sciences (IWM) announces [Junior Visiting Fellowship](https://www.iwm.at/program/ukraine-in-european-dialogue-junior-fellowship). Deadline 28.01.2024.
 *  02.09.2023 The Institute for Human Sciences (IWM) announces Documenting Ukraine grants (one-time 5000 euro). Deadline 29.09.2023. [https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants](https://www.iwm.at/news/applications-now-open-for-documenting-ukraine-grants)
