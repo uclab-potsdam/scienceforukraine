@@ -332,6 +332,7 @@ Finland's support to students and researchers who have fled the war in Ukraine
 [https://www.studyinfinland.fi/ukraine](https://www.studyinfinland.fi/ukraine)
 
 **Funding programmes**
+* 20.03.2025  University of Turku INVEST Research Flaghsip Centre has opened a call for grant applications on sociology, psychology, social policy, child psychiatry, social work, statistics, economics and/or epidemiology. Deadline 31.03.2025. [Link.](https://invest.utu.fi/news/9637/)
 * 31.08.2024 The Research Council of Finland calls for inviting researchers from Ukraine to Finland. Deadline 25.09.2024. [Link.](https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/for-researchers/call-for-inviting-researchers-from-ukraine-to-finland-2024/)
 *  04.08.2023 [Azure training for Ukrainians](https://theshortcut.org/services/programs/azure-training-ukrainians/).
 *  15.07.2023 [New Call of Academy of Finland](https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/for-researchers/call-for-inviting-researchers-from-ukraine-to-finland-autumn-2023/) for inviting researchers from Ukraine. Deadline 20.09.2023.
