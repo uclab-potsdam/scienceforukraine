@@ -24,7 +24,7 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 ## Awardees of MTG2025 ##
 
-▪️  Coming soon
+▪️  **January 2025**: **Yuliia Korobova**, Sumy State University
 
 <br>
 
@@ -49,6 +49,8 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 ▪️  **November 2024**: **Nataliia Letunovska**, Sumy State University
 
 ▪️  **December 2024**: **Yuliia Korobova**, Sumy State University
+
+
 
 
 <br>
