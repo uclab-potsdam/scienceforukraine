@@ -672,7 +672,8 @@ ERA4Ukraine [https://www.euraxess.pl/ukraine](https://www.euraxess.pl/ukraine)
 **Funding programmes and academic support**
 
 
-*  03.08.2023 International Multilateral Partnerships for Resilient Education and Science System in Ukraine (IMPRESS-U). [Link.](https://www.ncn.gov.pl/en/ogloszenia/konkursy/impress-u)
+* 14.04.2025 The Foundation for Polish Science launches the fifth call for applications in the FOR UKRAINE programme. Deadline 02.06.2025. [Link.](https://www.fnp.org.pl/en/rusza-piaty-konkurs-w-programie-dla-ukrainy/)
+* 03.08.2023 International Multilateral Partnerships for Resilient Education and Science System in Ukraine (IMPRESS-U). [Link.](https://www.ncn.gov.pl/en/ogloszenia/konkursy/impress-u)
 *  02.08.2023 Centrum Mieroszewskiego offers stipends to study Polish-Ukrainian-EU relationships. Deadline 20.08.2023. [Link.](https://mieroszewski.pl/stypendia/naukowe/badaj-na-ukrainie/2023/zglos-sie)
 *  17.03.2023 Warsaw University offers mentoring/coaching support for non-academic Ukrainian refugees, [https://ua.wne.uw.edu.pl/uk/pro-diyalnist/](https://ua.wne.uw.edu.pl/uk/pro-diyalnist/)
 *   22.02.2023 Foundation for Polish Science (FNP) announces new funding. Deadline 4.04.2023. [https://www.fnp.org.pl/en/oferta/for-ukraine/](https://www.fnp.org.pl/en/oferta/for-ukraine/) 
