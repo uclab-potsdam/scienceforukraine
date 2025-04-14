@@ -659,6 +659,7 @@ ERA4Ukraine [https://www.euraxess.no/ukraine](https://www.euraxess.no/ukraine)
 
 **Funding programmes**
 
+*   14.04.2025 Ukrainett+ will announce seed funding twice a year in the period 2024–2026. Next deadline 01.05.2025. [Link.](https://www.uib.no/en/fia/170245/seed-funding-project-development-and-research-cooperation-aimed-ukraine-related-research)
 *   The University of Oslo’s Scholars at Risk (SAR)  
     [https://www.uio.no/english/about/global/globally-engaged/scholarsatrisk/ukrainian-researchers](https://www.uio.no/english/about/global/globally-engaged/scholarsatrisk/ukrainian-researchers)
 
