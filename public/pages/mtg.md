@@ -26,6 +26,9 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 ▪️  **January 2025**: **Tetiana Miziuk**, Ivano-Frankivsk National Medical University
 
+▪️  **February 2025**: **Mytsak Lesia**, Ivano-Frankivsk National Medical University
+
+
 <br>
 
 ## Awardees of MTG2024
