@@ -28,6 +28,7 @@ Please inform us about funding and support programmes that are not listed below 
 
 **Funding and support programmes for researchers and students**
 
+* 17.05.2025 Maria Sklodowska-Curie Actions (MSCA4Ukraine) [new call](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2025-MSCA4UA-01-01). Deadline 16.09.2025.
 * 12.01.2025 Service for organizing research equipment donations for Ukraine. [Link](https://rilogistica.eu/guidelines-ilo/).
 * 29.10.2024  60 fully-funded fellowships (up to 24 months) for doctoral and postdoctoral researchers at risk to work at a research institution in the EU. [Link.](https://saferesearchers.eu/)
 * 04.07.2024 From August 20 to 22, 2024, DCN Global will inaugurate its new hub for Ukrainian refugees. [Link.](https://dcnglobal.net/forums/forum/digital-ukraine-influence-redefined)
