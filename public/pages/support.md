@@ -396,6 +396,7 @@ ERA4Ukraine [https://www.euraxess.de/ukraine](https://www.euraxess.de/ukraine)
 
 **Funding programmes**
 
+* 21.07.2025 MAXMINDS (Max Planck Society's Mentoring Initiative for Inclusion and Diversity in Science) 2.0 supports scholars in acute danger of displacement by war or were recently displaced by war or natural disasters. Deadline 15.09.2025. [Link.](https://www.maxminds.mpg.de/3630/apply)
 * 03.03.2025 Nonresidential fellowships at the European University Viadrina. Deadline 31.03.2025. [Link.](https://www.kiu.europa-uni.de/en/fellowships/research-fellowship-competition/index.html)
 * 26.02.2025 Fellowships at the Centre for East European and International Studies (ZOiS). Deadline 26.03.2025. [Link.](https://www.zois-berlin.de/ueber-uns/stellenausschreibungen/bmbf/zois-fellowships-for-ukrainian-scholars)
 * 12.12.2024 PhD program by Competence Network Interdisciplinary Ukrainian Studies, Frankfurt (Oder). [Link.](https://www.kiu.europa-uni.de/en/programs/kiuphdprogram/index.html)
