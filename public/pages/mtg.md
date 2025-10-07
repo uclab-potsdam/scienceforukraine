@@ -1,5 +1,22 @@
 # #ScienceForUkraine Micro Travel Grant Programme
 
+* * * 
+
+🔴 MTG Programme temporarily suspended
+
+Since May 2025, the #ScienceForUkraine Micro Travel Grant Programme has been temporarily suspended due to technical issues and ongoing reorganization.
+
+The programme is expected to resume once these internal processes are completed.
+
+For any questions or further information, please contact us at:
+📧 info@scienceforukraine.eu
+
+We sincerely appreciate your understanding and patience.
+
+— #ScienceForUkraine Team
+
+*  * * 
+
 #ScienceForUkraine steps in when we see that something crucial is lacking in support available for Ukrainian scientists. Currently, as much as possible, it is essential to strengthen the presence of Ukrainian scientists in the international scientific arena.
 
 To enhance the opportunities for Ukrainian scientists to participate in academic trips abroad, in 2024 we are launching launch the **#ScienceForUkraine Micro Travel Grant Programme**. This program will provide up to 500 euros per grant, helping to cover travel, accommodation, and participation fees for scientists affiliated with Ukrainian universities. **Would you also like to support Ukrainian scholars in fostering their international collaboration? Contribute to our fundraising campaign via [bank transfer](https://scienceforukraine.eu/donate)!** Every contribution to this program is highly needed and appreciated!
@@ -15,8 +32,8 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 <br>
 
-
- **➡️  [Application Form for #ScienceForUkraine Micro Travel Grants](https://docs.google.com/forms/d/e/1FAIpQLSeoPsFO4nT1l07PLet79qcShU5de2mt8gF5oFPEYj8KMJfKsQ/viewform)**
+<!-- 
+ **➡️  [Application Form for #ScienceForUkraine Micro Travel Grants](https://docs.google.com/forms/d/e/1FAIpQLSeoPsFO4nT1l07PLet79qcShU5de2mt8gF5oFPEYj8KMJfKsQ/viewform)** -->
 
 <br>
 
