@@ -2,20 +2,20 @@
 
 * * * 
 
-🔴 MTG Programme temporarily suspended
+## 🔴 MTG Programme temporarily suspended
 
 Since May 2025, the #ScienceForUkraine Micro Travel Grant Programme has been temporarily suspended due to technical issues and ongoing reorganization.
 
 The programme is expected to resume once these internal processes are completed.
 
-For any questions or further information, please contact us at:
-📧 info@scienceforukraine.eu
+For any questions or further information, please contact us at: info@scienceforukraine.eu
 
 We sincerely appreciate your understanding and patience.
 
-— #ScienceForUkraine Team
+#ScienceForUkraine Team
 
-*  * * 
+* * * 
+
 
 #ScienceForUkraine steps in when we see that something crucial is lacking in support available for Ukrainian scientists. Currently, as much as possible, it is essential to strengthen the presence of Ukrainian scientists in the international scientific arena.
 
