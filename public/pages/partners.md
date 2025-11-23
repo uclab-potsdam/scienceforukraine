@@ -74,6 +74,10 @@ Our academic partners include:
 
 *   [Polish Young Academy - Polish Academy of Sciences](https://amu.pan.pl/en/)
 
+## Spain
+
+*   [BETA Technological Centre]([https://amu.pan.pl/en/](https://betatechcenter.com/))
+
 ## Netherlands
 
 *   [Dutch Society for Clinical Pharmacology & Biopharmacy (NVKFB)](https://nvkfb.nl/2022/03/27/scienceforukraine/)
