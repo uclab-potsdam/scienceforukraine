@@ -76,7 +76,7 @@ Our academic partners include:
 
 ## Spain
 
-*   [BETA Technological Centre]([https://amu.pan.pl/en/](https://betatechcenter.com/))
+*   [BETA Technological Centre](https://betatechcenter.com/)
 
 ## Netherlands
 
