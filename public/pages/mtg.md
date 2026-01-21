@@ -2,9 +2,20 @@
 
 * * * 
 
-## 🔴 MTG Programme temporarily suspended
+## ‼️ MTG Programme will be reopened on February 2, 2026!
 
-Since May 2025, the #ScienceForUkraine Micro Travel Grant Programme has been temporarily suspended due to technical issues and ongoing reorganization.
+The MTG 2026 programme has been renewed with a focus on supporting early-career scholars based in Ukraine.
+
+Follow the information on our social media!
+
+- [@ScienceForUkraine on LinkedIn](https://www.linkedin.com/company/scienceforukraine/)
+- [@ScienceForUkraine on Facebook](https://www.facebook.com/ScienceForUkraine)
+- [@Sci_for_Ukraine on X (Twitter)](https://x.com/Sci_for_Ukraine)
+
+
+For any questions or further information, please contact us at: info@scienceforukraine.eu
+
+<!--- Since May 2025, the #ScienceForUkraine Micro Travel Grant Programme has been temporarily suspended due to technical issues and ongoing reorganization.
 
 The programme is expected to resume once these internal processes are completed.
 
@@ -32,8 +43,7 @@ MTGs are intended to support eligible Ukrainian scientists in participating in i
 
 <br>
 
-<!-- 
- **➡️  [Application Form for #ScienceForUkraine Micro Travel Grants](https://docs.google.com/forms/d/e/1FAIpQLSeoPsFO4nT1l07PLet79qcShU5de2mt8gF5oFPEYj8KMJfKsQ/viewform)** -->
+ **➡️  [Application Form for #ScienceForUkraine Micro Travel Grants](https://docs.google.com/forms/d/e/1FAIpQLSeoPsFO4nT1l07PLet79qcShU5de2mt8gF5oFPEYj8KMJfKsQ/viewform)** 
 
 <br>
 
@@ -228,4 +238,4 @@ In case of any questions, please address them to *Science for Ukraine* via the f
 *1. Can an MTG be used to reimburse a registration fee for an offline event?*
   
 No, only travel costs are eligible for reimbursement for offline (in-person) events.
- 
+ --->
