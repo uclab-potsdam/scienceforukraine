@@ -2,22 +2,35 @@
 
 * * * 
 
-## ‼️ MTG Programme will be reopened on February 2, 2026!
+## MTG 2026 – Key Information
 
-The MTG 2026 programme has been renewed with a focus on supporting early-career scholars based in Ukraine.
+The MTG 2026 programme has been reopened since **February 2, 2026** and renewed with a focus on supporting **early-career scholars based in Ukraine**.
 
-Follow the information on our social media!
+### Useful documents
+📅 **Timeline – 1st round 2026**  
+  [Download timeline (PNG)](https://raw.githubusercontent.com/uclab-potsdam/scienceforukraine/refs/heads/main/public/media/MTG-timeline-2026-1.png)
+
+✅ **Eligibility checklist**  
+  [Download eligibility checklist (PDF)](https://drive.google.com/file/d/13H0EPrpShsYyeELEzg3G5loGxST6rzmD/view?usp=sharing)
+
+📌 **MTG 2026 Programme Poster**  
+  [View poster (PNG)](https://raw.githubusercontent.com/uclab-potsdam/scienceforukraine/refs/heads/main/public/media/scienceforukraine-MTG.png)
+
+  
+### Stay informed
+Follow updates and announcements on our social media channels:
 
 - [@ScienceForUkraine on LinkedIn](https://www.linkedin.com/company/scienceforukraine/)
 - [@ScienceForUkraine on Facebook](https://www.facebook.com/ScienceForUkraine)
 - [@Sci_for_Ukraine on X (Twitter)](https://x.com/Sci_for_Ukraine)
 
+For any questions or further information, please contact us at:  
+📧 **info@scienceforukraine.eu**
 
-For any questions or further information, please contact us at: info@scienceforukraine.eu
-
-<!--
 
 ## Rules and Procedures
+
+[![Download PDF](https://img.shields.io/badge/Download-PDF-blue)](https://drive.google.com/file/d/1AoPrunyFWGzjknqrCsKT-oAJwEpx4GAb/view?usp=sharing)
 
 ---
 
@@ -147,7 +160,7 @@ Awardees must attend the event **in person** and acknowledge Science for Ukraine
 
 - Travel (economy class)
 - Accommodation
-- Conference registration fees
+- Conference registration fee
 
 ---
 
@@ -156,7 +169,7 @@ Awardees must attend the event **in person** and acknowledge Science for Ukraine
 - Travel tickets and boarding passes
 - Accommodation invoice
 - Registration invoice
-- Proof of payment (e.g. bank confirmation or transaction record)
+- Proof of payment (e.g., bank confirmation or transaction record)
 - Official confirmation of attendance from organisers (no self-declarations)
 - Short news item (max. **500 words**) + two photos (optional)
 
