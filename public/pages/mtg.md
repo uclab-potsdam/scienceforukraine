@@ -63,7 +63,7 @@ Applicants must meet **all** of the following conditions:
 - be able to **cover costs upfront** and request reimbursement afterwards;
 - provide a valid **ORCID iD**.
 
----
+
 
 ### 2.2 Additional eligibility rules
 
@@ -102,7 +102,7 @@ Applicants must provide:
 - a motivation statement in English (maximum **1,000 characters**), completed directly in the online form;
 - proof of Ukrainian affiliation.
 
----
+
 
 ### 4.2 Evaluation and selection
 
@@ -162,7 +162,7 @@ Awardees must attend the event **in person** and acknowledge Science for Ukraine
 - Accommodation
 - Conference registration fee
 
----
+
 
 ### 7.2 Required documents
 
@@ -173,7 +173,7 @@ Awardees must attend the event **in person** and acknowledge Science for Ukraine
 - Official confirmation of attendance from organisers (no self-declarations)
 - Short news item (max. **500 words**) + two photos (optional)
 
----
+
 
 ### 7.3 Submission and payment
 
@@ -258,20 +258,20 @@ Science for Ukraine processes personal data solely for administering, evaluating
 
 No sensitive personal data (GDPR Article 9) is intentionally collected.
 
----
+
 
 ### Data access and storage
 
 - Access restricted to authorised Science for Ukraine members and reviewers.
 - Data stored securely and only as long as required by programme and legal obligations.
 
----
+
 
 ### Data sharing
 
 Personal data is not shared with third parties, except where required by law.
 
----
+
 
 ### Data subjects’ rights
 
@@ -279,7 +279,7 @@ Applicants and awardees may request access, correction, deletion (when legally p
 
 Contact: **info@scienceforukraine.eu**
 
----
+
 
 ### Data controller
 
