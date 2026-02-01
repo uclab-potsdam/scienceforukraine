@@ -6,6 +6,27 @@
 
 The MTG 2026 programme has been reopened since **February 2, 2026** and renewed with a focus on supporting **early-career scholars based in Ukraine**.
 
+
+## Rules and application
+
+### 📄 Rules and Procedures
+
+Please read the official **Rules and Procedures** carefully before applying.  
+The full text of the Rules is also provided **below on this page** for reference.
+
+[![Download Rules and Procedures (PDF)](https://img.shields.io/badge/Download-PDF-blue)](https://drive.google.com/file/d/1AoPrunyFWGzjknqrCsKT-oAJwEpx4GAb/view?usp=sharing)
+
+---
+
+### 📝 Application form
+
+Once you have read the Rules and prepared all required documents, submit your application via the official online form:
+
+👉 **[Apply for MTG 2026](https://forms.gle/watKHSZzeMYjLZZ2A)**
+
+
+---
+
 ### Useful documents
 📅 **Timeline – 1st round 2026**  
   [Download timeline (PNG)](https://raw.githubusercontent.com/uclab-potsdam/scienceforukraine/refs/heads/main/public/media/MTG-timeline-2026-1.png)
@@ -27,6 +48,7 @@ Follow updates and announcements on our social media channels:
 For any questions or further information, please contact us at:  
 📧 **info@scienceforukraine.eu**
 
+<br>
 
 ## Rules and Procedures
 
@@ -90,7 +112,7 @@ MTG does **not** cover:
 
 ### 4.1 Submission
 
-Applications must be submitted via the **online form**.
+Applications must be submitted via the **[online form](https://forms.gle/watKHSZzeMYjLZZ2A)**.
 
 Applications are eligible only for events that take place **no earlier than 30 days after the submission deadline**.
 
