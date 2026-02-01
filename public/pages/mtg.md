@@ -37,6 +37,8 @@ Once you have read the Rules and prepared all required documents, submit your ap
 📌 **MTG 2026 Programme Poster**  
   [View poster (PNG)](https://raw.githubusercontent.com/uclab-potsdam/scienceforukraine/refs/heads/main/public/media/scienceforukraine-MTG.png)
 
+
+---
   
 ### Stay informed
 Follow updates and announcements on our social media channels:
@@ -50,11 +52,13 @@ For any questions or further information, please contact us at:
 
 <br>
 
+---
+
 ## Rules and Procedures
 
 [![Download PDF](https://img.shields.io/badge/Download-PDF-blue)](https://drive.google.com/file/d/1AoPrunyFWGzjknqrCsKT-oAJwEpx4GAb/view?usp=sharing)
 
----
+
 
 ## 1. Goals and Scope
 
