@@ -46,6 +46,8 @@ Follow updates and announcements on our social media channels:
 - [@ScienceForUkraine on LinkedIn](https://www.linkedin.com/company/scienceforukraine/)
 - [@ScienceForUkraine on Facebook](https://www.facebook.com/ScienceForUkraine)
 - [@Sci_for_Ukraine on X (Twitter)](https://x.com/Sci_for_Ukraine)
+- [@ScienceForUkraine on Telegram](https://t.me/s/ScienceForUkraine)
+- [@scienceforukraine on Instagram](https://www.instagram.com/scienceforukraine)
 
 For any questions or further information, please contact us at:  
 📧 **info@scienceforukraine.eu**
