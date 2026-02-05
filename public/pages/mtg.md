@@ -65,7 +65,8 @@ For any questions or further information, please contact us at:
 
 ## Rules and Procedures
 
-[![Download PDF](https://drive.google.com/file/d/1QFN5tH_E7kcyzTMfP38OGXlCeOFpMgF_/view?usp=sharing)
+[![Download Rules and Procedures (PDF)](https://img.shields.io/badge/Download-PDF-blue)](https://drive.google.com/file/d/1QFN5tH_E7kcyzTMfP38OGXlCeOFpMgF_/view?usp=sharing)
+
 
 
 
