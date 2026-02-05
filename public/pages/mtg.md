@@ -6,6 +6,13 @@
 
 The MTG 2026 programme has been reopened since **February 2, 2026** and renewed with a focus on supporting **early-career scholars based in Ukraine**.
 
+<br>
+
+‼️ Eligibility rules updated as of February 5, 2026
+
+<br>
+
+<br>
 
 ## Rules and application
 
@@ -14,7 +21,7 @@ The MTG 2026 programme has been reopened since **February 2, 2026** and renewed 
 Please read the official **Rules and Procedures** carefully before applying.  
 The full text of the Rules is also provided **below on this page** for reference.
 
-[![Download Rules and Procedures (PDF)](https://img.shields.io/badge/Download-PDF-blue)](https://drive.google.com/file/d/1Q5WbvBinse99LJqe970aasJ4DszLaBdG/view?usp=sharing)
+[![Download Rules and Procedures (PDF)](https://img.shields.io/badge/Download-PDF-blue)](https://drive.google.com/file/d/1QFN5tH_E7kcyzTMfP38OGXlCeOFpMgF_/view?usp=sharing)
 
 ---
 
@@ -32,7 +39,7 @@ Once you have read the Rules and prepared all required documents, submit your ap
   [Download timeline (PNG)](https://raw.githubusercontent.com/uclab-potsdam/scienceforukraine/refs/heads/main/public/media/MTG-timeline-2026-1.png)
 
 ✅ **Eligibility checklist**  
-  [Download eligibility checklist (PDF)](https://drive.google.com/file/d/1z3N-I8bRRoHUclJgT0Rg2GHfGdnToZgk/view?usp=sharing)
+  [Download eligibility checklist (PDF)](https://drive.google.com/file/d/1Ntjidx824ASowbaDwwSUUIlTZPDMzXK6/view?usp=sharing)
 
 📌 **MTG 2026 Programme Poster**  
   [View poster (PNG)](https://raw.githubusercontent.com/uclab-potsdam/scienceforukraine/refs/heads/main/public/media/scienceforukraine-MTG.png)
@@ -58,7 +65,7 @@ For any questions or further information, please contact us at:
 
 ## Rules and Procedures
 
-[![Download PDF](https://drive.google.com/file/d/1Q5WbvBinse99LJqe970aasJ4DszLaBdG/view?usp=sharing)
+[![Download PDF](https://drive.google.com/file/d/1QFN5tH_E7kcyzTMfP38OGXlCeOFpMgF_/view?usp=sharing)
 
 
 
@@ -77,8 +84,8 @@ MTG reimburses eligible costs up to **EUR 500**.
 Applicants must meet **all** of the following conditions:
 
 - be a **young scholar**, defined as:
-  - a currently enrolled PhD or doctoral student, or
-  - a researcher within **5 years** of obtaining their doctor of science (PhD or equivalent);
+  - a currently enrolled PhD student, or
+  - a researcher with a PhD or Doctor of Science degree, who is 35 years old or younger;
 - be actively involved in research;
 - be affiliated (paid or unpaid) with an eligible Ukrainian organisation, including:
   - Ukrainian universities,
