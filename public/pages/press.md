@@ -44,6 +44,7 @@ and research institutions** \
     
 
 ## #ScienceForUkraine in the News (selection)
+- Maria Bolevich: [The Study: Supporting Ukrainian Scientists](https://unknownfocus.com/the-study-supporting-ukrainian-scientists/), 11 February 2026, **Unknown Focus**
 - Oscar Allan: [The grassroots organizations continuing the fight for Ukrainian science](https://www.nature.com/articles/d41586-024-02957-7), 11 September 2024, **Nature Career Feature**
 - ['Science for Ukraine' initiative gathers momentum](https://eng.lsm.lv/article/society/education/07.12.2023-science-for-ukraine-initiative-gathers-momentum.a534369/), 7 December 2023, **LSM** (Public broadcasting of Latvia)
 - Sarah Kleiner (in German): [Ukrainische Forschende: "Kein Umfeld, um junge Menschen zu bilden"](https://www.derstandard.at/story/3000000197375/ukrainische-forschende-kein-umfeld-um-junge-menschen-zu-bilden?ref=rss), 3 December 2023, **Der Standard**
