@@ -32,7 +32,7 @@ Once you have read the Rules and prepared all required documents, submit your ap
 
 ### Useful documents
 📅 **Timeline – 2nd round 2026**  
-  [Download timeline (PNG)](https://github.com/uclab-potsdam/scienceforukraine/blob/main/public/media/MTG-timeline-2026-2.png)
+  [Download timeline (PNG)](https://scienceforukraine.eu/media/MTG-timeline-2026-2.png)
 
 ✅ **Eligibility checklist**  
   [Download eligibility checklist (PDF)](https://drive.google.com/file/d/1Ntjidx824ASowbaDwwSUUIlTZPDMzXK6/view?usp=sharing)
