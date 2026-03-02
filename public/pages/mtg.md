@@ -8,10 +8,6 @@ The MTG 2026 programme has been reopened since **February 2, 2026** and renewed 
 
 <br>
 
-‼️ Eligibility rules updated as of February 5, 2026
-
-<br>
-
 <br>
 
 ## Rules and application
@@ -35,8 +31,8 @@ Once you have read the Rules and prepared all required documents, submit your ap
 ---
 
 ### Useful documents
-📅 **Timeline – 1st round 2026**  
-  [Download timeline (PNG)](https://raw.githubusercontent.com/uclab-potsdam/scienceforukraine/refs/heads/main/public/media/MTG-timeline-2026-1.png)
+📅 **Timeline – 2nd round 2026**  
+  [Download timeline (PNG)](https://github.com/uclab-potsdam/scienceforukraine/blob/main/public/media/MTG-timeline-2026-2.png)
 
 ✅ **Eligibility checklist**  
   [Download eligibility checklist (PDF)](https://drive.google.com/file/d/1Ntjidx824ASowbaDwwSUUIlTZPDMzXK6/view?usp=sharing)
