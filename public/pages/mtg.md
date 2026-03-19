@@ -274,6 +274,22 @@ Awardees must attend the event **in person** and acknowledge Science for Ukraine
 13. **Can my application be reconsidered if not selected?**  
     Yes, eligible applications may be carried forward to the next month.
 
+14. **How can I prove my affiliation with a Ukrainian institution?**
+
+    You must provide an official document confirming your affiliation with a Ukrainian organisation (e.g., university, research institute, archive, museum, or library).
+    
+Please ensure that:
+
+• The document is in English or Ukrainian
+• Student IDs are not accepted as proof of affiliation
+• The document is recent (issued within the last 3 months)
+• The scan or file is clear, complete, and readable
+• The document is authentic and unaltered
+
+Documents that are outdated, unclear, or appear to have been modified or manipulated (for example, with inconsistent formatting or visual elements) will not be considered.
+
+If in doubt, please contact us before submitting your application.
+
 ---
 
 ## Personal Data Protection
