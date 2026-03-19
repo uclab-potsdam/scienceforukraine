@@ -132,8 +132,7 @@ Applicants must provide:
 - ORCID iD;
 - proof of conference acceptance;
 - a motivation statement in English (maximum **1,000 characters**), completed directly in the online form;
-- proof of Ukrainian affiliation.
-
+- proof of Ukrainian affiliation (an official confirmation of your current position at the Ukrainian university/institute – department, position, work experience, stamp, signature).
 
 
 ### 4.2 Evaluation and selection
