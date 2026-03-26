@@ -59,7 +59,7 @@ For any questions or further information, please contact us at:
 
 ---
 
-**MTG2026 awardees**
+### MTG2026 awardees
 
 **Round 1** (February 2026): **Iryna Chechulina** (Department of Classical Archaeology, The Institute of Archaeology, National Academy of Science of Ukraine) to attend 32nd Annual Meeting of the European Association of Archaeologists.
 
