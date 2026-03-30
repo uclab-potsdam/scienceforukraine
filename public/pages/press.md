@@ -77,6 +77,14 @@ and research institutions** \
     - (in German) [»Ich dachte, ich hätte diesen Horror vergessen«](https://www.spektrum.de/news/krieg-in-der-ukraine-ich-dachte-ich-haette-diesen-horror-vergessen/1994932), 4 March 2022, **Spektrum der Wissenschaft**
 - Yvan Pandelé: [Meet the Latvian scholar rallying support for Ukrainian researchers](https://genevasolutions.news/science-tech/meet-the-latvian-scholar-rallying-support-for-ukrainian-researchers), 28 February 2022, **Geneva Solutions**
 
+<br>
+
+## UK #ScienceForUkraine newsletter
+
+- [January 2026](https://drive.google.com/file/d/193RR4Ij_w0nqiFaMZ-EuUrEQ9vXDkAq7/view?usp=sharing)
+
+<br>
+
 ## Press Materials
 
 ### Banners to promote on the web
