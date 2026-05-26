@@ -943,6 +943,7 @@ ERA4Ukraine [https://www.euraxess.org.uk/ukraine](https://www.euraxess.org.uk/uk
     Call for Proposals aimed to enable research institutions in São Paulo to host scientists at risk.
 ### Canada
 
+* 26.05.2026 Uniniversity of Toronto offers Petro Jacyk Non-Residential Scholars Program, deadline 05.06.2026, [Link](https://munkschool.utoronto.ca/petro-jacyk/non-residential-scholarships).
 * 14.11.2025 University of Waterloo invites applications for its fifth [Summer Internship Program for students at risk from Ukraine](https://uwaterloo.ca/engineering/summer-program-students-ukraine). Deadline 31.12.2025.
 * 04.05.2025 Petro Jacyk Non-Residential  [Scholars Program](https://munkschool.utoronto.ca/petro-jacyk/non-residential-scholarships). Deadline 01.06.2025. 
 * 04.10.2024 The University of Waterloo invites applications for its fourth [Summer Internship Program](https://uwaterloo.ca/engineering/summer-program-students-ukraine) for students at risk from Ukraine.
