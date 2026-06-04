@@ -61,7 +61,12 @@ For any questions or further information, please contact us at:
 
 ### MTG2026 awardees
 
-**Round 1** (February 2026): **Iryna Chechulina** (Department of Classical Archaeology, The Institute of Archaeology, National Academy of Science of Ukraine) to attend 32nd Annual Meeting of the European Association of Archaeologists.
+- **Round 1** (February 2026): **Iryna Chechulina** (Department of Classical Archaeology, The Institute of Archaeology, National Academy of Science of Ukraine) to attend the 32nd Annual Meeting of the European Association of Archaeologists.
+
+- **Round 2** (March 2026): **Marharyta Cherniakova** (Institute of Functional Materials Chemistry of the State Scientific Institution “Institute for Single Crystals” of National Academy of Sciences of Ukraine) to attend Supramol2026: XVII Italian Conference on Supramolecular Chemistry.
+
+- **Round 1** (April 2026): **Yaroslava Bukhonska** (V.P. Kukhar Institute of Bioorganic Chemistry and Petrochemistry of the National Academy of Sciences of Ukraine) to attend SymBioSE: 29th Symposium of Biology Students in Europe.
+
 
 ---
 
