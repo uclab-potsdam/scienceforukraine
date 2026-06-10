@@ -81,6 +81,7 @@ and research institutions** \
 
 ## UK #ScienceForUkraine newsletter
 
+- [June 2026](https://drive.google.com/file/d/1g7TWpvhji9JAp6kJrWavFHTHM0rJ1VWJ/view?usp=sharing)
 - [January 2026](https://drive.google.com/file/d/193RR4Ij_w0nqiFaMZ-EuUrEQ9vXDkAq7/view?usp=sharing)
 
 <br>
