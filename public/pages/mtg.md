@@ -31,7 +31,7 @@ Once you have read the Rules and prepared all required documents, submit your ap
 ---
 
 ### Useful documents
-📅 **Timeline – 2nd round 2026**  
+📅 **MTG timeline**  
   [Download timeline (PNG)](https://scienceforukraine.eu/media/micro_travel_grant_timeline.png)
 
 ✅ **Eligibility checklist**  
