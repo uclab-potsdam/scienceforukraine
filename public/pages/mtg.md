@@ -65,7 +65,9 @@ For any questions or further information, please contact us at:
 
 - **Round 2** (March 2026): **Marharyta Cherniakova** (Institute of Functional Materials Chemistry of the State Scientific Institution “Institute for Single Crystals” of National Academy of Sciences of Ukraine) to attend Supramol2026: XVII Italian Conference on Supramolecular Chemistry.
 
-- **Round 1** (April 2026): **Yaroslava Bukhonska** (V.P. Kukhar Institute of Bioorganic Chemistry and Petrochemistry of the National Academy of Sciences of Ukraine) to attend SymBioSE: 29th Symposium of Biology Students in Europe.
+- **Round 3** (April 2026): **Yaroslava Bukhonska** (V.P. Kukhar Institute of Bioorganic Chemistry and Petrochemistry of the National Academy of Sciences of Ukraine) to attend SymBioSE: 29th Symposium of Biology Students in Europe.
+
+- **Round 4** (May 2026): **Yaroslavna Kashyrina** (Frantsevich Institute for Problems of Materials Science, NAS of Ukraine) to attend the 31st international conference Applied Physics of Condensed Matter (APCOM 2026) in Štrbské Pleso, Slovakia.
 
 
 ---
