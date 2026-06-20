@@ -32,13 +32,13 @@ Once you have read the Rules and prepared all required documents, submit your ap
 
 ### Useful documents
 📅 **Timeline – 2nd round 2026**  
-  [Download timeline (PNG)](https://scienceforukraine.eu/media/MTG-timeline-2026-2.png)
+  [Download timeline (PNG)](https://scienceforukraine.eu/media/micro_travel_grant_timeline.png)
 
 ✅ **Eligibility checklist**  
   [Download eligibility checklist (PDF)](https://drive.google.com/file/d/1Ntjidx824ASowbaDwwSUUIlTZPDMzXK6/view?usp=sharing)
 
 📌 **MTG 2026 Programme Poster**  
-  [View poster (PNG)](https://raw.githubusercontent.com/uclab-potsdam/scienceforukraine/refs/heads/main/public/media/scienceforukraine-MTG.png)
+  [View poster (PNG)](https://scienceforukraine.eu/media/scienceforukraine-MTG.png)
 
 
 ---
