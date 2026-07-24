@@ -1,5 +1,7 @@
 # scienceforukraine
 
+**This reposistory served as location for the website scienceforukraine.eu until July 2026. It has been superseded by https://github.com/ul-dhc/scienceforukraine-website.**
+
 ## Project setup
 ```
 npm install
